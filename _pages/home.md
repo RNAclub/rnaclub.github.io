@@ -8,14 +8,11 @@ permalink: /
 
 <div class="col-md-8 wow animated fadeInLeft" data-wow-delay=".2s">
 <h4 class="small-title-b text-center mb-3">
-	We are a group of scientists interested in all things RNA. We promote new research from within our institution and beyond, for the advancement of RNA science and training.
-	We are located at the University of Oregon in Eugene, Oregon.
+	We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. We are located at the International Bioland, Guangzhou.
+
+	We are research groups at the [Guangzhou International Bioland](https://www.grmh-gdl.cn).
 </h4>
 </div>
-
-We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. We are located at the International Bioland, Guangzhou.
-
-We are a research group at the [Guangzhou Laboratory](https://www.grmh-gdl.cn).
 
 
 
