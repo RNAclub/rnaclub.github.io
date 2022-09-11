@@ -50,6 +50,17 @@ permalink: /
 </div>
 {% endif %}
 
+## Founders
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Zhichao Miao</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chichau_photo.jpg" class="img-responsive" width="33%" style="float: center" />
+  <p>fadsjkflasdjkfjashdfk;asd</p>
+  <p>dsajfklds;af;dsak;</p>
+  <p><em><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></em></p>
+ </div>
+</div>
 
 ## Funding
 
