@@ -60,6 +60,14 @@ permalink: /
   <p>dsajfklds;af;dsak;</p>
   <p><em><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></em></p>
  </div>
+ 
+ <div class="well">
+  <pubtit>Lin Huang</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LinHuang.jpg" class="img-responsive" width="33%" style="float: center" />
+  <p>fadsjkflasdjkfjashdfk;asd</p>
+  <p>dsajfklds;af;dsak;</p>
+  <p><em><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></em></p>
+ </div>
 </div>
 
 ## Funding
