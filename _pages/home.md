@@ -13,6 +13,7 @@ permalink: /
 	We are research groups at the [Guangzhou International Bioland](https://www.grmh-gdl.cn).
 </h4>
 
+## Recent seminars
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
