@@ -57,16 +57,16 @@ permalink: /
  <div class="well">
   <pubtit>Zhichao Miao</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chichau_photo.jpg" class="img-responsive" width="33%" style="float: center" />
-  <p>fadsjkflasdjkfjashdfk;asd</p>
-  <p>dsajfklds;af;dsak;</p>
+  <p>Zhichao Miao</p>
+  <p><i>Principal Investigator</i> at Guangzhou Laboratory</p>
   <p><em><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></em></p>
  </div>
  
  <div class="well">
   <pubtit>Lin Huang</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LinHuang.jpg" class="img-responsive" width="33%" style="float: center" />
-  <p>fadsjkflasdjkfjashdfk;asd</p>
-  <p>dsajfklds;af;dsak;</p>
+  <p>Lin Huang</p>
+  <p>Principal Investigator</i> at Sun Yat-sen University</p>
   <p><em><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></em></p>
  </div>
 </div>
