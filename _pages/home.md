@@ -66,7 +66,7 @@ permalink: /
   <pubtit>Lin Huang</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LinHuang.jpg" class="img-responsive" width="33%" style="float: center" />
   <p>Lin Huang</p>
-  <p>Principal Investigator</i> at Sun Yat-sen University</p>
+  <p><i>Principal Investigator</i> at Sun Yat-sen University</p>
   <p><em><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></em></p>
  </div>
 </div>
