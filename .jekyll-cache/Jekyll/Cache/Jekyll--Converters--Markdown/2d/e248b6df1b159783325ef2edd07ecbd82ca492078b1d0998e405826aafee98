@@ -1,4 +1,4 @@
-I"=<html lang="">
+I"�><html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -7,7 +7,7 @@
 </head>
 <body id="top">
 
-<div class="bgded overlay" style="background-image:url('http://localhost:4000/images/back.png');padding-top:30px"> 
+<div class="bgded overlay" style="background-image:url('http://localhost:4000/images/gzback.png');padding-top:30px"> 
   <!-- ################################################################################################ -->
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
@@ -55,14 +55,15 @@
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
-              <li><i class="fas fa-tag"></i> <a href="#">Category Name</a></li>
+              <li><i class="fas fa-user"></i> <a href="#">David M.J. Lilley/李大卫</a></li>
+              <li><i class="fas fa-tag"></i> <a href="#">School of Life Sciences, University of Dundee, United Kingdom
+d.m.j.lilley@dundee.ac.uk</a></li>
             </ul>
-            <h6 class="heading">Gravida integer tristique</h6>
-            <p>Dui vel odio proin magna ligula pellentesque eu tincidunt sed ornare tempor nisl in id dui vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More</a></footer>
+            <h6 class="heading" style="padding-top:10px">The extent of RNA catalysis – are there any limits?</h6>
+            <p style="padding-top:10px"> The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. [<a href="http://localhost:4000/docs/2022-08-19-David.html">&hellip;</a>]</p>
+            <footer><a href="http://localhost:4000/docs/2022-08-19-David.html">Read More..</a></footer>
           </div>
-          <time datetime="2045-04-06T08:15+00:00"><strong>06</strong> <em>Apr</em></time>
+          <time datetime="2022-08-19T08:15+00:00"><strong>19</strong> <em>Aug</em></time>
         </article>
       </li>
       <li class="one_half">
@@ -72,15 +73,15 @@
               <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
               <li><i class="fas fa-tag"></i> <a href="#">Category Name</a></li>
             </ul>
-            <h6 class="heading">Eleifend semper nisl sed</h6>
-            <p>Eget lorem in in felis in metus mollis blandit ut eu justo suspendisse semper sem sit amet ligula quisque eget felis eu tortor tristique pharetra praesent turpis pede varius sed [<a href="#">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px">Eleifend semper nisl sed</h6>
+            <p style="padding-top:10px">Eget lorem in in felis in metus mollis blandit ut eu justo suspendisse semper sem sit amet ligula quisque eget felis eu tortor tristique pharetra praesent turpis pede varius sed [<a href="#">&hellip;</a>]</p>
             <footer><a href="#">Read More</a></footer>
           </div>
           <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em></time>
         </article>
       </li>
     </ul>
-    <footer class="center"><a class="btn" href="#">View More</a></footer>
+    <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer>
   </section>
 </div>
 <!-- -->
@@ -171,15 +172,15 @@
       <h6 class="heading">Salon Founder</h6>
     </div>
     <article class="col-sm-6">
-    <img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" style="max-width: 24%;" />
-      <blockquote><font size="3">Proin sed sapien ut convallis lectus ac magna nulla mattis purus phasellus consectetuer fermentum augue integer vulputate lectus vitae lorem suspendisse potenti donec suscipit.</font></blockquote>
+    <a href="http://www.rnacentre.org/"><img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" style="max-width: 24%;" /></a>
+      <blockquote><font size="3">We are organising RNA-Puzzles, which is a community-wide blind assessment of RNA 3D structure prediction. We also work on AI-based RNA design and RNA virus related research.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Zhichao Miao</h6>
-      <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory</em></article>
+      <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory<br /> Professor at Guangzhou Medical University</em></article>
     <article class="col-sm-6">
     <img src="http://localhost:4000/images/teampic/LinHuang.jpg" style="max-width: 25%;" />
       <blockquote><font size="3">Pellentesque et ipsum mattis ipsum pellentesque pretium proin rutrum turpis non accumsan aliquet odio magna luctus neque in adipiscing mi odio ac felis sed mattis enim quis ipsum.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Lin Huang</h6>
-      <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
+      <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University<br />&nbsp;&nbsp; <br /></em></article>
     <article class="col-sm-6">
     <img src="http://localhost:4000/images/teampic/Jianhua_yang.png" style="max-width: 24%;" />
       <blockquote><font size="3">My research interests focus on the development and application of experimental and computational methods to discover novel classes of ncRNAs and their functions and mechanisms.</font></blockquote>
@@ -247,10 +248,10 @@
     <section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/David220819-1.png" alt="" /></a>
             <figcaption>
-              <h6 class="heading">Aliquam faucibus</h6>
-              <p>Ipsum eu ipsum donec ac orci sed lectus elementum fringilla nullam dictum nisi nec mauris phasellus ut lacus.</p>
+              <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
+              <p>Structure and mechanism of a methyl transferase ribozyme...</p>
             </figcaption>
           </figure>
         </li>
