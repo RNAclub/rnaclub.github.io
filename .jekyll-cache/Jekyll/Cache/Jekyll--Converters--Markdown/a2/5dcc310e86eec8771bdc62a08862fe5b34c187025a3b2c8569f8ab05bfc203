@@ -1,22 +1,13 @@
----
-title: "Guangzhou RNA club - Home"
-layout: homelay
-excerpt: "Guangzhou RNA club at Bioland"
-sitemap: false
-permalink: /
----
-
-
-<html lang="">
+I"=<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="{{ site.url }}{{ site.baseurl }}/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="http://localhost:4000/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body id="top">
 
-<div class="bgded overlay" style="background-image:url('{{ site.url }}{{ site.baseurl }}/images/gz.png');padding-top:30px"> 
+<div class="bgded overlay" style="background-image:url('http://localhost:4000/images/guangzhou.jpg');padding-top:30px"> 
   <!-- ################################################################################################ -->
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
@@ -43,8 +34,8 @@ permalink: /
     <!-- ################################################################################################ -->
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
-      <h3 class="heading" ><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training.Guangzhou RNA club (Seminars & Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <h3 class="heading"><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
+      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training.Guangzhou RNA club (Seminars &amp; Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY.</p>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -180,22 +171,22 @@ permalink: /
       <h6 class="heading">Salon Founder</h6>
     </div>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chichau_photo.jpg" style="max-width: 24%;">
+    <img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" style="max-width: 24%;" />
       <blockquote><font size="3">Proin sed sapien ut convallis lectus ac magna nulla mattis purus phasellus consectetuer fermentum augue integer vulputate lectus vitae lorem suspendisse potenti donec suscipit.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Zhichao Miao</h6>
       <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory</em></article>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LinHuang.jpg" style="max-width: 25%;">
+    <img src="http://localhost:4000/images/teampic/LinHuang.jpg" style="max-width: 25%;" />
       <blockquote><font size="3">Pellentesque et ipsum mattis ipsum pellentesque pretium proin rutrum turpis non accumsan aliquet odio magna luctus neque in adipiscing mi odio ac felis sed mattis enim quis ipsum.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Lin Huang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jianhua_yang.png" style="max-width: 24%;">
+    <img src="http://localhost:4000/images/teampic/Jianhua_yang.png" style="max-width: 24%;" />
       <blockquote><font size="3">My research interests focus on the development and application of experimental and computational methods to discover novel classes of ncRNAs and their functions and mechanisms.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Jianhua Yang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
     <article class="col-sm-6">  
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jinkai_wang.png" style="max-width: 25%;">
+    <img src="http://localhost:4000/images/teampic/Jinkai_wang.png" style="max-width: 25%;" />
       <blockquote><font size="3">Proin sed sapien ut convallis lectus ac magna nulla mattis purus phasellus consectetuer fermentum augue integer vulputate lectus vitae lorem suspendisse potenti donec suscipit.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Jinkai Wang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
@@ -256,7 +247,7 @@ permalink: /
     <section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
             <figcaption>
               <h6 class="heading">Aliquam faucibus</h6>
               <p>Ipsum eu ipsum donec ac orci sed lectus elementum fringilla nullam dictum nisi nec mauris phasellus ut lacus.</p>
@@ -264,7 +255,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
             <figcaption>
               <h6 class="heading">Volutpat sed quis</h6>
               <p>Vel nisi semper adipiscing maecenas sodales elit cras porttitor diam aliquam turpis quisque rhoncus tincidunt.</p>
@@ -272,7 +263,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
             <figcaption>
               <h6 class="heading">Leo phasellus sit</h6>
               <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
@@ -280,7 +271,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
             <figcaption>
               <h6 class="heading">Amet lorem odio</h6>
               <p>Facilisis et mattis id consectetuer vel nunc donec sagittis purus sit amet est pellentesque elit dolor mattis.</p>
@@ -288,7 +279,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
             <figcaption>
               <h6 class="heading">Semper aliquam duis</h6>
               <p>Ac lobortis sed cursus at magna vivamus laoreet orci vel tortor in nisi in porttitor vulputate arcu integer.</p>
@@ -296,7 +287,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
             <figcaption>
               <h6 class="heading">Tempus mauris morbi</h6>
               <p>Pretium curabitur lacinia aenean eu lectus maecenas at urna morbi porta est a mi duis felis nunc lobortis ut.</p>
@@ -314,13 +305,4 @@ permalink: /
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
+:ET
