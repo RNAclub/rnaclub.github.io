@@ -1,15 +1,24 @@
-<img class="navbar-brand" src="{{ site.url }}{{ site.baseurl }}/images/header.png" style='height:600px;width:100%;margin-top:-14px;margin-bottom:0;padding:0;' alt="header">
+<!--<img class="navbar-brand" src="{{ site.url }}{{ site.baseurl }}/images/header.png" style='height:600px;width:100%;margin-top:-14px;margin-bottom:0;padding:0;' alt="header">-->
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <style>
         /* Modify the background color https://www.color-hex.com/color-palette/1011604 */
         .navbar {
-            background-color: #719B67;
+            background-color: #ffffff;
         }
-        .navbar .navbar-brand,
+        .navbar .navbar-brand {color: #719B67}
         .navbar .navbar-text .navbar-default{
             color: #ffffff;
-        }   
+        }
+		.navbar-default .navbar-nav > li > a {
+        color: #719B71;
+	    }   
+		.panel-footer {
+			padding: 10px 15px;
+			background-color: #ffffff;
+	    	border-top: 1px solid transparent;
+			border-bottom-left-radius: 3px;
+		}
   </style>
 
   <div class="container-fluid">
@@ -23,14 +32,15 @@
 	
     <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
 		
-		<img class="navbar-brand" src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;' alt="logo">
-		Guangzhou RNA club
+		<img class="navbar-brand" src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" style='height:50px;margin-top:-14px;margin-bottom:0;margin-left:10px;padding:0;' alt="logo">
+		&nbsp;&nbsp;Guangzhou RNA club
 	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
+		<li><a href="{{ site.url }}{{ site.baseurl }}/events">Events</a></li>
+		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>-->
 	  </ul>
 	</div>
   </div>

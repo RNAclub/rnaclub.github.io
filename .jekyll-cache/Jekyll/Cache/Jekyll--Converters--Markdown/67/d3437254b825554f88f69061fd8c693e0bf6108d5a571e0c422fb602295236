@@ -1,0 +1,89 @@
+I"�<p>We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training.
+Guangzhou RNA club (Seminars &amp; Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY. We are located at the International Bioland, Guangzhou.</p>
+
+<p>We are research groups at the <a href="https://www.grmh-gdl.cn">Guangzhou International Bioland</a>.</p>
+
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all" />
+
+<h2 id="recent-seminars">Recent seminars</h2>
+
+<div class="wrapper row3">
+  <section class="hoc container clear">
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- ################################################################################################ --&gt;
+&lt;div class="sectiontitle"&gt;
+  &lt;p class="nospace font-xs"&gt;Nisl sed blandit iaculis lectus&lt;/p&gt;
+  &lt;h6 class="heading"&gt;Nam et erat nec eros elementum&lt;/h6&gt;
+&lt;/div&gt;
+&lt;ul class="nospace group latest"&gt;
+  &lt;li class="one_half first"&gt;
+    &lt;article&gt;
+      &lt;div class="excerpt"&gt;
+        &lt;ul class="nospace meta"&gt;
+          &lt;li&gt;&lt;i class="fas fa-user"&gt;&lt;/i&gt; &lt;a href="#"&gt;Admin&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;i class="fas fa-tag"&gt;&lt;/i&gt; &lt;a href="#"&gt;Category Name&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h6 class="heading"&gt;Gravida integer tristique&lt;/h6&gt;
+        &lt;p&gt;Dui vel odio proin magna ligula pellentesque eu tincidunt sed ornare tempor nisl in id dui vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec [&lt;a href="#"&gt;&amp;hellip;&lt;/a&gt;]&lt;/p&gt;
+        &lt;footer&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/footer&gt;
+      &lt;/div&gt;
+      &lt;time datetime="2045-04-06T08:15+00:00"&gt;&lt;strong&gt;06&lt;/strong&gt; &lt;em&gt;Apr&lt;/em&gt;&lt;/time&gt;
+    &lt;/article&gt;
+  &lt;/li&gt;
+  &lt;li class="one_half"&gt;
+    &lt;article&gt;
+      &lt;div class="excerpt"&gt;
+        &lt;ul class="nospace meta"&gt;
+          &lt;li&gt;&lt;i class="fas fa-user"&gt;&lt;/i&gt; &lt;a href="#"&gt;Admin&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;i class="fas fa-tag"&gt;&lt;/i&gt; &lt;a href="#"&gt;Category Name&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h6 class="heading"&gt;Eleifend semper nisl sed&lt;/h6&gt;
+        &lt;p&gt;Eget lorem in in felis in metus mollis blandit ut eu justo suspendisse semper sem sit amet ligula quisque eget felis eu tortor tristique pharetra praesent turpis pede varius sed [&lt;a href="#"&gt;&amp;hellip;&lt;/a&gt;]&lt;/p&gt;
+        &lt;footer&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/footer&gt;
+      &lt;/div&gt;
+      &lt;time datetime="2045-04-05T08:15+00:00"&gt;&lt;strong&gt;05&lt;/strong&gt; &lt;em&gt;Apr&lt;/em&gt;&lt;/time&gt;
+    &lt;/article&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;footer class="center"&gt;&lt;a class="btn" href="#"&gt;View More&lt;/a&gt;&lt;/footer&gt;
+&lt;!-- ################################################################################################ --&gt;
+</code></pre></div>    </div>
+  </section>
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The extent of RNA catalysis – are there any limits?</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/seminar1.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. Known ribozymes in contemporary biology carry out a limited range of chemical catalysis, mostly involving phosphoryl transfer, but in vitro selection has generated species catalysing a broader range of chemistry. To gauge the feasibility of an RNA world it is useful to explore if ribozymes can exploit sophisticated catalytic strategies. A ribozyme has recently been selected that can catalyse a methyl transfer reaction using O6-methylguanine as donor. With Huang Lin’s lab have solved the crystal structure of this ribozyme at a resolution of 2.3 Å, showing how the RNA folds to generate a very specific binding site for the methyl donor substrate. The structure immediately suggests a catalytic mechanism, involving a combination of proximity and orientation, and nucleobase-mediated general acid catalysis. The mechanism is supported by the pH dependence of the rate of catalysis together with atomic mutagenesis and quantum mechanical calculation. This small chemical machine employs a relatively sophisticated catalytic mechanism, broadening the range of known RNA-catalysed chemistry. This lends new support to the RNA world hypothesis. Going still further, how could RNA overcome its relative chemical simplicity and expand its catalytic repertoire? The RNA world would have required a much broader range of RNA catalyzed chemistry, including “difficult” reactions like making C-C bonds. Modern protein enzymes achieve this by using co-enzymes, and perhaps RNA could do the same. RNA is a superb receptor for small molecules, as exemplified by the riboswitches. A significant number of these bind coenzymes, including SAM, TPP, NAD+ and FMN, and it’s not a big leap to imagine that the riboswitch might have evolved from an ancient ribozyme, or might be converted into a novel ribozyme.</p>
+      <p><b>David M. Lilley</b></p>
+      <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35637371/">Nat. Neurosci. 1–13 (2022).</a></strong></em></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<h2 id="founders">Founders</h2>
+
+<div class="col-sm-6 clearfix">
+  <div class="well">
+    <pubtit>Zhichao Miao</pubtit>
+    <p><img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" class="img-responsive" width="33%" style="float: center" /></p>
+    <p>Zhichao Miao</p>
+    <p><i>Principal Investigator</i> at Guangzhou Laboratory</p>
+    <p><em><strong><a href=""></a></strong></em></p>
+  </div>
+
+  <div class="well">
+    <pubtit>Lin Huang</pubtit>
+    <p><img src="http://localhost:4000/images/teampic/LinHuang.jpg" class="img-responsive" width="33%" style="float: center" /></p>
+    <p>Lin Huang</p>
+    <p><i>Principal Investigator</i> at Sun Yat-sen University</p>
+    <p><em><strong><a href=""></a></strong></em></p>
+  </div>
+</div>
+
+:ET

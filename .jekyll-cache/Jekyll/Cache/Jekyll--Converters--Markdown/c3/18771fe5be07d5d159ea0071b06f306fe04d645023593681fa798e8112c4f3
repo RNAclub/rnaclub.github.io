@@ -1,0 +1,157 @@
+I"è<html lang="">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="http://localhost:4000/css/timeline.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<style>
+  body {
+  background: #708090;
+  color: #ffffff;
+  font-family: arial, sans-serif;
+}
+.item {
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+  
+  .image {
+    padding: 1em 2em;
+    
+    > div {
+      position: relative;
+      text-align: center;
+      font-size: 0.8em;
+
+      &::after {
+        content: '';
+        width: 100%;
+        height: 0;
+        border-bottom: 1px solid #232b50;
+        position: absolute;
+        top: 2.75em;
+        left: 2.5em;
+        z-index: -1;
+      }
+    }
+    
+    img {
+      border-radius: 50%;
+      height: 5em;
+      border: 0.35em solid #5ed3bf;
+    }
+    span {
+      display: block;
+      clear: both;
+      padding: 0.25em 0;
+      margin: 0.5em 0;
+      background: #3b4262;
+    }
+  }
+  
+  .details {
+    position: relative;
+    flex-grow: 1;
+
+    > div {
+      border: 1px solid #232b50;
+      border-radius: 0.5em;
+      padding: 1.5em;
+      margin: 1em 0;
+      
+      h1 {
+        color: #5ed3bf;
+        font-size: 1.4em;
+        margin: 0;
+        padding: 0 0 0.5em 0;
+        letter-spacing: 0.1em;
+      }
+      
+      p {
+        margin: 0;
+        padding: 0;
+        line-height: 150%;
+      }
+    }
+
+    &::before {
+      content: '';
+      width: 0;
+      height: 100%;
+      border-left: 1px solid #232b50;
+      position: absolute;
+      top: 0;
+      left: -4.35em;
+      z-index: -1;
+    }
+    
+  } 
+}
+</style>
+
+<body>
+<div class="wrapper row2">
+  <section class="hoc container clear"> 
+
+  <div class="sectiontitle">
+      <p class="nospace font-xs">More way to join</p>
+      <h6 class="heading"> Salon Activaity Timeline</h6>
+    </div>
+  <div class="item">
+  <div class="image">
+    <div>
+      <img src="http://lorempixel.com/400/400/people/1/" />
+      <span>
+      09.12.2016
+      </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1>Phasellus pharetra</h1>
+      <p>Proin condimentum tempus ultrices. Suspendisse vestibulum suscipit erat, ac efficitur lorem. Nullam non ex vel turpis imperdiet maximus sit amet nec odio. Donec mauris nisl, vestibulum id efficitur at, convallis id dui. Sed enim nisl, ultrices vitae sodales eu, vestibulum a mi. Morbi consectetur pulvinar sagittis. Phasellus pharetra diam id leo gravida pharetra. In rutrum est gravida, maximus mi ac, mattis metus. Ut at tempus sem. Vivamus condimentum erat eget aliquet dignissim. </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <img src="http://lorempixel.com/400/400/people/3/" />
+      <span>
+      08.12.2016
+      </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1>Proin consectetur</h1>
+      <p>Quisque vestibulum iaculis felis eget varius. Morbi bibendum lectus felis, sed vehicula purus pellentesque eu. Maecenas sit amet libero vel nunc porta tincidunt fringilla nec mauris. Phasellus pharetra pharetra massa. Ut maximus purus eget libero dapibus, sit amet ultricies eros auctor. Nulla tristique dui nec libero rhoncus, et dictum odio lobortis. Proin consectetur nec sapien hendrerit lobortis. Proin mi odio, mollis ac ullamcorper in, pellentesque non nulla. In pretium purus at posuere efficitur. Donec eget cursus quam, in mollis libero. Mauris tempor volutpat sodales. Nulla in odio nec metus elementum ultricies sit amet vel dolor. Nunc non ligula at libero eleifend consectetur nec eu felis. Sed tristique vel ante eu pulvinar. Pellentesque elementum congue iaculis. Integer lorem sapien, vestibulum sed semper sed, dictum nec purus. Aenean porttitor interdum iaculis. </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <img src="http://lorempixel.com/400/400/people/8/" />
+      <span>
+      07.12.2016
+      </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1>Duis porta urna</h1>
+      <p>In nulla mi, ultrices et ullamcorper molestie, rhoncus at purus. Nulla et metus elementum, molestie lectus eget, pretium sapien. Duis dapibus libero id vehicula sodales. Curabitur augue tellus, lacinia ac turpis sit amet, facilisis finibus mauris. Mauris laoreet neque nisi, id hendrerit diam cursus ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis porta urna ligula, nec consequat libero congue quis. Nulla convallis enim sed dolor viverra, eget dapibus lorem ultricies. Nullam et neque vitae nulla faucibus sollicitudin eget sit amet justo.</p>
+    </div>
+  </div>
+</div>
+  
+  
+    
+  </section>
+</div>
+</body>
+</html>
+:ET
