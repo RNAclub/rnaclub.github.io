@@ -1,4 +1,4 @@
-I"º><html lang="">
+I"?<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -178,7 +178,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
       <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory<br /> Professor at Guangzhou Medical University</em></article>
     <article class="col-sm-6">
     <img src="http://localhost:4000/images/teampic/LinHuang.jpg" style="max-width: 25%;" />
-      <blockquote><font size="3">My lab is interested in the structure and function of nucleic acid aptamers, riboswitches, protein-nucleic acid interactions and catalytic activity in nucleic acids.</font></blockquote>
+      <blockquote><font size="3">My lab is interested in the structure and function of nucleic acid aptamers, riboswitches, protein-nucleic acid interactions and catalytic activity in nucleic acids.<br /><br /></font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Lin Huang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University<br />&nbsp;&nbsp; <br /></em></article>
     <article class="col-sm-6">
@@ -248,7 +248,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
     <section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/David220819-1.png" alt="" /></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
               <p>Structure and mechanism of a methyl transferase ribozyme...</p>
@@ -256,7 +256,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Volutpat sed quis</h6>
               <p>Vel nisi semper adipiscing maecenas sodales elit cras porttitor diam aliquam turpis quisque rhoncus tincidunt.</p>
@@ -264,7 +264,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Leo phasellus sit</h6>
               <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
@@ -272,7 +272,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Amet lorem odio</h6>
               <p>Facilisis et mattis id consectetuer vel nunc donec sagittis purus sit amet est pellentesque elit dolor mattis.</p>
@@ -280,7 +280,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Semper aliquam duis</h6>
               <p>Ac lobortis sed cursus at magna vivamus laoreet orci vel tortor in nisi in porttitor vulputate arcu integer.</p>
@@ -288,7 +288,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/erclogo.png" alt="" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Tempus mauris morbi</h6>
               <p>Pretium curabitur lacinia aenean eu lectus maecenas at urna morbi porta est a mi duis felis nunc lobortis ut.</p>
