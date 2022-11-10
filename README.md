@@ -2,12 +2,12 @@
 
 This is the website of Guangzhou RNA club.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training.Guangzhou RNA club (Seminars & Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY.
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+Please click the link to find more: https://rnaclub.github.io/ or rnaclub.rnacentre.org .
+
 
 Code released under the MIT License.
 
 
 
-bundle add webrick
