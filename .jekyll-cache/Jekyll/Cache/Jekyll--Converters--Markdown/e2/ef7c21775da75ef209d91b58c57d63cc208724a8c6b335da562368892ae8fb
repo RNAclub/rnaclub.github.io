@@ -1,4 +1,4 @@
-I"#?<html lang="">
+I"k?<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -17,7 +17,7 @@
     <div class="three_quarter">
       <ul class="nospace clear">
         <li class="one_third first">
-          <div class="block clear"><a href="#"><i class="fa fa-wechat"></i></a> <span><strong>Found more:</strong> wechat:Guangzhou RNA club</span></div>
+          <div class="block clear"><a href="#"><i class="fa fa-wechat"></i></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
         </li>
         <li class="one_third">
           <div class="block clear"><a href="#"><i class="fas fa-envelope"></i></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
@@ -49,6 +49,7 @@
     <div class="sectiontitle">
       <p class="nospace font-xs">Welcome to join!</p>
       <h6 class="heading">Latest Academic Events Calendar</h6>
+      
     </div>
     <ul class="nospace group latest">
       <li class="one_half first">
@@ -91,7 +92,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
       <p class="nospace font-xs">More way to join</p>
       <h6 class="heading"> Salon Activaity</h6>
     </div>
-  
+  <img src="http://localhost:4000/images/gzrna.png" style="max-width: 25%;" />
   
     
   </section>
