@@ -44,7 +44,7 @@ permalink: /
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
       <h3 class="heading" ><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training.Guangzhou RNA club (Seminars & Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars & Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -64,7 +64,7 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><i class="fas fa-user"></i> <a href="#">David M.J. Lilley/李大卫</a></li>
+              <li><i class="fas fa-user"></i> <a href="#">David M.J. Lilley/李大卫(英国皇家学院院士)</a></li>
               <li><i class="fas fa-tag"></i> <a href="#">School of Life Sciences, University of Dundee, United Kingdom
 d.m.j.lilley@dundee.ac.uk</a></li>
             </ul>
@@ -98,7 +98,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
   <section class="hoc container clear"> 
   <div class="sectiontitle">
       <p class="nospace font-xs">More way to join</p>
-      <h6 class="heading"> Salon Activaity</h6><br><br>
+      <h6 class="heading"> Salon Activities</h6><br><br>
       <img src="{{ site.url }}{{ site.baseurl }}/images/gzrna.png" style="max-width: 25%;">
     </div>
   
