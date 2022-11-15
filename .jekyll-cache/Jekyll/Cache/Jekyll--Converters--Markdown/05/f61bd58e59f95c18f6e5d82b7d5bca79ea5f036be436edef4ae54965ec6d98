@@ -1,4 +1,4 @@
-I"x?<html lang="">
+I"�E<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -17,13 +17,13 @@
     <div class="three_quarter">
       <ul class="nospace clear">
         <li class="one_third first">
-          <div class="block clear"><a href="#"><i class="fa fa-wechat"></i></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
+          <div class="block clear"><a href="#"><i class="fa fa-wechat" style="font-size:20px;"></i></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
         </li>
         <li class="one_third">
-          <div class="block clear"><a href="#"><i class="fas fa-envelope"></i></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
+          <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
         </li>
         <li class="one_third">
-          <div class="block clear"><a href="#"><i class="fas fa-clock"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
+          <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
         </li>
       </ul>
     </div>
@@ -35,7 +35,7 @@
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
       <h3 class="heading"><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training.Guangzhou RNA club (Seminars &amp; Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -55,7 +55,7 @@
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><i class="fas fa-user"></i> <a href="#">David M.J. Lilley/李大卫</a></li>
+              <li><i class="fas fa-user"></i> <a href="#">David M.J. Lilley/李大卫(英国皇家学院院士)</a></li>
               <li><i class="fas fa-tag"></i> <a href="#">School of Life Sciences, University of Dundee, United Kingdom
 d.m.j.lilley@dundee.ac.uk</a></li>
             </ul>
@@ -65,7 +65,35 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </div>
           <time datetime="2022-08-19T08:15+00:00"><strong>19</strong> <em>Aug</em></time>
         </article>
+      </li><br />
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><i class="fas fa-user"></i> <a href="#">余佳</a></li>
+              <li><i class="fas fa-tag"></i> <a href="#">北京协和医学院</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">造血细胞RNA调控分子图谱</h6>
+            <p style="padding-top:10px"> 干细胞RNA生物学、造血发育与血液系统肿瘤的基础与临床研究 [<a href="#">&hellip;</a>]</p>
+            <footer><a href="">Read More</a></footer><br />
+          </div>
+          <time datetime="2022-11-16T09:30+11:30"><strong>16</strong> <em>Nov</em></time>
+        </article>
       </li>
+      <li class="one_half first">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><i class="fas fa-user"></i> <a href="#">林水宾</a></li>
+              <li><i class="fas fa-tag"></i> <a href="#">中山大学附属第一医院</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px"> mRNA翻译调控与肿瘤和发育疾病</h6>
+            <p style="padding-top:10px">  [<a href="http://localhost:4000/docs/2022-08-19-David.html">&hellip;</a>]</p>
+            <footer><a href="#">Read More..</a></footer><br />
+          </div>
+          <time datetime="2022-11-16T09:30+11:30"><strong>16</strong> <em>Nov</em></time>
+        </article>
+      </li><br />
       <li class="one_half">
         <article>
           <div class="excerpt">
@@ -79,7 +107,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </div>
           <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em></time>
         </article>
-      </li>
+      </li><br />
     </ul>
     <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer>
   </section>
@@ -89,12 +117,10 @@ d.m.j.lilley@dundee.ac.uk</a></li>
   <section class="hoc container clear"> 
   <div class="sectiontitle">
       <p class="nospace font-xs">More way to join</p>
-      <h6 class="heading"> Salon Activities</h6><br /><br />
-      <img src="http://localhost:4000/images/gzrna.png" style="max-width: 25%;" />
+      <h6 class="heading"> Salon Activities</h6><br />
+      <img src="http://localhost:4000/images/code.jpg" style="max-width: 90%;" />
     </div>
   
-  
-    
   </section>
 </div>
 <!-- ################################################################################################ more could add -->
@@ -158,9 +184,6 @@ d.m.j.lilley@dundee.ac.uk</a></li>
   </section>
 </div>-->
 <!-- silde auto-->
-
-
-
 
 
 <!-- ################################################################################################ -->

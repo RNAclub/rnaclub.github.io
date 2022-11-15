@@ -1,22 +1,13 @@
----
-title: "Guangzhou RNA club - Home"
-layout: homelay
-excerpt: "Guangzhou RNA club at Bioland"
-sitemap: false
-permalink: /
----
-
-
-<html lang="">
+I"@@<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="{{ site.url }}{{ site.baseurl }}/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="http://localhost:4000/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body id="top">
 
-<div class="bgded overlay" style="background-image:url('{{ site.url }}{{ site.baseurl }}/images/gzback.png');padding-top:30px"> 
+<div class="bgded overlay" style="background-image:url('http://localhost:4000/images/gzback.png');padding-top:30px"> 
   <!-- ################################################################################################ -->
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
@@ -26,13 +17,13 @@ permalink: /
     <div class="three_quarter">
       <ul class="nospace clear">
         <li class="one_third first">
-          <div class="block clear"><a href="#"><i class="fa fa-wechat" style="font-size:20px;"></i></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
+          <div class="block clear"><a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=Mzg3MDg3NjkyOA==&amp;scene=124#wechat_redirect"><iconify-icon icon="bi:wechat" style="color: white;"></iconify-icon></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
         </li>
         <li class="one_third">
-          <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
+          <div class="block clear"><a href="#"><iconify-icon icon="akar-icons:envelope" style="color: white;"></iconify-icon></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
         </li>
         <li class="one_third">
-          <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
+          <div class="block clear"><a href="#"><i class="fas fa-clock"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
         </li>
       </ul>
     </div>
@@ -43,8 +34,8 @@ permalink: /
     <!-- ################################################################################################ -->
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
-      <h3 class="heading" ><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars & Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <h3 class="heading"><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
+      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -69,38 +60,10 @@ permalink: /
 d.m.j.lilley@dundee.ac.uk</a></li>
             </ul>
             <h6 class="heading" style="padding-top:10px">The extent of RNA catalysis – are there any limits?</h6>
-            <p style="padding-top:10px"> The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. [<a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html">&hellip;</a>]</p>
-            <footer ><a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html">Read More..</a></footer><br>
+            <p style="padding-top:10px"> The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. [<a href="http://localhost:4000/docs/2022-08-19-David.html">&hellip;</a>]</p>
+            <footer><a href="http://localhost:4000/docs/2022-08-19-David.html">Read More..</a></footer>
           </div>
           <time datetime="2022-08-19T08:15+00:00"><strong>19</strong> <em>Aug</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><i class="fas fa-user"></i> <a href="#">余佳</a></li>
-              <li><i class="fas fa-tag"></i> <a href="#">北京协和医学院</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">造血细胞RNA调控分子图谱</h6>
-            <p style="padding-top:10px"> 干细胞RNA生物学、造血发育与血液系统肿瘤的基础与临床研究 [<a href="#">&hellip;</a>]</p>
-            <footer><a href="">Read More</a></footer><br>
-          </div>
-          <time datetime="2022-11-16T09:30+11:30"><strong>16</strong> <em>Nov</em></time>
-        </article>
-      </li>
-      <li class="one_half first">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><i class="fas fa-user"></i> <a href="#">林水宾</a></li>
-              <li><i class="fas fa-tag"></i> <a href="#">中山大学附属第一医院</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px"> mRNA翻译调控与肿瘤和发育疾病</h6>
-            <p style="padding-top:10px">  [<a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2022-11-16T09:30+11:30"><strong>16</strong> <em>Nov</em></time>
         </article>
       </li>
       <li class="one_half">
@@ -118,7 +81,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
         </article>
       </li>
     </ul>
-    <footer class="center"><a class="btn" href="{{ site.url }}{{ site.baseurl }}/events">View More</a></footer><br>
+    <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer>
   </section>
 </div>
 <!-- -->
@@ -126,33 +89,12 @@ d.m.j.lilley@dundee.ac.uk</a></li>
   <section class="hoc container clear"> 
   <div class="sectiontitle">
       <p class="nospace font-xs">More way to join</p>
-      <h6 class="heading"> Salon Activities</h6><br>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/code.jpg" style="max-width: 100%;">
+      <h6 class="heading"> Salon Activities</h6><br />
+      <img src="http://localhost:4000/images/code.jpg" style="max-width: 90%;" />
     </div>
+  
   </section>
 </div>
-<!-- -->
-<div class="wrapper row3">
-  <section class="hoc container clear"> 
-    <div class="sectiontitle">
-      <p class="nospace font-xs">More details！</p>
-      <h6 class="heading">Latest Academic Events schedule </h6>
-    </div>
-    <ul class="nospace group latest" style="padding-right:0px;">
-     <li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event1.jpg" style="max-width: 42%;padding-left:20px;padding-right:20px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event2.jpg" style="max-width: 54%;padding-left:5px;padding-right:5px;"> 
-    </li>
-    <li class="one_third" style="border-left:1px solid #f0f0f0">
-        <article>   
-            <p style="padding-top:10px"> RNA医学前沿学术报告，会议形式为网络会议，腾讯会议与bilibili同步直播, 每位PI的报告时间45-50分钟，讨论10-15分钟。<br><br>同时也是今年新入选的Guangzhou RNA club的预热会议。欢迎老师同学参加。<br><br>有奖参与：<br>凭参会截图，与个人信息发送到 shi_yaohuang@gzlab.ac.cn <br><br>Guangzhou RNA Club将选取5名学生/博士后免费获得 RNA Society trainee memberships<br>(强烈建议有意愿参加The 28th Annual Meeting of the RNA Society in Singapore的同学申请）</p>                   
-        </article>
-    </li> 
-    </ul>
-  </section>
-</div>
-
-
 <!-- ################################################################################################ more could add -->
 <!--<div class="wrapper row2">
   <section class="hoc container clear"> 
@@ -226,22 +168,22 @@ d.m.j.lilley@dundee.ac.uk</a></li>
       <h6 class="heading">Salon Founder</h6>
     </div>
     <article class="col-sm-6">
-    <a href="http://www.rnacentre.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chichau_photo.jpg" style="max-width: 24%;"></a>
+    <a href="http://www.rnacentre.org/"><img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" style="max-width: 24%;" /></a>
       <blockquote><font size="3">We are organising RNA-Puzzles, which is a community-wide blind assessment of RNA 3D structure prediction. We also work on AI-based RNA design and RNA virus related research.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Zhichao Miao</h6>
-      <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory<br> Professor at Guangzhou Medical University</em></article>
+      <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory<br /> Professor at Guangzhou Medical University</em></article>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LinHuang.jpg" style="max-width: 25%;">
-      <blockquote><font size="3">My lab is interested in the structure and function of nucleic acid aptamers, riboswitches, protein-nucleic acid interactions and catalytic activity in nucleic acids.<br><br></font></blockquote>
+    <img src="http://localhost:4000/images/teampic/LinHuang.jpg" style="max-width: 25%;" />
+      <blockquote><font size="3">My lab is interested in the structure and function of nucleic acid aptamers, riboswitches, protein-nucleic acid interactions and catalytic activity in nucleic acids.<br /><br /></font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Lin Huang</h6>
-      <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University<br>&nbsp;&nbsp; <br></em></article>
+      <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University<br />&nbsp;&nbsp; <br /></em></article>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jianhua_yang.png" style="max-width: 25%;">
-      <blockquote><font size="3">My research interests focus on the development and application of experimental and computational methods to discover novel classes of ncRNAs and their functions and mechanisms.<br></font></blockquote>
+    <img src="http://localhost:4000/images/teampic/Jianhua_yang.png" style="max-width: 25%;" />
+      <blockquote><font size="3">My research interests focus on the development and application of experimental and computational methods to discover novel classes of ncRNAs and their functions and mechanisms.<br /></font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Jianhua Yang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
     <article class="col-sm-6">  
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jinkai_wang.png" style="max-width: 25%;">
+    <img src="http://localhost:4000/images/teampic/Jinkai_wang.png" style="max-width: 25%;" />
       <blockquote><font size="3">We are interested in eluciding the mechanisms and regulatory roles of RNA modifications on different classes of RNAs through close integration of bioinformatic method development with biochemical experiments.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Jinkai Wang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
@@ -302,7 +244,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
     <section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing"></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
               <p>Structure and mechanism of a methyl transferase ribozyme...</p>
@@ -310,7 +252,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Volutpat sed quis</h6>
               <p>Vel nisi semper adipiscing maecenas sodales elit cras porttitor diam aliquam turpis quisque rhoncus tincidunt.</p>
@@ -318,7 +260,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Leo phasellus sit</h6>
               <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
@@ -326,7 +268,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Amet lorem odio</h6>
               <p>Facilisis et mattis id consectetuer vel nunc donec sagittis purus sit amet est pellentesque elit dolor mattis.</p>
@@ -334,7 +276,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Semper aliquam duis</h6>
               <p>Ac lobortis sed cursus at magna vivamus laoreet orci vel tortor in nisi in porttitor vulputate arcu integer.</p>
@@ -342,7 +284,7 @@ d.m.j.lilley@dundee.ac.uk</a></li>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Tempus mauris morbi</h6>
               <p>Pretium curabitur lacinia aenean eu lectus maecenas at urna morbi porta est a mi duis felis nunc lobortis ut.</p>
@@ -360,13 +302,4 @@ d.m.j.lilley@dundee.ac.uk</a></li>
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
+:ET
