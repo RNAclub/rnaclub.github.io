@@ -1,9 +1,11 @@
-I"qL<html lang="">
+I"X<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link href="http://localhost:4000/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all" />
+<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+
 </head>
 <body id="top">
 
@@ -55,64 +57,119 @@
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: white;"></iconify-icon> <a href="#">David M.J. Lilley/李大卫(英国皇家学院院士)</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: white;"></iconify-icon>&lt;/i&gt; <a href="#">School of Life Sciences, University of Dundee, United Kingdom
-d.m.j.lilley@dundee.ac.uk</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">张强锋</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">清华大学</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">The extent of RNA catalysis – are there any limits?</h6>
-            <p style="padding-top:10px"> The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. [<a href="http://localhost:4000/docs/2022-08-19-David.html">&hellip;</a>]</p>
-            <footer><a href="http://localhost:4000/docs/2022-08-19-David.html">Read More..</a></footer><br />
+            <h6 class="heading" style="padding-top:10px">Computational prediction and CRISPR-Cas12a knockout and rescue and mechanism of some specific RNA assays identify many functionally conserved IncRNAs from zebrafish to human.</h6>
+            <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More..</a></footer><br />
           </div>
-          <time datetime="2022-08-19T08:15+00:00"><strong>19</strong> <em>Aug</em></time>
+          <time datetime="2022-11-18T09:30+11:30"><strong>18</strong> <em>Nov</em><em>2022</em></time>
         </article>
       </li>
       <li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: white;"></iconify-icon> <a href="#">余佳</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: white;"></iconify-icon>&lt;/i&gt; <a href="#">北京协和医学院</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">任艾明</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">浙江大学</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">造血细胞RNA调控分子图谱</h6>
-            <p style="padding-top:10px"> 干细胞RNA生物学、造血发育与血液系统肿瘤的基础与临床研究 [<a href="#">&hellip;</a>]</p>
-            <footer><a href="">Read More</a></footer><br />
+            <h6 class="heading" style="padding-top:10px">Demystifying the architecture and mechanism of some specific RNA molecules.</h6>
+            <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More</a></footer><br />
           </div>
-          <time datetime="2022-11-16T09:30+11:30"><strong>16</strong> <em>Nov</em></time>
+          <time datetime="2022-11-18T09:30+11:30"><strong>18</strong> <em>Nov</em><em>2022</em></time>
         </article>
       </li>
       <li class="one_half first">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: white;"></iconify-icon> <a href="#">林水宾</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: white;"></iconify-icon> <a href="#">中山大学附属第一医院</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">靳文菲</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">南方科技大学</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px"> mRNA翻译调控与肿瘤和发育疾病</h6>
-            <p style="padding-top:10px">  [<a href="http://localhost:4000/docs/2022-08-19-David.html">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px"> 开发和利用单细胞测序技术多角度解析细胞异质性</h6>
+            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
             <footer><a href="#">Read More..</a></footer><br />
           </div>
-          <time datetime="2022-11-16T09:30+11:30"><strong>16</strong> <em>Nov</em></time>
+          <time datetime="2022-11-21T09:30+10:30"><strong>21</strong> <em>Nov</em><em>2022</em></time>
         </article>
       </li>
       <li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: white;"></iconify-icon> <a href="#">Admin</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: white;"></iconify-icon> <a href="#">Category Name</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">赵方庆</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院动物研究所</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Eleifend semper nisl sed</h6>
+            <h6 class="heading" style="padding-top:10px">环形RNA数据挖掘技术及应用</h6>
+            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More</a></footer>
+          </div>
+          <time datetime="2022-11-23T09:30+11:30"><strong>23</strong> <em>Nov</em><em>2022</em></time>
+        </article>
+      </li>
+      <li class="one_half first">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">薛愿超</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院生物物理研究所研究员</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px"> 非编码RNA与转录调控</h6>
+            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More..</a></footer><br />
+          </div>
+          <time datetime="2022-11-23T09:30+11:30"><strong>23</strong> <em>Nov</em><em>2022</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">伊成器</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">北京大学</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">RNA修饰的检测功能与机制</h6>
+            <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More</a></footer>
+          </div>
+          <time datetime="2045-04-05T08:15+00:00"><strong>25</strong> <em>Nov</em><em>2022</em></time>
+        </article>
+      </li>
+      <li class="one_half first">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">周小龙</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院分子细胞科学卓越创新中心</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px"> 线粒体蛋白质合成紊乱与疾病</h6>
+            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read More..</a></footer><br />
+          </div>
+          <time datetime="2022-11-16T09:30+11:30"><strong>25</strong> <em>Nov</em><em>2022</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Admin</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Category Name</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Eget lorem in in felis in metus mollis</h6>
             <p style="padding-top:10px">Eget lorem in in felis in metus mollis blandit ut eu justo suspendisse semper sem sit amet ligula quisque eget felis eu tortor tristique pharetra praesent turpis pede varius sed [<a href="#">&hellip;</a>]</p>
             <footer><a href="#">Read More</a></footer>
           </div>
-          <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em></time>
+          <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em><em>2022</em></time>
         </article>
       </li>
     </ul>
     <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer><br />
   </section>
 </div>
-<!-- -->
+<!-- poster showing section -->
 <div class="wrapper row2">
   <section class="hoc container clear"> 
   <div class="sectiontitle">
@@ -131,8 +188,8 @@ d.m.j.lilley@dundee.ac.uk</a></li>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first">
-        <img src="http://localhost:4000/images/newspic/event1.jpg" style="max-width: 42%;padding-left:20px;padding-right:20px;" />
-        <img src="http://localhost:4000/images/newspic/event1118.jpg" style="max-width: 54%;padding-left:5px;padding-right:5px;" /> 
+        <img src="http://localhost:4000/images/newspic/events.jpg" style="max-width: 42%;padding-left:20px;padding-right:20px;" />
+        <img src="http://localhost:4000/images/newspic/event221121.jpeg" style="max-width: 54%;padding-left:5px;padding-right:5px;" /> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
