@@ -198,7 +198,7 @@ permalink: /
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/events.jpg" style="max-width: 42%;padding-left:20px;padding-right:20px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event221121.jpeg" style="max-width: 54%;padding-left:5px;padding-right:5px;"> 
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event221121.jpg" style="max-width: 54%;padding-left:5px;padding-right:5px;"> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
