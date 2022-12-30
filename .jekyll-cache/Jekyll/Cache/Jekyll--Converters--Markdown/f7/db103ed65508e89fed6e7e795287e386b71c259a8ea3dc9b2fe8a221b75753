@@ -1,4 +1,4 @@
-I"X<html lang="">
+I"�W<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -58,9 +58,9 @@
           <div class="excerpt">
             <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">张强锋</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">清华大学</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中科院生物物理所</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Computational prediction and CRISPR-Cas12a knockout and rescue and mechanism of some specific RNA assays identify many functionally conserved IncRNAs from zebrafish to human.</h6>
+            <h6 class="heading" style="padding-top:10px">Big Data, AI and Nucleic Acid Drugs</h6>
             <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
             <footer><a href="#">Read More..</a></footer><br />
           </div>
@@ -81,7 +81,7 @@
           <time datetime="2022-11-18T09:30+11:30"><strong>18</strong> <em>Nov</em><em>2022</em></time>
         </article>
       </li>
-      <li class="one_half first">
+      <!--<li class="one_half first">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -90,7 +90,7 @@
             </ul>
             <h6 class="heading" style="padding-top:10px"> 开发和利用单细胞测序技术多角度解析细胞异质性</h6>
             <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More..</a></footer><br />
+            <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2022-11-21T09:30+10:30"><strong>21</strong> <em>Nov</em><em>2022</em></time>
         </article>
@@ -118,7 +118,7 @@
             </ul>
             <h6 class="heading" style="padding-top:10px"> 非编码RNA与转录调控</h6>
             <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More..</a></footer><br />
+            <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2022-11-23T09:30+11:30"><strong>23</strong> <em>Nov</em><em>2022</em></time>
         </article>
@@ -146,7 +146,7 @@
             </ul>
             <h6 class="heading" style="padding-top:10px"> 线粒体蛋白质合成紊乱与疾病</h6>
             <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More..</a></footer><br />
+            <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2022-11-16T09:30+11:30"><strong>25</strong> <em>Nov</em><em>2022</em></time>
         </article>
@@ -164,7 +164,7 @@
           </div>
           <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em><em>2022</em></time>
         </article>
-      </li>
+      </li>-->
     </ul>
     <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer><br />
   </section>
@@ -188,8 +188,8 @@
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first">
-        <img src="http://localhost:4000/images/newspic/events.jpg" style="max-width: 42%;padding-left:20px;padding-right:20px;" />
-        <img src="http://localhost:4000/images/newspic/event221121.jpeg" style="max-width: 54%;padding-left:5px;padding-right:5px;" /> 
+        <img src="http://localhost:4000/images/newspic/event230104.jpg" style="max-width: 42%;padding-left:20px;padding-right:20px;" />
+        <img src="http://localhost:4000/images/newspic/event221125.jpg" style="max-width: 54%;padding-left:5px;padding-right:5px;" /> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
