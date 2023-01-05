@@ -80,14 +80,18 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Admin</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">school</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Xiuwei zhang</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">School of Computational Science & Engineering, College of Computing, Georgia Institute of Technology</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">...</h6>
+            <h6 class="heading" style="padding-top:10px">Integration of single cell genomics data: towards interpretability, disentanglement and future challenges</h6>
             <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Coming soon...</a></footer><br>
+            <footer><a href="#">Single cell data integration methods aim to integrate cells across data batches and modalities, and data integration tasks can be categorized into horizontal, vertical, diagonal, and mosaic integration, where mosaic integration is the most general and challenging case. In this talk, will present:
+(1)scMoMaT, a method for mosaic integration which can simultaneously uncover the cluster specific bio-markers across modalities. These bio-markers are used to interpret the cell clusters in the integrated dataset;
+(2)scDisInFact, a method to integrate scRNA-seq data from different patients while disentangling batch effects from biological variations across batches associated with patient conditions; scDisInFact can also perform perturbation prediction.
+(3) Future challenges in integration of single cell multi-omics data.
+</a></footer><br>
           </div>
-          <time datetime="2022-11-18T09:30+11:30"><strong> </strong> <em> </em><em>2023</em></time>
+          <time datetime="2023-01-11T10:00+11:30"><strong>11</strong> <em>Jan </em><em>2023</em></time>
         </article>
       </li>
       <!--<li class="one_half first">
@@ -197,8 +201,8 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230104.jpg" style="max-width: 54%;padding-left:20px;padding-right:20px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> 
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230111.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
+        <!--<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
