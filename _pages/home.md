@@ -84,12 +84,11 @@ permalink: /
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">School of Computational Science & Engineering, College of Computing, Georgia Institute of Technology</a></li>
             </ul>
             <h6 class="heading" style="padding-top:10px">Integration of single cell genomics data: towards interpretability, disentanglement and future challenges</h6>
-            <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Single cell data integration methods aim to integrate cells across data batches and modalities, and data integration tasks can be categorized into horizontal, vertical, diagonal, and mosaic integration, where mosaic integration is the most general and challenging case. In this talk, will present:
+            <p style="padding-top:10px"> Single cell data integration methods aim to integrate cells across data batches and modalities, and data integration tasks can be categorized into horizontal, vertical, diagonal, and mosaic integration, where mosaic integration is the most general and challenging case. In this talk, will present:
 (1)scMoMaT, a method for mosaic integration which can simultaneously uncover the cluster specific bio-markers across modalities. These bio-markers are used to interpret the cell clusters in the integrated dataset;
 (2)scDisInFact, a method to integrate scRNA-seq data from different patients while disentangling batch effects from biological variations across batches associated with patient conditions; scDisInFact can also perform perturbation prediction.
-(3) Future challenges in integration of single cell multi-omics data.
-</a></footer><br>
+(3) Future challenges in integration of single cell multi-omics data.[<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">read more...</a></footer><br>
           </div>
           <time datetime="2023-01-11T10:00+11:30"><strong>11</strong> <em>Jan </em><em>2023</em></time>
         </article>
@@ -212,7 +211,7 @@ permalink: /
             https://meeting.tencent.com/dw/ZeAwb32SvxTp <br>
             bilibili同步直播:<br> https://live.bilibili.com/26427894，
             详情请看广州RNA club网站rnaclub.rnacentre.org, 欢迎大家关注广州RNA club公众号GzRNA，大家1月4日不见不散！<br><br>
-            有奖参与：凭参会截图，与个人信息发送到 shi_yaohuang@gzlab.ac.cn <br>Guangzhou RNA Club将选取5名学生/博士后免费获得 RNA Society trainee memberships (2023年，大概率可以参加国际会议了，强烈建议有意愿参加The 28th Annual Meeting of the RNA Society in Singapore的同学申请）！感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！</p>   
+            有奖参与：凭参会截图，与个人信息发送到 shi_yaohuang@gzlab.ac.cn <br>Guangzhou RNA Club将选取5名学生/博士后免费获得 RNA Society trainee memberships (2023年，大概率可以参加国际会议了，强烈建议有意愿参加The 28th Annual Meeting of the RNA Society in Singapore的同学申请）！感谢国际RNA协会的赞助支持！</p>   
         </article>
     </li> 
     </ul>
