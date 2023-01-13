@@ -46,7 +46,7 @@ permalink: /
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
       <h3 class="heading" ><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars & Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <p style="padding-left:20px">We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars & Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -376,10 +376,10 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing"></a>
             <figcaption>
-              <h6 class="heading">Volutpat sed quis</h6>
-              <p>Vel nisi semper adipiscing maecenas sodales elit cras porttitor diam aliquam turpis quisque rhoncus tincidunt.</p>
+              <h6 class="heading">Chen runsheng [23-01-04]</h6>
+              <p>大数据、人工智能和核酸药物</p>
             </figcaption>
           </figure>
         </li>

@@ -1,4 +1,4 @@
-I"�Z<html lang="">
+I"�^<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -37,7 +37,7 @@
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
       <h3 class="heading"><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists interested in all things RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <p style="padding-left:20px">We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -71,14 +71,17 @@
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Admin</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">school</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Xiuwei zhang</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">School of Computational Science &amp; Engineering, College of Computing, Georgia Institute of Technology</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">...</h6>
-            <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Coming soon...</a></footer><br />
+            <h6 class="heading" style="padding-top:10px">Integration of single cell genomics data: towards interpretability, disentanglement and future challenges</h6>
+            <p style="padding-top:10px"> Single cell data integration methods aim to integrate cells across data batches and modalities, and data integration tasks can be categorized into horizontal, vertical, diagonal, and mosaic integration, where mosaic integration is the most general and challenging case. In this talk, will present:
+(1)scMoMaT, a method for mosaic integration which can simultaneously uncover the cluster specific bio-markers across modalities. These bio-markers are used to interpret the cell clusters in the integrated dataset;
+(2)scDisInFact, a method to integrate scRNA-seq data from different patients while disentangling batch effects from biological variations across batches associated with patient conditions; scDisInFact can also perform perturbation prediction.
+(3) Future challenges in integration of single cell multi-omics data.[<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">read more...</a></footer><br />
           </div>
-          <time datetime="2022-11-18T09:30+11:30"><strong> </strong> <em> </em><em>2023</em></time>
+          <time datetime="2023-01-11T10:00+11:30"><strong>11</strong> <em>Jan </em><em>2023</em></time>
         </article>
       </li>
       <!--<li class="one_half first">
@@ -188,18 +191,18 @@
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first">
-        <img src="http://localhost:4000/images/newspic/event230104.jpg" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
-        <img src="http://localhost:4000/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;" /> 
+        <img src="http://localhost:4000/images/newspic/event230111.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
+        <!--<img src="http://localhost:4000/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
             <p style="padding-top:10px"> 注意更新了腾讯会议号与链接！！！原号继续提供转播！！！<br />
             2023-01-04下午3点陈润生院士给国际RNA协会广州RNA club做2023年第一场报告《大数据、人工智能与核酸药物》<br />
             考虑到老师同学们的热情参与，特地开放2000人在线会场，腾讯会议号：939-646-164点击专属链接入会，或添加至会议列表：<br />
-            https://meeting.tencent.com/dw/ZeAwb32SvxTp
-            bilibili同步直播https://live.bilibili.com/26427894，
+            https://meeting.tencent.com/dw/ZeAwb32SvxTp <br />
+            bilibili同步直播:<br /> https://live.bilibili.com/26427894，
             详情请看广州RNA club网站rnaclub.rnacentre.org, 欢迎大家关注广州RNA club公众号GzRNA，大家1月4日不见不散！<br /><br />
-            有奖参与：凭参会截图，与个人信息发送到 shi_yaohuang@gzlab.ac.cn <br />Guangzhou RNA Club将选取5名学生/博士后免费获得 RNA Society trainee memberships (2023年，大概率可以参加国际会议了，强烈建议有意愿参加The 28th Annual Meeting of the RNA Society in Singapore的同学申请）！感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！</p>   
+            有奖参与：凭参会截图，与个人信息发送到 shi_yaohuang@gzlab.ac.cn <br />Guangzhou RNA Club将选取5名学生/博士后免费获得 RNA Society trainee memberships (2023年，大概率可以参加国际会议了，强烈建议有意愿参加The 28th Annual Meeting of the RNA Society in Singapore的同学申请）！感谢国际RNA协会的赞助支持！</p>   
         </article>
     </li> 
     </ul>
@@ -366,7 +369,7 @@
         <li class="col-sm-4" style="margin-top:40px">
           <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
-              <h6 class="heading">Volutpat sed quis</h6>
+              <h6 class="heading">Chen runsheng [23-01-03]</h6>
               <p>Vel nisi semper adipiscing maecenas sodales elit cras porttitor diam aliquam turpis quisque rhoncus tincidunt.</p>
             </figcaption>
           </figure>
