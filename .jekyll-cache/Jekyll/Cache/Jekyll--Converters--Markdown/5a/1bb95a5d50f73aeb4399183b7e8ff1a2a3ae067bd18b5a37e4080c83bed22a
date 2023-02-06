@@ -1,4 +1,4 @@
-I"{^<html lang="">
+I"j<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -46,7 +46,7 @@
 <!-- End Top Background Image Wrapper -->
 <!-- ################################################################################################ -->
 <!-- Salon schedule#################################################################### -->
-<div class="wrapper row3">
+<div class="wrapper row2">
   <section class="hoc container clear"> 
     <div class="sectiontitle">
       <p class="nospace font-xs">Welcome to join!</p>
@@ -61,7 +61,8 @@
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院生物物理研究所</a></li>
             </ul>
             <h6 class="heading" style="padding-top:10px">Big Data, AI and Nucleic Acid Drugs</h6>
-            <p style="padding-top:10px"> The systematic discovery and functional mechanisms of long non-coding RNAs in tumorigenesis, development and stem cell reprogramming by uing bioinformatics tools and combining with RNAomics techniques accumulated in the laboratory over the years...[<a href="https://people.ucas.ac.cn/~runshengchen">&hellip;</a>]</p>
+            <p style="padding-top:10px"> The systematic discovery and functional mechanisms of long non-coding RNAs in tumorigenesis, development and stem cell reprogramming by uing bioinformatics tools and combining with RNAomics techniques accumulated in the laboratory over the years...
+            [<a href="https://people.ucas.ac.cn/~runshengchen">&hellip;</a>]</p>
             <footer><a href="#">Read More..</a></footer><br />
           </div>
           <time datetime="2023-01-04T09:30+11:30"><strong>04</strong> <em>Jan</em><em>2023</em></time>
@@ -75,11 +76,9 @@
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">School of Computational Science &amp; Engineering, College of Computing, Georgia Institute of Technology</a></li>
             </ul>
             <h6 class="heading" style="padding-top:10px">Integration of single cell genomics data: towards interpretability, disentanglement and future challenges</h6>
-            <p style="padding-top:10px"> Single cell data integration methods aim to integrate cells across data batches and modalities, and data integration tasks can be categorized into horizontal, vertical, diagonal, and mosaic integration, where mosaic integration is the most general and challenging case. In this talk, will present:
-(1)scMoMaT, a method for mosaic integration which can simultaneously uncover the cluster specific bio-markers across modalities. These bio-markers are used to interpret the cell clusters in the integrated dataset;
-(2)scDisInFact, a method to integrate scRNA-seq data from different patients while disentangling batch effects from biological variations across batches associated with patient conditions; scDisInFact can also perform perturbation prediction.
-(3) Future challenges in integration of single cell multi-omics data.[<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">read more...</a></footer><br />
+            <p style="padding-top:10px"> Single cell data integration methods aim to integrate cells across data batches and modalities, and data integration tasks can be categorized into horizontal, vertical, diagonal, and mosaic integration, where mosaic integration is the most general and challenging case. 
+            [<a href="#">&hellip;</a>]</p>
+            <footer><a href="#">Read more...</a></footer><br />
           </div>
           <time datetime="2023-01-11T10:00+11:30"><strong>11</strong> <em>Jan </em><em>2023</em></time>
         </article>
@@ -172,18 +171,82 @@
     <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer><br />
   </section>
 </div>
+<!-- memory ######################################################################################### -->
+<div class="wrapper row3" style="padding-top:50px">
+<div class="sectiontitle">
+      <p class="nospace font-xs">Jewel-like memories</p>
+      <h6 class="heading">Salon Organised events</h6>
+    </div>
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <section id="introblocks">
+      <ul class="nospace group">
+        <li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
+            <figcaption>
+              <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
+              <p>Structure and mechanism of a methyl transferase ribozyme...</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing" /></a>
+            <figcaption>
+              <h6 class="heading">Runsheng Chen[23-01-04]</h6>
+              <p>Big Data, AI And Nucleic Acid Drugs</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+            <figcaption>
+              <h6 class="heading">Leo phasellus sit</h6>
+              <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+            <figcaption>
+              <h6 class="heading">Amet lorem odio</h6>
+              <p>Facilisis et mattis id consectetuer vel nunc donec sagittis purus sit amet est pellentesque elit dolor mattis.</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+            <figcaption>
+              <h6 class="heading">Semper aliquam duis</h6>
+              <p>Ac lobortis sed cursus at magna vivamus laoreet orci vel tortor in nisi in porttitor vulputate arcu integer.</p>
+            </figcaption>
+          </figure>
+        </li>
+        <li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+            <figcaption>
+              <h6 class="heading">Tempus mauris morbi</h6>
+              <p>Pretium curabitur lacinia aenean eu lectus maecenas at urna morbi porta est a mi duis felis nunc lobortis ut.</p>
+            </figcaption>
+          </figure>
+        </li>
+      </ul>
+    </section>
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
 <!-- poster showing section -->
-<div class="wrapper row2">
+<!--<div class="wrapper row2">
   <section class="hoc container clear"> 
   <div class="sectiontitle">
       <p class="nospace font-xs">More way to join</p>
-      <h6 class="heading"> Salon Activities</h6><br />
-      <img src="http://localhost:4000/images/code.jpg" style="max-width: 100%;" />
+      <h6 class="heading"> Salon Activities</h6><br>
+      <img src="http://localhost:4000/images/code.jpg" style="max-width: 100%;">
     </div>
   </section>
-</div>
-<!-- -->
-<div class="wrapper row3">
+</div>-->
+<!--poster end -->
+<div class="wrapper row2">
   <section class="hoc container clear"> 
     <div class="sectiontitle">
       <p class="nospace font-xs">More details！</p>
@@ -348,18 +411,18 @@
   </section>
 </div>-->
 <!-- ################################################################################################ -->
-<!-- memory ######################################################################################### -->
+<!-- memory ######################################################################################### 
 <div class="wrapper row3" style="padding-top:50px">
 <div class="sectiontitle">
       <p class="nospace font-xs">Jewel-like memories</p>
       <h6 class="heading">Salon Organised events</h6>
     </div>
-  <main class="hoc container clear"> 
+  <main class="hoc container clear"> -->
     <!-- main body -->
-    <section id="introblocks">
+     <!--<section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
               <p>Structure and mechanism of a methyl transferase ribozyme...</p>
@@ -367,15 +430,15 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing"></a>
             <figcaption>
-              <h6 class="heading">Chen runsheng [23-01-04]</h6>
-              <p>大数据、人工智能和核酸药物</p>
+              <h6 class="heading">Runsheng Chen[23-01-04]</h6>
+              <p>Big Data, AI And Nucleic Acid Drugs</p>
             </figcaption>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Leo phasellus sit</h6>
               <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
@@ -383,7 +446,7 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Amet lorem odio</h6>
               <p>Facilisis et mattis id consectetuer vel nunc donec sagittis purus sit amet est pellentesque elit dolor mattis.</p>
@@ -391,7 +454,7 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Semper aliquam duis</h6>
               <p>Ac lobortis sed cursus at magna vivamus laoreet orci vel tortor in nisi in porttitor vulputate arcu integer.</p>
@@ -399,7 +462,7 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Tempus mauris morbi</h6>
               <p>Pretium curabitur lacinia aenean eu lectus maecenas at urna morbi porta est a mi duis felis nunc lobortis ut.</p>
@@ -407,11 +470,22 @@
           </figure>
         </li>
       </ul>
-    </section>
+    </section>-->
     <!-- / main body -->
-    <div class="clear"></div>
+    <!--<div class="clear"></div>
   </main>
+</div> -->
+<!-- poster showing section -->
+<div class="wrapper row2">
+  <section class="hoc container clear"> 
+  <div class="sectiontitle">
+      <p class="nospace font-xs">More way to join</p>
+      <h6 class="heading"> Salon Activities</h6><br />
+      <img src="http://localhost:4000/images/code.jpg" style="max-width: 100%;" />
+    </div>
+  </section>
 </div>
+<!--poster end -->
 <!-- footer ################################################################################################ -->
 
 </body>
