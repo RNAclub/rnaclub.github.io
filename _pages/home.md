@@ -66,15 +66,15 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">陈润生</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院生物物理研究所</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">屈良鹄</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中山大学</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Big Data, AI and Nucleic Acid Drugs</h6>
-            <p style="padding-top:10px"> The systematic discovery and functional mechanisms of long non-coding RNAs in tumorigenesis, development and stem cell reprogramming by uing bioinformatics tools and combining with RNAomics techniques accumulated in the laboratory over the years...
+            <h6 class="heading" style="padding-top:10px">RNA 驱动的细胞组学与新一代精准医疗</h6>
+            <p style="padding-top:10px"> 20多年来，我国科学家勇于开拓创新，在RNA信息学、RNA生物学、RNA医学、非编码基因资源与技术等方面走上国际前沿。目前，RNA科学已率先进入生物大数据时代，以非编码核酸为代表的基因组“暗物质”正在转化为细胞 “大数据”，RVA驱动的细胞组学和新一代精准医疗已成为21世纪生命科学与生物技术的制高点，有望在解析细胞功能图谱及健康机制等方面取得重大突破，为解決人类重大疾病提供颠覆性思路与技术。
             [<a href="https://people.ucas.ac.cn/~runshengchen">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-01-04T09:30+11:30"><strong>04</strong> <em>Jan</em><em>2023</em></time>
+          <time datetime="2023-02-28T15:00+17:00"><strong>28</strong> <em>Feb</em><em>2023</em></time>
         </article>
       </li>
       <li class="one_half">
@@ -263,18 +263,19 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230111.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230228.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
         <!--<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> 注意更新了腾讯会议号与链接！！！原号继续提供转播！！！<br>
-            2023-01-04下午3点陈润生院士给国际RNA协会广州RNA club做2023年第一场报告《大数据、人工智能与核酸药物》<br>
-            考虑到老师同学们的热情参与，特地开放2000人在线会场，腾讯会议号：939-646-164点击专属链接入会，或添加至会议列表：<br>
-            https://meeting.tencent.com/dw/ZeAwb32SvxTp <br>
-            bilibili同步直播:<br> https://live.bilibili.com/26427894，
-            详情请看广州RNA club网站rnaclub.rnacentre.org, 欢迎大家关注广州RNA club公众号GzRNA，大家1月4日不见不散！<br><br>
-            有奖参与：凭参会截图，与个人信息发送到 shi_yaohuang@gzlab.ac.cn <br>Guangzhou RNA Club将选取5名学生/博士后免费获得 RNA Society trainee memberships (2023年，大概率可以参加国际会议了，强烈建议有意愿参加The 28th Annual Meeting of the RNA Society in Singapore的同学申请）！感谢国际RNA协会的赞助支持！</p>   
+            <p style="padding-top:10px"> 2023-02-28下午3点屈良鹄教授给国际RNA协会广州RNA club做兔年第一场报告《RNA 驱动的细胞组学与新一代精准医疗》。<br>
+腾讯会议号：393-503-473点击专属链接入会，或添加至会议列表：https://meeting.tencent.com/dw/fbiokTJkPtFY，<br>
+bilibili同步直播https://live.bilibili.com/26427894，<br>
+详情请看广州RNA club网站rnaclub.rnacentre.org, 欢迎大家关注广州RNA club公众号GzRNA，大家二月最后一天不见不散！<br><br>
+前期有奖参与结果：<br>
+根据前期会议参与同学申请情况，13位同学已免费获得 2023 RNA Society trainee memberships。很高兴看到不同单位的同学申请，兰大，南开，SIBS，上交，墨尔本，广医，深圳湾，双鸭山等等。<br>
+感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！<br>
+            </p>   
         </article>
     </li> 
     </ul>
