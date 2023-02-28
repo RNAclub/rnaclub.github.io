@@ -1,4 +1,4 @@
-I"cj<html lang="">
+I"‚k<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -37,7 +37,8 @@
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
       <h3 class="heading"><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p>
+      <p style="padding-left:20px">We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost:4000/Join"><strong>(Click to find more open position to explore the RNA world...)</strong></a>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -168,7 +169,10 @@
         </article>
       </li>-->
     </ul>
-    <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a></footer><br />
+    <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a><br /><br />
+    <a href="http://localhost:4000/Join"><strong>(More open position to explore the RNA world...)</strong></a>
+    </footer><br />
+
   </section>
 </div>
 <!-- memory ######################################################################################### -->
@@ -205,8 +209,8 @@
             </figcaption>
           </figure>
         </li>
-        <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+        <!--<li class="col-sm-4" style="margin-top:40px">
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Amet lorem odio</h6>
               <p>Facilisis et mattis id consectetuer vel nunc donec sagittis purus sit amet est pellentesque elit dolor mattis.</p>
@@ -214,7 +218,7 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Semper aliquam duis</h6>
               <p>Ac lobortis sed cursus at magna vivamus laoreet orci vel tortor in nisi in porttitor vulputate arcu integer.</p>
@@ -222,13 +226,13 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Tempus mauris morbi</h6>
               <p>Pretium curabitur lacinia aenean eu lectus maecenas at urna morbi porta est a mi duis felis nunc lobortis ut.</p>
             </figcaption>
           </figure>
-        </li>
+        </li>-->
       </ul>
     </section>
     <!-- / main body -->

@@ -1,9 +1,9 @@
 ---
-title: "Miao Lab - Team"
-layout: gridlay
-excerpt: "Miao Lab: Team members"
-sitemap: false
-permalink: /team/
+title: "Guangzhou RNA club - events"
+layout: textlay
+excerpt: "Guangzhou RNA club salon events"
+sitemap: true
+permalink: /Join/
 ---
 
 # Group Members

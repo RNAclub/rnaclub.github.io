@@ -1,15 +1,7 @@
----
-title: "Guangzhou RNA club - events"
-layout: textlay
-excerpt: "Guangzhou RNA club salon events"
-sitemap: true
-permalink: /events/
----
-
-<html lang="">
+I"o<html lang="">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
 </head>
 <style>
@@ -58,27 +50,27 @@ permalink: /events/
 
   <div class="sectiontitle">
       <p class="nospace font-xs">Look here!</p>
-      <h6 class="heading"> Salon Activaity Timeline</h6>
+      <h6 class="heading"> The chance to explore the RNA!</h6>
     </div>
   <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/David220819-1.png" />
-      <span>19.08.2022</span>
+      <img src="http://localhost:4000/images/newspic/David220819-1.png" />
+      <span> Position openning!</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">David M.J. Lilley/李大卫</h1>
-      <p id="p1">The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. Known ribozymes in contemporary biology carry out a limited range of chemical catalysis, mostly involving phosphoryl transfer, but in vitro selection has generated species catalysing a broader range of chemistry. <a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html">(More...) </a> </p>
+      <p id="p1">The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. Known ribozymes in contemporary biology carry out a limited range of chemical catalysis, mostly involving phosphoryl transfer, but in vitro selection has generated species catalysing a broader range of chemistry. <a href="http://localhost:4000/docs/2022-08-19-David.html">(More...) </a> </p>
     </div>
   </div>
 </div>
 
-<div class="item">
+<!--<div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
+      <img src="http://localhost:4000/images/RNA_club_logo.jpg" />
       <span> 16.11.2022</span>
     </div>
   </div>
@@ -93,7 +85,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
+      <img src="http://localhost:4000/images/RNA_club_logo.jpg" />
       <span>
       07.12.2016
       </span>
@@ -110,7 +102,7 @@ permalink: /events/
  <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
+      <img src="http://localhost:4000/images/RNA_club_logo.jpg" />
       <span>16.11.2022</span>
     </div>
   </div>
@@ -120,10 +112,11 @@ permalink: /events/
       <p id="p1">Quisque vestibulum iaculis felis eget varius. Morbi bibendum lectus felis, sed vehicula purus pellentesque eu. Maecenas sit amet libero vel nunc porta tincidunt fringilla nec mauris. Phasellus pharetra pharetra massa. Ut maximus purus eget libero dapibus, sit amet ultricies eros auctor. Nulla tristique dui nec libero rhoncus, et dictum odio lobortis. Proin consectetur nec sapien hendrerit lobortis. Proin mi odio, mollis ac ullamcorper in, pellentesque non nulla. In pretium purus at posuere efficitur. Donec eget cursus quam, in mollis libero. Mauris tempor volutpat sodales. Nulla in odio nec metus elementum ultricies sit amet vel dolor. Nunc non ligula at libero eleifend consectetur nec eu felis. Sed tristique vel ante eu pulvinar. Pellentesque elementum congue iaculis. Integer lorem sapien, vestibulum sed semper sed, dictum nec purus. Aenean porttitor interdum iaculis. </p>
     </div>
   </div>
-</div> 
+</div> -->
   
     
   </section>
 </div>
 </body>
 </html>
+:ET
