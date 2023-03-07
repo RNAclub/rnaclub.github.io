@@ -63,7 +63,7 @@ permalink: /events/
   <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/David220819-1.png" />
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/David.png" /></a>
       <span>19.08.2022</span>
     </div>
   </div>
@@ -78,19 +78,19 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
-      <span> 16.11.2022</span>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/chenrunsheng.png" /></a>
+      <span> 04.01.2023</span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">余佳</h1>
-      <p id="p1"> Quisque vestibulum iaculis felis eget varius. Morbi bibendum lectus felis, sed vehicula purus pellentesque eu. Maecenas sit amet libero vel nunc porta tincidunt fringilla nec mauris. Phasellus pharetra pharetra massa. Ut maximus purus eget libero dapibus, sit amet ultricies eros auctor. Nulla tristique dui nec libero rhoncus, et dictum odio lobortis. Proin consectetur nec sapien hendrerit lobortis. Proin mi odio, mollis ac ullamcorper in, pellentesque non nulla. In pretium purus at posuere efficitur. Donec eget cursus quam, in mollis libero. Mauris tempor volutpat sodales. Nulla in odio nec metus elementum ultricies sit amet vel dolor.</p>
+      <h1 id="time1">陈润生《大数据、人工智能和核酸药物》</h1>
+      <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html">(More...) </a> </p>
     </div>
   </div>
 </div>
 
-<div class="item">
+<!--<div class="item">
   <div class="image">
     <div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
@@ -120,7 +120,7 @@ permalink: /events/
       <p id="p1">Quisque vestibulum iaculis felis eget varius. Morbi bibendum lectus felis, sed vehicula purus pellentesque eu. Maecenas sit amet libero vel nunc porta tincidunt fringilla nec mauris. Phasellus pharetra pharetra massa. Ut maximus purus eget libero dapibus, sit amet ultricies eros auctor. Nulla tristique dui nec libero rhoncus, et dictum odio lobortis. Proin consectetur nec sapien hendrerit lobortis. Proin mi odio, mollis ac ullamcorper in, pellentesque non nulla. In pretium purus at posuere efficitur. Donec eget cursus quam, in mollis libero. Mauris tempor volutpat sodales. Nulla in odio nec metus elementum ultricies sit amet vel dolor. Nunc non ligula at libero eleifend consectetur nec eu felis. Sed tristique vel ante eu pulvinar. Pellentesque elementum congue iaculis. Integer lorem sapien, vestibulum sed semper sed, dictum nec purus. Aenean porttitor interdum iaculis. </p>
     </div>
   </div>
-</div> 
+</div>-->
   
     
   </section>
