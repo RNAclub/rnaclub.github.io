@@ -287,9 +287,9 @@ permalink: /
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> 2023-03-16 下午4点<br>
-            <strong>Janusz M. Bujnicki教授</strong>给国际RNA协会广州RNA club做报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》。<br>
-ZOOM会议号：633-815-9351点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，<br>
+            <p style="padding-top:10px"> 继陈润生、屈良鹄两位学术泰斗之后，2023-03-16下午4点波兰科学院院士<strong>Janusz M. Bujnicki教授</strong>将给国际RNA协会广州RNA club做2023年第三场报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》！<br>我们更有幸邀请到领域内顶级专家华中科大肖奕教授和山东大学杨建益教授作为讨论嘉宾！<br>Bujnicki院士还是欧洲分子生物学组织院士，Nucleic Acids Research杂志执行编辑，欧盟首席科学顾问，HHMI学者，曾获得一系列学术大奖。<br>
+            Janusz M. Bujnicki教授</strong>给国际RNA协会广州RNA club做报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》。<br>
+ZOOM会议号：633-815-9351，点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，腾讯会议号：148-770-950，<br>
 bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>，<br>
 欢迎大家关注广州RNA club公众号GzRNA，大家3月16日不见不散！<br><br>
 前期有奖参与结果：<br>
