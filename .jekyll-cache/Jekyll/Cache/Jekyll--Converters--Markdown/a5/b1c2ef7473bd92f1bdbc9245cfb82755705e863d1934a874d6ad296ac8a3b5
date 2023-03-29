@@ -1,4 +1,4 @@
-I"�q<html lang="">
+I"�w<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -278,12 +278,10 @@
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> 2023-02-28下午3点屈良鹄教授给国际RNA协会广州RNA club做兔年第一场报告《RNA 驱动的细胞组学与新一代精准医疗》。<br />
-腾讯会议号：393-503-473点击专属链接入会，或添加至会议列表：https://meeting.tencent.com/dw/fbiokTJkPtFY，<br />
-bilibili同步直播https://live.bilibili.com/26427894，<br />
-详情请看广州RNA club网站rnaclub.rnacentre.org, 欢迎大家关注广州RNA club公众号GzRNA，大家二月最后一天不见不散！<br /><br />
-前期有奖参与结果：<br />
-根据前期会议参与同学申请情况，13位同学已免费获得 2023 RNA Society trainee memberships。很高兴看到不同单位的同学申请，兰大，南开，SIBS，上交，墨尔本，广医，深圳湾，双鸭山等等。<br />
+            <p style="padding-top:10px"> 继陈润生、屈良鹄两位学术泰斗之后，2023-03-16下午4点波兰科学院院士<strong>Janusz M. Bujnicki教授</strong>将给国际RNA协会广州RNA club做2023年第三场报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》！<br />我们更有幸邀请到领域内顶级专家华中科大肖奕教授和山东大学杨建益教授作为讨论嘉宾！<br />Bujnicki院士还是欧洲分子生物学组织院士，Nucleic Acids Research杂志执行编辑，欧盟首席科学顾问，HHMI学者，曾获得一系列学术大奖。<br />
+ZOOM会议号：633-815-9351，点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，腾讯会议号：148-770-950，<br />
+bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>，<br />
+欢迎大家关注广州RNA club公众号GzRNA，大家3月16日不见不散！<br /><br />
 感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！<br />
             </p>   
         </article>
@@ -291,7 +289,25 @@ bilibili同步直播https://live.bilibili.com/26427894，<br />
     </ul>
   </section>
 </div>
-
+<!-- feedback ######################################################################################### -->
+<div class="wrapper row3" style="padding-top:50px">
+<div class="sectiontitle">
+      <p class="nospace font-xs">More people are welcome!</p>
+      <h6 class="heading">Congratulations！<iconify-icon icon="la:glass-cheers"></iconify-icon></h6>
+    </div>
+  <article>  
+      <div class="excerpt" style="padding-left: 10%;padding-right: 10%;">
+            <h6 style="font-size: 18px;"><strong>Results of earlier Participation Awards:</strong></h6>
+            <p style="padding-top:10px"> Based on the applications of the pre-conference participants, 13 students have been awarded 2023 RNA Society trainee memberships for free. It is great to see the participation of students from different institutions, such as Lanzhou University, Nankai University, SIBS, Shanghai Jiaotong University, Melbourne University, Guangzhou Medical University, ShenZhen Bay Laboratory, Sun Yat-sen University and so on.
+            </p>
+          </div>  
+        </article>
+    <footer class="center">
+    <p><br />
+    For more feedback, please send an <i class="fa fa-envelope" style="font-size:20px;color: #719B67;"></i> to:&nbsp;&nbsp;shi_yaohuang@gzlab.ac.cn <br />
+    </p>
+    </footer><br /><br /><br /><br /><br /> 
+</div>
 
 <!-- ################################################################################################ more could add -->
 <!--<div class="wrapper row2">

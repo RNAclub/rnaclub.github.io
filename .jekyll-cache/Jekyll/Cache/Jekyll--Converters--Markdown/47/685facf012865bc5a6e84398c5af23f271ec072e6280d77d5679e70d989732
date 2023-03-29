@@ -1,24 +1,15 @@
----
-title: "Guangzhou RNA club - Home"
-layout: homelay
-excerpt: "Guangzhou RNA club at Bioland"
-sitemap: false
-permalink: /
----
-
-
-<html lang="">
+I"�x<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="{{ site.url }}{{ site.baseurl }}/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="http://localhost:4000/css/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all" />
 <script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
 
 </head>
 <body id="top">
 
-<div class="bgded overlay" style="background-image:url('{{ site.url }}{{ site.baseurl }}/images/gzback.png');padding-top:30px"> 
+<div class="bgded overlay" style="background-image:url('http://localhost:4000/images/gzback.png');padding-top:30px"> 
   <!-- ################################################################################################ -->
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
@@ -45,9 +36,9 @@ permalink: /
     <!-- ################################################################################################ -->
     <article>
       <p>&nbsp;&nbsp;Academic Salon</p>
-      <h3 class="heading" ><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
-      <p style="padding-left:20px">We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars & Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/Join" target="_blank"><strong>(Click to find more open position to explore the RNA world...)</strong></a>
+      <h3 class="heading"><font color="#EEB9AE">&nbsp;Guangzhou RNA club</font></h3>
+      <p style="padding-left:20px">We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars &amp; Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.</p><br />
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost:4000/Join" target="_blank"><strong>(Click to find more open position to explore the RNA world...)</strong></a>
     </article>
     <!-- ################################################################################################ -->
   </div>
@@ -73,7 +64,7 @@ permalink: /
             <h6 class="heading" style="padding-top:10px">Computational modeling of RNA 3D structures and interactions with the use of experimental data</h6>
             <p style="padding-top:10px"> Ribonucleic acid (RNA) molecules are the master regulators of cells. They are involved in many molecular processes: They transmit genetic information, sense cellular signals and transmit responses, and even catalyze chemical reactions. The function of RNA, and in particular its ability to interact with other molecules, is encoded in sequence. Understanding how these molecules perform their biological tasks requires detailed knowledge of RNA structure and dynamics, as well as thermodynamics, which largely determines how RNA folds and interacts in the cellular environment.
             [<a href="https://genesilico.pl/">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
+            <footer><a href="#">Read More..</a></footer><br />
           </div>
           <time datetime="2023-03-16T15:00+17:00"><strong>16</strong> <em>MAR</em><em>2023</em></time>
         </article>
@@ -88,7 +79,7 @@ permalink: /
             <h6 class="heading" style="padding-top:10px">RNA 驱动的细胞组学与新一代精准医疗</h6>
             <p style="padding-top:10px"> 20多年来，我国科学家勇于开拓创新，在RNA信息学、RNA生物学、RNA医学、非编码基因资源与技术等方面走上国际前沿。目前，RNA科学已率先进入生物大数据时代，以非编码核酸为代表的基因组“暗物质”正在转化为细胞 “大数据”，RVA驱动的细胞组学和新一代精准医疗已成为21世纪生命科学与生物技术的制高点，有望在解析细胞功能图谱及健康机制等方面取得重大突破，为解決人类重大疾病提供颠覆性思路与技术。
             [<a href="https://people.ucas.ac.cn/~runshengchen">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
+            <footer><a href="#">Read More..</a></footer><br />
           </div>
           <time datetime="2023-02-28T15:00+17:00"><strong>28</strong> <em>Feb</em><em>2023</em></time>
         </article>
@@ -193,9 +184,9 @@ permalink: /
         </article>
       </li>-->
     </ul>
-    <footer class="center"><a class="btn" href="{{ site.url }}{{ site.baseurl }}/events">View More</a><br><br>
-    <a href="{{ site.url }}{{ site.baseurl }}/Join"><strong>(More open position to explore the RNA world...)</strong></a>
-    </footer><br>
+    <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a><br /><br />
+    <a href="http://localhost:4000/Join"><strong>(More open position to explore the RNA world...)</strong></a>
+    </footer><br />
 
   </section>
 </div>
@@ -210,7 +201,7 @@ permalink: /
     <section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing"></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
               <p>Structure and mechanism of a methyl transferase ribozyme...</p>
@@ -218,7 +209,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing"></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Runsheng Chen[23-01-04]</h6>
               <p>Big Data, AI And Nucleic Acid Drugs</p>
@@ -226,7 +217,7 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Leo phasellus sit</h6>
               <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
@@ -269,7 +260,7 @@ permalink: /
   <div class="sectiontitle">
       <p class="nospace font-xs">More way to join</p>
       <h6 class="heading"> Salon Activities</h6><br>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/code.jpg" style="max-width: 100%;">
+      <img src="http://localhost:4000/images/code.jpg" style="max-width: 100%;">
     </div>
   </section>
 </div>-->
@@ -281,17 +272,17 @@ permalink: /
       <h6 class="heading">Latest Academic Events schedule </h6>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
-     <li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230316.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
-        <!--<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
+     <li class="two_third first">
+        <img src="http://localhost:4000/images/newspic/event230316.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
+        <!--<img src="http://localhost:4000/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> 继陈润生、屈良鹄两位学术泰斗之后，2023-03-16下午4点波兰科学院院士<strong>Janusz M. Bujnicki教授</strong>将给国际RNA协会广州RNA club做2023年第三场报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》！<br>我们更有幸邀请到领域内顶级专家华中科大肖奕教授和山东大学杨建益教授作为讨论嘉宾！<br>Bujnicki院士还是欧洲分子生物学组织院士，Nucleic Acids Research杂志执行编辑，欧盟首席科学顾问，HHMI学者，曾获得一系列学术大奖。<br>
-ZOOM会议号：633-815-9351，点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，腾讯会议号：148-770-950，<br>
-bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>，<br>
-欢迎大家关注广州RNA club公众号GzRNA，大家3月16日不见不散！<br><br>
-感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！<br>
+            <p style="padding-top:10px"> 继陈润生、屈良鹄两位学术泰斗之后，2023-03-16下午4点波兰科学院院士<strong>Janusz M. Bujnicki教授</strong>将给国际RNA协会广州RNA club做2023年第三场报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》！<br />我们更有幸邀请到领域内顶级专家华中科大肖奕教授和山东大学杨建益教授作为讨论嘉宾！<br />Bujnicki院士还是欧洲分子生物学组织院士，Nucleic Acids Research杂志执行编辑，欧盟首席科学顾问，HHMI学者，曾获得一系列学术大奖。<br />
+ZOOM会议号：633-815-9351，点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，腾讯会议号：148-770-950，<br />
+bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>，<br />
+欢迎大家关注广州RNA club公众号GzRNA，大家3月16日不见不散！<br /><br />
+感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！<br />
             </p>   
         </article>
     </li> 
@@ -306,17 +297,17 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
     </div>
   <article>  
       <div class="excerpt" style="padding-left: 10%;padding-right: 10%;">
-            <h6 style="font-size: 18px;" ><strong>Results of earlier Participation Awards:</strong></h6>
-            <p style="padding-top:10px"> Based on the applications of the pre-conference participants, 13 students have been awarded 2023 RNA Society trainee memberships for free. It is great to see the participation of students from different institutions, such as Lanzhou University, Nankai University, SIBS, Shanghai Jiaotong University, Melbourne University, Guangzhou Medical University, ShenZhen Bay Laboratory, Sun Yat-sen University and so on.<br>
+            <h6 style="font-size: 18px;"><strong>Results of earlier Participation Awards:</strong></h6>
+            <p style="padding-top:10px"> Based on the applications of the pre-conference participants, 13 students have been awarded 2023 RNA Society trainee memberships for free. It is great to see the participation of students from different institutions, such as Lanzhou University, Nankai University, SIBS, Shanghai Jiaotong University, Melbourne University, Guangzhou Medical University, ShenZhen Bay Laboratory, Sun Yat-sen University and so on.<br />
             根据前期会议参与同学申请情况，13位同学已免费获得 2023 RNA Society trainee memberships。很高兴看到不同单位的同学申请，兰大，南开，SIBS，上交，墨尔本，广医，深圳湾，双鸭山等等。
             </p>
           </div>  
         </article>
     <footer class="center">
-    <p><br>
-    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;shi_yaohuang@gzlab.ac.cn <br>
+    <p><br />
+    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;shi_yaohuang@gzlab.ac.cn <br />
     </p>
-    </footer><br><br><br><br><br> 
+    </footer><br /><br /><br /><br /><br /> 
 </div>
 
 <!-- ################################################################################################ more could add -->
@@ -392,22 +383,22 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
       <h6 class="heading">Salon Founder</h6>
     </div>
     <article class="col-sm-6">
-    <a href="http://www.rnacentre.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chichau_photo.jpg" style="max-width: 24%;"></a>
+    <a href="http://www.rnacentre.org/"><img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" style="max-width: 24%;" /></a>
       <blockquote><font size="3">We are organising RNA-Puzzles, which is a community-wide blind assessment of RNA 3D structure prediction. We also work on AI-based RNA design and RNA virus related research.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Zhichao Miao</h6>
-      <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory<br> Professor at Guangzhou Medical University</em></article>
+      <em style="padding-bottom:20px">Principal Investigator at Guangzhou Laboratory<br /> Professor at Guangzhou Medical University</em></article>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LinHuang.jpg" style="max-width: 25%;">
-      <blockquote><font size="3">My lab is interested in the structure and function of nucleic acid aptamers, riboswitches, protein-nucleic acid interactions and catalytic activity in nucleic acids.<br><br></font></blockquote>
+    <img src="http://localhost:4000/images/teampic/LinHuang.jpg" style="max-width: 25%;" />
+      <blockquote><font size="3">My lab is interested in the structure and function of nucleic acid aptamers, riboswitches, protein-nucleic acid interactions and catalytic activity in nucleic acids.<br /><br /></font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Lin Huang</h6>
-      <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University<br>&nbsp;&nbsp; <br></em></article>
+      <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University<br />&nbsp;&nbsp; <br /></em></article>
     <article class="col-sm-6">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jianhua_yang.png" style="max-width: 25%;">
-      <blockquote><font size="3">My research interests focus on the development and application of experimental and computational methods to discover novel classes of ncRNAs and their functions and mechanisms.<br></font></blockquote>
+    <img src="http://localhost:4000/images/teampic/Jianhua_yang.png" style="max-width: 25%;" />
+      <blockquote><font size="3">My research interests focus on the development and application of experimental and computational methods to discover novel classes of ncRNAs and their functions and mechanisms.<br /></font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Jianhua Yang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
     <article class="col-sm-6">  
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jinkai_wang.png" style="max-width: 25%;">
+    <img src="http://localhost:4000/images/teampic/Jinkai_wang.png" style="max-width: 25%;" />
       <blockquote><font size="3">We are interested in eluciding the mechanisms and regulatory roles of RNA modifications on different classes of RNAs through close integration of bioinformatic method development with biochemical experiments.</font></blockquote>
       <h6 class="heading" style="padding-bottom:10px">Jinkai Wang</h6>
       <em style="padding-bottom:20px">Principal Investigator at Sun Yat-sen University</em></article>
@@ -468,7 +459,7 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
      <!--<section id="introblocks">
       <ul class="nospace group">
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing"></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
               <p>Structure and mechanism of a methyl transferase ribozyme...</p>
@@ -476,7 +467,7 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing"></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Runsheng Chen[23-01-04]</h6>
               <p>Big Data, AI And Nucleic Acid Drugs</p>
@@ -526,8 +517,8 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
   <section class="hoc container clear"> 
   <div class="sectiontitle">
       <p class="nospace font-xs">More way to join</p>
-      <h6 class="heading"> Salon Activities</h6><br>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/code.jpg" style="max-width: 100%;">
+      <h6 class="heading"> Salon Activities</h6><br />
+      <img src="http://localhost:4000/images/code.jpg" style="max-width: 100%;" />
     </div>
   </section>
 </div>
@@ -537,13 +528,4 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
+:ET
