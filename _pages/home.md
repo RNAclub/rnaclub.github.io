@@ -78,7 +78,25 @@ permalink: /
           <time datetime="2023-03-16T15:00+17:00"><strong>16</strong> <em>MAR</em><em>2023</em></time>
         </article>
       </li>
-      <li class="one_half">
+   <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Yiliang Ding</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Department of Cell and Developmental Biology, John Innes Centre, UK</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">RNA structure, a hidden regulator in living cells</h6>
+            <p style="padding-top:10px">  Research Fields:
+1. Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing;
+2. Exploring how RNA structures alter in response to environmental changes;
+3. Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.
+            [<a href="https://www.jic.ac.uk/people/yilliang-ding/">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-02-28T16:00+18:00"><strong>25</strong> <em>April</em><em>2023</em></time>
+        </article>
+      </li>
+      <!--<li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -93,7 +111,7 @@ permalink: /
           <time datetime="2023-02-28T15:00+17:00"><strong>28</strong> <em>Feb</em><em>2023</em></time>
         </article>
       </li>
-      <!--<li class="one_half">
+      <li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -282,16 +300,16 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230316.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
-        <!--<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230425.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
+        <!--<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230425-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;">--> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> 继陈润生、屈良鹄两位学术泰斗之后，2023-03-16下午4点波兰科学院院士<strong>Janusz M. Bujnicki教授</strong>将给国际RNA协会广州RNA club做2023年第三场报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》！<br>我们更有幸邀请到领域内顶级专家华中科大肖奕教授和山东大学杨建益教授作为讨论嘉宾！<br>Bujnicki院士还是欧洲分子生物学组织院士，Nucleic Acids Research杂志执行编辑，欧盟首席科学顾问，HHMI学者，曾获得一系列学术大奖。<br>
-ZOOM会议号：633-815-9351，点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，腾讯会议号：148-770-950，<br>
-bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>，<br>
-欢迎大家关注广州RNA club公众号GzRNA，大家3月16日不见不散！<br><br>
-感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！<br>
+            <p style="padding-top:10px"> Following the excellent presentation by Prof. <strong>Janusz M. Bujnicki</strong>, Academician of the Polish Academy of Sciences, at 4pm 2023-04-25, Professor <strong>Yiliang Ding</strong> from the John Innes Centre in the UK will give a talk on <RNA structure, a hidden regulator in living cells> to the Guangzhou RNA club of the International RNA Association. Yiliang focuses on understanding the dynamics of RNA structure in living cells both at the genome-wide scale and for individually targeted functional RNAs. To do this she develops new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.<br><br>
+Tencent meeting ID:661-177-770,<br>
+bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
+Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on April 25!  <br><br>
+Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>   
         </article>
     </li> 

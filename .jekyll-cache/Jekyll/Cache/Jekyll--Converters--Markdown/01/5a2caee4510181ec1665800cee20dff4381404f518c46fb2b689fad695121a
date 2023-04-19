@@ -1,4 +1,4 @@
-I"7x<html lang="">
+I"�}<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -69,7 +69,25 @@
           <time datetime="2023-03-16T15:00+17:00"><strong>16</strong> <em>MAR</em><em>2023</em></time>
         </article>
       </li>
-      <li class="one_half">
+   <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Yiliang Ding</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Department of Cell and Developmental Biology, John Innes Centre, UK</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">RNA structure, a hidden regulator in living cells</h6>
+            <p style="padding-top:10px">  Research Fields:
+1. Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing;
+2. Exploring how RNA structures alter in response to environmental changes;
+3. Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.
+            [<a href="https://www.jic.ac.uk/people/yilliang-ding/">&hellip;</a>]</p>
+            <footer><a href="#">Read More..</a></footer><br />
+          </div>
+          <time datetime="2023-02-28T16:00+18:00"><strong>25</strong> <em>April</em><em>2023</em></time>
+        </article>
+      </li>
+      <!--<li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -79,12 +97,12 @@
             <h6 class="heading" style="padding-top:10px">RNA 驱动的细胞组学与新一代精准医疗</h6>
             <p style="padding-top:10px"> 20多年来，我国科学家勇于开拓创新，在RNA信息学、RNA生物学、RNA医学、非编码基因资源与技术等方面走上国际前沿。目前，RNA科学已率先进入生物大数据时代，以非编码核酸为代表的基因组“暗物质”正在转化为细胞 “大数据”，RVA驱动的细胞组学和新一代精准医疗已成为21世纪生命科学与生物技术的制高点，有望在解析细胞功能图谱及健康机制等方面取得重大突破，为解決人类重大疾病提供颠覆性思路与技术。
             [<a href="https://people.ucas.ac.cn/~runshengchen">&hellip;</a>]</p>
-            <footer><a href="#">Read More..</a></footer><br />
+            <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-02-28T15:00+17:00"><strong>28</strong> <em>Feb</em><em>2023</em></time>
         </article>
       </li>
-      <!--<li class="one_half">
+      <li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -273,16 +291,16 @@
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first">
-        <img src="http://localhost:4000/images/newspic/event230316.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
+        <img src="http://localhost:4000/images/newspic/event230425.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
         <!--<img src="http://localhost:4000/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> 继陈润生、屈良鹄两位学术泰斗之后，2023-03-16下午4点波兰科学院院士<strong>Janusz M. Bujnicki教授</strong>将给国际RNA协会广州RNA club做2023年第三场报告《Computational modeling of RNA 3D structures and interactions with the use of experimental data》！<br />我们更有幸邀请到领域内顶级专家华中科大肖奕教授和山东大学杨建益教授作为讨论嘉宾！<br />Bujnicki院士还是欧洲分子生物学组织院士，Nucleic Acids Research杂志执行编辑，欧盟首席科学顾问，HHMI学者，曾获得一系列学术大奖。<br />
-ZOOM会议号：633-815-9351，点击专属链接入会，或添加至会议列表：<a href="https://us06web.zoom.us/j/6338159351">https://us06web.zoom.us/j/6338159351</a>，腾讯会议号：148-770-950，<br />
-bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>，<br />
-欢迎大家关注广州RNA club公众号GzRNA，大家3月16日不见不散！<br /><br />
-感谢国际RNA协会、表观生物、贝纳基因和德先生物的赞助支持！<br />
+            <p style="padding-top:10px"> Following the excellent presentation by Prof. <strong>Janusz M. Bujnicki</strong>, Academician of the Polish Academy of Sciences, at 4pm 2023-04-25, Professor <strong>Yiliang Ding</strong> from the John Innes Centre in the UK will give a talk on &lt;RNA structure, a hidden regulator in living cells&gt; to the Guangzhou RNA club of the International RNA Association. Yiliang focuses on understanding the dynamics of RNA structure in living cells both at the genome-wide scale and for individually targeted functional RNAs. To do this she develops new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.<br /><br />
+Tencent meeting ID:661-177-770,<br />
+bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br />
+Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on April 25!  <br /><br />
+Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br /><br /><br />
             </p>   
         </article>
     </li> 
@@ -293,21 +311,19 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
 <div class="wrapper row3" style="padding-top:50px">
 <div class="sectiontitle">
       <p class="nospace font-xs">More people are welcome!</p>
-      <h6 class="heading">Congratulations！</h6>
+      <h6 class="heading">Congratulations！<iconify-icon icon="la:glass-cheers" style="font-size:25px;"></iconify-icon></h6>
     </div>
   <article>  
       <div class="excerpt" style="padding-left: 10%;padding-right: 10%;">
-      <ul class="nospace meta">
-            <li><iconify-icon icon="noto-v1:fireworks" style="color: #719B67;"></iconify-icon></li>
-            </ul>
             <h6 style="font-size: 18px;"><strong>Results of earlier Participation Awards:</strong></h6>
-            <p style="padding-top:10px"> Based on the applications of the pre-conference participants, 13 students have been awarded 2023 RNA Society trainee memberships for free. It is great to see the participation of students from different institutions, such as Lanzhou University, Nankai University, SIBS, Shanghai Jiaotong University, Melbourne University, Guangzhou Medical University, ShenZhen Bay Laboratory, Sun Yat-sen University and so on.
+            <p style="padding-top:10px"> Based on the applications of the pre-conference participants, 13 students have been awarded 2023 RNA Society trainee memberships for free. It is great to see the participation of students from different institutions, such as Lanzhou University, Nankai University, SIBS, Shanghai Jiaotong University, Melbourne University, Guangzhou Medical University, ShenZhen Bay Laboratory, Sun Yat-sen University and so on.<br />
+            根据前期会议参与同学申请情况，13位同学已免费获得 2023 RNA Society trainee memberships。很高兴看到不同单位的同学申请，兰大，南开，SIBS，上交，墨尔本，广医，深圳湾，双鸭山等等。
             </p>
           </div>  
         </article>
     <footer class="center">
     <p><br />
-    For more feedback, please send an email to: <i class="fa fa-envelope" style="font-size:20px;color: #719B67;"></i>&nbsp;&nbsp;shi_yaohuang@gzlab.ac.cn <br />
+    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;shi_yaohuang@gzlab.ac.cn <br />
     </p>
     </footer><br /><br /><br /><br /><br /> 
 </div>
@@ -381,7 +397,7 @@ bilibili同步直播<a href="https://live.bilibili.com/26427894">https://live.bi
   <section id="testimonials" class="hoc container clear"> 
     <!-- ##### -->
     <div class="sectiontitle" style="margin-bottom: 40px">
-      <p class="nospace font-xs"></p>
+      <p class="nospace font-xs">The</p>
       <h6 class="heading">Salon Founder</h6>
     </div>
     <article class="col-sm-6">
