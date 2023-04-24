@@ -1,4 +1,4 @@
-I"�}<html lang="">
+I"�}<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -235,10 +235,10 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-03-16.html"><img src="images/eventpic/event0316/1.png" alt="drawing" /></a>
             <figcaption>
-              <h6 class="heading">Leo phasellus sit</h6>
-              <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
+              <h6 class="heading">Janusz M. Bujnicki</h6>
+              <p>Computational modeling of RNA 3D structures and interactions with the use of experimental data</p>
             </figcaption>
           </figure>
         </li>
@@ -292,14 +292,14 @@
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first">
         <img src="http://localhost:4000/images/newspic/event230425.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
-        <!--<img src="http://localhost:4000/images/newspic/event230104-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;"> -->
+        <!--<img src="http://localhost:4000/images/newspic/event230425-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;">--> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
             <p style="padding-top:10px"> Following the excellent presentation by Prof. <strong>Janusz M. Bujnicki</strong>, Academician of the Polish Academy of Sciences, at 4pm 2023-04-25, Professor <strong>Yiliang Ding</strong> from the John Innes Centre in the UK will give a talk on &lt;RNA structure, a hidden regulator in living cells&gt; to the Guangzhou RNA club of the International RNA Association. Yiliang focuses on understanding the dynamics of RNA structure in living cells both at the genome-wide scale and for individually targeted functional RNAs. To do this she develops new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.<br /><br />
 Tencent meeting ID:661-177-770,<br />
 bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br />
-Welcome to the Guangzhou RNA club official account GzRNA, we will see you on April 25!  <br /><br />
+Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on April 25!  <br /><br />
 Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br /><br /><br />
             </p>   
         </article>

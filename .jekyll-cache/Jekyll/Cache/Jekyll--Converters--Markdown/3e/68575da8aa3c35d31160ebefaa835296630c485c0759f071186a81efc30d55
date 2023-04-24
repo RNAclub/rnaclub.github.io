@@ -1,15 +1,7 @@
----
-title: "Guangzhou RNA club - events"
-layout: textlay
-excerpt: "Guangzhou RNA club salon events"
-sitemap: true
-permalink: /events/
----
-
-<html lang="">
+I"�<html lang="">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
 </head>
 <style>
@@ -63,14 +55,14 @@ permalink: /events/
   <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/David.png" /></a>
+      <a href="http://localhost:4000/docs/2022-08-19-David.html"><img src="http://localhost:4000/images/newspic/David.png" /></a>
       <span>2022.08.19</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">David M.J. Lilley/李大卫</h1>
-      <p id="p1">The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. Known ribozymes in contemporary biology carry out a limited range of chemical catalysis, mostly involving phosphoryl transfer, but in vitro selection has generated species catalysing a broader range of chemistry. <a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html">(More...) </a> </p>
+      <p id="p1">The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. Known ribozymes in contemporary biology carry out a limited range of chemical catalysis, mostly involving phosphoryl transfer, but in vitro selection has generated species catalysing a broader range of chemistry. <a href="http://localhost:4000/docs/2022-08-19-David.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -78,14 +70,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/chenrunsheng.png" /></a>
+      <a href="http://localhost:4000/docs/2023-01-04.html"><img src="http://localhost:4000/images/newspic/chenrunsheng.png" /></a>
       <span> 2023.01.04</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">陈润生《大数据、人工智能和核酸药物》</h1>
-      <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html">(More...) </a> </p>
+      <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="http://localhost:4000/docs/2023-01-04.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -93,21 +85,21 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-03-16.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Janusz.png" /></a>
+      <a href="http://localhost:4000/docs/2023-03-16.html"><img src="http://localhost:4000/images/newspic/JANU.png" /></a>
       <span> 2023.03.16</span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Janusz M. Bujnicki <Computational modeling of RNA 3D structures and interactions with the use of experimental data></h1>
-      <p id="p1"> Our research focuses on the structure of RNA and its interaction with RNA proteins. Using biophysics and computational simulation techniques, we explore the dynamic behavior and structural features of RNA and develop new RNA structure prediction algorithms. Additionally, we investigate the mechanism of action of RNA proteins, especially those related to diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-03-16.html">(More...) </a> </p>
+      <h1 id="time1">Janusz M. Bujnick &lt;Computational modeling of RNA 3D structures and interactions with the use of experimental data&gt;</h1>
+      <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="http://localhost:4000/docs/2023-01-04.html">(More...) </a> </p>
     </div>
   </div>
 </div>
 <!--<div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
+      <img src="http://localhost:4000/images/RNA_club_logo.jpg" />
       <span>
       07.12.2016
       </span>
@@ -120,10 +112,11 @@ permalink: /events/
     </div>
   </div>
 </div>
+
  <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
+      <img src="http://localhost:4000/images/RNA_club_logo.jpg" />
       <span>16.11.2022</span>
     </div>
   </div>
@@ -140,3 +133,4 @@ permalink: /events/
 </div>
 </body>
 </html>
+:ET

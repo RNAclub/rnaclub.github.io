@@ -244,10 +244,10 @@ permalink: /
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing"></a>
+          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-03-16.html"><img src="images/eventpic/event0316/1.png" alt="drawing"></a>
             <figcaption>
-              <h6 class="heading">Leo phasellus sit</h6>
-              <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
+              <h6 class="heading">Janusz M. Bujnicki [23-03-16]</h6>
+              <p>Computational modeling of RNA 3D structures and interactions with the use of experimental data</p>
             </figcaption>
           </figure>
         </li>

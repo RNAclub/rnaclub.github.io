@@ -1,4 +1,4 @@
-I"§}<html lang="">
+I"Ö}<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -235,10 +235,10 @@
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="#"><img src="images/newspic/coming.png" alt="drawing" /></a>
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-03-16.html"><img src="images/eventpic/event0316/1.png" alt="drawing" /></a>
             <figcaption>
-              <h6 class="heading">Leo phasellus sit</h6>
-              <p>Arcu ut auctor nunc ac mi vivamus aliquam maecenas in lorem vel tellus porttitor placerat quisque tellus nulla.</p>
+              <h6 class="heading">Janusz M. Bujnicki [23-03-16]</h6>
+              <p>Computational modeling of RNA 3D structures and interactions with the use of experimental data</p>
             </figcaption>
           </figure>
         </li>
@@ -292,7 +292,7 @@
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first">
         <img src="http://localhost:4000/images/newspic/event230425.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
-        <img src="http://localhost:4000/images/newspic/event230425-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;" /> 
+        <!--<img src="http://localhost:4000/images/newspic/event230425-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;">--> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
