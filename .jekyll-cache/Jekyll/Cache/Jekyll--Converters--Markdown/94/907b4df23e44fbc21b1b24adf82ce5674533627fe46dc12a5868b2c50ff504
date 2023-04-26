@@ -1,4 +1,4 @@
-I"Ë}<html lang="">
+I">~<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -222,7 +222,7 @@
           <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
-              <p>Structure and mechanism of a methyl transferase ribozyme...</p>
+              <p>Structure and mechanism of a methyl transferase ribozyme&nbsp;&nbsp;<a href=""><iconify-icon icon="ic:baseline-airplay" style="font-size:16px;"></iconify-icon></a></p>
             </figcaption>
           </figure>
         </li>
@@ -237,7 +237,7 @@
         <li class="col-sm-4" style="margin-top:40px">
           <figure><a class="imgover" href="http://localhost:4000/docs/2023-03-16.html"><img src="images/eventpic/event0316/1.png" alt="drawing" /></a>
             <figcaption>
-              <h6 class="heading">Janusz M. Bujnicki</h6>
+              <h6 class="heading">Janusz M. Bujnicki [23-03-16]</h6>
               <p>Computational modeling of RNA 3D structures and interactions with the use of experimental data</p>
             </figcaption>
           </figure>
