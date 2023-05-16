@@ -62,7 +62,7 @@ permalink: /Join/
   <div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/David220819-1.png" alt="drawing" style="weight:150px; height:150px;display:block;margin:0 auto;" />
+      <a href="www.rnacentre.org"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/David220819-1.png" alt="drawing" style="weight:150px; height:150px;display:block;margin:0 auto;" /></a>
       <span> Position openning!</span>
     </div>
   </div>

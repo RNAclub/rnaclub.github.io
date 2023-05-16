@@ -67,15 +67,15 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Janusz M. Bujnicki</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://genesilico.pl/">Young Academy at Polish Academy of Sciences Fellow of EMBO ｜Professor at International Institute of Molecular and Cell Biology in Warsaw</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Yi Xing</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://xinglab.org/">Children’s Hospital of Philadelphia and University of Pennsylvania</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Computational modeling of RNA 3D structures and interactions with the use of experimental data</h6>
-            <p style="padding-top:10px"> Ribonucleic acid (RNA) molecules are the master regulators of cells. They are involved in many molecular processes: They transmit genetic information, sense cellular signals and transmit responses, and even catalyze chemical reactions. The function of RNA, and in particular its ability to interact with other molecules, is encoded in sequence. Understanding how these molecules perform their biological tasks requires detailed knowledge of RNA structure and dynamics, as well as thermodynamics, which largely determines how RNA folds and interacts in the cellular environment.
-            [<a href="https://genesilico.pl/">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px">Long-read strategies to study the human transcriptome</h6>
+            <p style="padding-top:10px"> Dr. Yi Xing's laboratory focuses on the computational biology and genomics of RNA processing and regulation, as well as their applications to human genetics and medicine. He has developed some of the foundational algorithms and several widely used tools for studying transcriptome variation using high-throughput technologies. His current research merges the fields of computational biology, RNA genomics, human genetics, precision medicine, and immuno-oncology. Dr. Xing has served as a regular member on prestigious NIH review panels, including the NIH Genomics, Computational Biology and Technology (GCAT) study section (2013-2019), and the Final-round Editorial Review Panel of the NIH Director’s New Innovator Awards (2019-present).
+            [<a href="https://xinglab.org/">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-03-16T15:00+17:00"><strong>16</strong> <em>MAR</em><em>2023</em></time>
+          <time datetime="2023-05-22T09:00+11:00"><strong>22</strong> <em>MAY</em><em>2023</em></time>
         </article>
       </li>
    <li class="one_half">
@@ -96,7 +96,22 @@ permalink: /
           <time datetime="2023-02-28T16:00+18:00"><strong>25</strong> <em>April</em><em>2023</em></time>
         </article>
       </li>
-      <!--<li class="one_half">
+      <!--<li class="one_half first">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Janusz M. Bujnicki</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://genesilico.pl/">Young Academy at Polish Academy of Sciences Fellow of EMBO ｜Professor at International Institute of Molecular and Cell Biology in Warsaw</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Computational modeling of RNA 3D structures and interactions with the use of experimental data</h6>
+            <p style="padding-top:10px"> Ribonucleic acid (RNA) molecules are the master regulators of cells. They are involved in many molecular processes: They transmit genetic information, sense cellular signals and transmit responses, and even catalyze chemical reactions. The function of RNA, and in particular its ability to interact with other molecules, is encoded in sequence. Understanding how these molecules perform their biological tasks requires detailed knowledge of RNA structure and dynamics, as well as thermodynamics, which largely determines how RNA folds and interacts in the cellular environment.
+            [<a href="https://genesilico.pl/">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-03-16T15:00+17:00"><strong>16</strong> <em>MAR</em><em>2023</em></time>
+        </article>
+      </li>
+      <li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -305,10 +320,10 @@ permalink: /
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the excellent presentation by Prof. <strong>Janusz M. Bujnicki</strong>, Academician of the Polish Academy of Sciences, at 4pm 2023-04-25, Professor <strong>Yiliang Ding</strong> from the John Innes Centre in the UK will give a talk on <RNA structure, a hidden regulator in living cells> to the Guangzhou RNA club of the International RNA Association. Yiliang focuses on understanding the dynamics of RNA structure in living cells both at the genome-wide scale and for individually targeted functional RNAs. To do this she develops new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.<br><br>
-Tencent meeting ID:661-177-770,<br>
+            <p style="padding-top:10px"> Following the excellent presentation by Prof. <strong>Yiliang Ding</strong>from the John Innes Centre in the UK, at 9am 2023-05-22, Professor <strong>Yi Xing</strong> from Children’s Hospital of Philadelphia and University of Pennsylvania will give a talk on <Long-read strategies to study the human transcriptome> to the Guangzhou RNA club of the International RNA Association. Dr. Yi Xing is the Director of the Center for Computational and Genomic Medicine and the Executive Director of the Department of Biomedical and Health Informatics at the Children’s Hospital of Philadelphia (CHOP).His laboratory focuses on the computational biology and genomics of RNA processing and regulation, as well as their applications to human genetics and medicine. He has developed some of the foundational algorithms and several widely used tools for studying transcriptome variation using high-throughput technologies. <br><br>
+Tencent meeting ID:741-265-041,<br>
 bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on April 25!  <br><br>
+Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 22!  <br><br>
 Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>   
         </article>
