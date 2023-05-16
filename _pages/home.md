@@ -315,14 +315,14 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
      <li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230425.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230522.png" style="max-width: 54%;padding-left:20px;padding-right:20px;">
         <!--<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230425-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;">--> 
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the excellent presentation by Prof. <strong>Yiliang Ding</strong>from the John Innes Centre in the UK, at 9am 2023-05-22, Professor <strong>Yi Xing</strong> from Children’s Hospital of Philadelphia and University of Pennsylvania will give a talk on <Long-read strategies to study the human transcriptome> to the Guangzhou RNA club of the International RNA Association. Dr. Yi Xing is the Director of the Center for Computational and Genomic Medicine and the Executive Director of the Department of Biomedical and Health Informatics at the Children’s Hospital of Philadelphia (CHOP).His laboratory focuses on the computational biology and genomics of RNA processing and regulation, as well as their applications to human genetics and medicine. He has developed some of the foundational algorithms and several widely used tools for studying transcriptome variation using high-throughput technologies. <br><br>
-Tencent meeting ID:741-265-041,<br>
-bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
+            <p style="padding-top:10px"> Following the excellent presentation by Prof.<strong>Yiliang Ding</strong> from the John Innes Centre in the UK, at 9am 2023-05-22, Professor <strong> Yi Xing </strong> from Children’s Hospital of Philadelphia and University of Pennsylvania will give a talk on < Long-read strategies to study the human transcriptome > to the Guangzhou RNA club of the International RNA Association. Dr. Yi Xing is the Director of the Center for Computational and Genomic Medicine and the Executive Director of the Department of Biomedical and Health Informatics at the Children’s Hospital of Philadelphia (CHOP). He has developed some of the foundational algorithms and several widely used tools for studying transcriptome variation using high-throughput technologies.<br><br>
+            Tencent meeting ID:741-265-041,<br>
+            bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
 Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 22!  <br><br>
 Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>   
