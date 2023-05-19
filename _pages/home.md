@@ -246,15 +246,15 @@ permalink: /
           <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
-              <p>Structure and mechanism of a methyl transferase ribozyme&nbsp;<a href=""><iconify-icon icon="ic:baseline-airplay" style="font-size:16px;"></iconify-icon></a></p>
+              <p>Structure and mechanism of a methyl transferase ribozyme&nbsp;</a></p>
             </figcaption>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing"></a>
+          <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing">
             <figcaption>
               <h6 class="heading">Runsheng Chen[23-01-04]</h6>
-              <p>Big Data, AI And Nucleic Acid Drugs&nbsp;<a href="https://www.bilibili.com/video/BV13D4y1W7HD/?spm_id_from=333.999.0.0&vd_source=f97b88c9400c9d0b88e6bbfbb3ff8294"><iconify-icon icon="ic:baseline-airplay" style="font-size:18px;"></iconify-icon></a></p>
+              <p>Big Data, AI And Nucleic Acid Drugs&nbsp;<a href="https://www.bilibili.com/video/BV13D4y1W7HD/?spm_id_from=333.999.0.0&vd_source=f97b88c9400c9d0b88e6bbfbb3ff8294"><iconify-icon icon="simple-icons:bilibili" style="font-size:36px;"></iconify-icon></a></p>
             </figcaption>
           </figure>
         </li>
@@ -262,7 +262,7 @@ permalink: /
           <figure><a class="imgover" href="{{ site.url }}{{ site.baseurl }}/docs/2023-03-16.html"><img src="images/eventpic/event0316/1.png" alt="drawing"></a>
             <figcaption>
               <h6 class="heading">Janusz M. Bujnicki [23-03-16]</h6>
-              <p>Computational modeling of RNA 3D structures and interactions with the use of experimental data&nbsp;<a href="https://www.bilibili.com/video/BV1vx4y1P7zc/?vd_source= f97b88c9400c9d0b88e6bbfbb3ff8294"><iconify-icon icon="ic:baseline-airplay" style="font-size:18px;"></iconify-icon></a></p>
+              <p>Computational modeling of RNA 3D structures and interactions with the use of experimental data&nbsp;<a href="https://www.bilibili.com/video/BV1vx4y1P7zc/?vd_source= f97b88c9400c9d0b88e6bbfbb3ff8294"><iconify-icon icon="simple-icons:bilibili" style="font-size:36px;"></iconify-icon></a></p>
             </figcaption>
           </figure>
         </li>
