@@ -1,4 +1,4 @@
-I"އ<html lang="">
+I"׈<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -26,15 +26,18 @@
         </li>
         <!--<li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
-        </li>-->
+        </li>
         <li class="one_third">
-          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa-brands fa-bilibili" style="font-size:20px;"></i>
-        <span><strong>Bilibili:</strong> Reports replay！</span>&lt;/div&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-caret-square-o-right" aria-hidden="true" style="font-size:25px;"></i></a> 
+        <span><strong>Bilibili:</strong> Reports replay！</span></div>-->
+        <li class="one_third">
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-play-circle" aria-hidden="true" style="font-size:25px;"></i></a> 
+          <span><strong>Bilibili:</strong><a href="https://space.bilibili.com/3493081707972928"> Reports replay！</a></span></div>
+        </li>
+      </ul>
+    </div>
     <!-- ################################################################################################ -->
-  &lt;/header&gt;
+  </header>
   
   <div id="pageintro" class="hoc clear" style="padding-top:0px;padding-bottom:10px"> 
     <!-- ################################################################################################ -->
@@ -47,7 +50,7 @@
     <!-- ################################################################################################ -->
   </div>
   <!-- ################################################################################################ -->
-&lt;/div&gt;
+</div>
 <!-- End Top Background Image Wrapper -->
 <!-- ################################################################################################ -->
 <!-- Salon schedule#################################################################### -->
@@ -562,18 +565,7 @@ Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物
 <!--poster end -->
 <!-- footer ################################################################################################ -->
 
-&lt;/body&gt;
-&lt;/html&gt;
+</body>
+</html>
 
-
-
-
-
-
-
-
-
-
-
-</a></div></li></ul></div></header></div></body></html>
 :ET

@@ -1,4 +1,4 @@
-I"ná<html lang="">
+I"©à<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -26,10 +26,13 @@
         </li>
         <!--<li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
-        </li>-->
+        </li>
         <li class="one_third">
-          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><iconify-icon icon="simple-icons:bilibili"></iconify-icon></a> 
-        <span><strong>Bilibili:</strong> Reports replayÔºÅ</span></div>
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-caret-square-o-right" aria-hidden="true" style="font-size:25px;"></i></a> 
+        <span><strong>Bilibili:</strong> Reports replayÔºÅ</span></div>-->
+        <li class="one_third">
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-bilibili"></i></a> 
+          <span><strong>Bilibili:</strong><a href="https://space.bilibili.com/3493081707972928"> Reports replayÔºÅ</a></span></div>
         </li>
       </ul>
     </div>

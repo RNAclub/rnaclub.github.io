@@ -35,10 +35,13 @@ permalink: /
         </li>
         <!--<li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
-        </li>-->
+        </li>
         <li class="one_third">
           <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-caret-square-o-right" aria-hidden="true" style="font-size:25px;"></i></a> 
-        <span><strong>Bilibili:</strong> Reports replay！</span></div>
+        <span><strong>Bilibili:</strong> Reports replay！</span></div>-->
+        <li class="one_third">
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-play-circle" aria-hidden="true" style="font-size:26px;"></i></a> 
+          <span><strong>Bilibili:</strong><a href="https://space.bilibili.com/3493081707972928"> Reports replay</a></span></div>
         </li>
       </ul>
     </div>
