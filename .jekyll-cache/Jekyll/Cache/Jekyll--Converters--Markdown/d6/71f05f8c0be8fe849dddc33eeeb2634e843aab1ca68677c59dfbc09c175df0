@@ -1,4 +1,4 @@
-I"Ն<html lang="">
+I"g�<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -24,8 +24,12 @@
         <li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
         </li>
-        <li class="one_third">
+        <!--<li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
+        </li>-->
+        <li class="one_third">
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-clock" style="font-size:25px;"></i></a> 
+        <span><strong>Bilibili:</strong> Reports replay！</span></div>
         </li>
       </ul>
     </div>
@@ -237,18 +241,18 @@
           <figure><a class="imgover" href="http://localhost:4000/docs/2022-08-19-David.html"><img src="images/newspic/David220819-1.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">David M.J. Lilley [22-08-19]</h6>
-              <p>Structure and mechanism of a methyl transferase ribozyme&nbsp;&lt;/a&gt;</p>
+              <p>Structure and mechanism of a methyl transferase ribozyme&nbsp;</p>
             </figcaption>
           </figure>
         </li>
         <li class="col-sm-4" style="margin-top:40px">
-          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing" />
+          <figure><a class="imgover" href="http://localhost:4000/docs/2023-01-04.html"><img src="images/eventpic/event0104/0104.png" alt="drawing" /></a>
             <figcaption>
               <h6 class="heading">Runsheng Chen[23-01-04]</h6>
-              <p>Big Data, AI And Nucleic Acid Drugs&nbsp;<a href="https://www.bilibili.com/video/BV13D4y1W7HD/?spm_id_from=333.999.0.0&amp;vd_source=f97b88c9400c9d0b88e6bbfbb3ff8294"><iconify-icon icon="simple-icons:bilibili" style="font-size:36px;"></iconify-icon></a></p>
+              <p>Big Data, AI And Nucleic Acid Drugs&nbsp;<a href="https://www.bilibili.com/video/BV13D4y1W7HD/?spm_id_from=333.999.0.0&amp;vd_source=f97b88c9400c9d0b88e6bbfbb3ff8294"><iconify-icon icon="simple-icons:bilibili" style="font-size:36px;"></iconify-icon></a> </p>
             </figcaption>
-          &lt;/figure&gt;
-        &lt;/li&gt;
+          </figure>
+        </li>
         <li class="col-sm-4" style="margin-top:40px">
           <figure><a class="imgover" href="http://localhost:4000/docs/2023-03-16.html"><img src="images/eventpic/event0316/1.png" alt="drawing" /></a>
             <figcaption>
@@ -281,12 +285,12 @@
             </figcaption>
           </figure>
         </li>-->
-      &lt;/ul&gt;
-    &lt;/section&gt;
+      </ul>
+    </section>
     <!-- / main body -->
     <div class="clear"></div>
-  &lt;/main&gt;
-&lt;/div&gt;
+  </main>
+</div>
 <!-- poster showing section -->
 <!--<div class="wrapper row2">
   <section class="hoc container clear"> 
@@ -558,18 +562,7 @@ Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物
 <!--poster end -->
 <!-- footer ################################################################################################ -->
 
-&lt;/body&gt;
-&lt;/html&gt;
+</body>
+</html>
 
-
-
-
-
-
-
-
-
-
-
-</a></figure></li></ul></section></main></div></body></html>
 :ET
