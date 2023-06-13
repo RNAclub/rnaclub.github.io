@@ -1,4 +1,4 @@
-I"�<html lang="">
+I"��<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -31,8 +31,8 @@
           <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-caret-square-o-right" aria-hidden="true" style="font-size:25px;"></i></a> 
         <span><strong>Bilibili:</strong> Reports replay！</span></div>-->
         <li class="one_third">
-          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928">&lt;<iconify-icon icon="simple-icons:bilibili" style="font-size:36px;"></iconify-icon></a> 
-          <span><strong>Bilibili:</strong><a href="https://space.bilibili.com/3493081707972928"> Reports replay！</a></span></div>
+          <div class="block clear"><a href="https://space.bilibili.com/3493081707972928"><i class="fa fa-play-circle" aria-hidden="true" style="font-size:26px;"></i></a> 
+          <span><strong>Bilibili:</strong><a href="https://space.bilibili.com/3493081707972928"> Reports replay (all report video)</a></span></div>
         </li>
       </ul>
     </div>
@@ -80,21 +80,18 @@
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Yiliang Ding</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Department of Cell and Developmental Biology, John Innes Centre, UK</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="5">Chun Kit KWOK</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.kitkwok.com/">Department of Chemistry and State Key Laboratory of Marine Pollution City University of Hong Kong,Hong Kong SAR, China</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">RNA structure, a hidden regulator in living cells</h6>
-            <p style="padding-top:10px">  Research Fields:
-1. Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing;
-2. Exploring how RNA structures alter in response to environmental changes;
-3. Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions.
-            [<a href="https://www.jic.ac.uk/people/yilliang-ding/">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px">Identification, characterization and targeting of RNA G-quadruplex structures</h6>
+            <p style="padding-top:10px">  Explore the role of RNA structures and interactions in biology, particularly the function of G4 structures/interactions and non-coding RNA structures/interactions in the mammalian transcriptome and their relevance to gene regulation, RNA metabolism, and disease.
+            [<a href="https://www.kitkwok.com/">&hellip;</a>]</p>
             <footer><a href="#">Read More..</a></footer><br />
           </div>
-          <time datetime="2023-02-28T16:00+18:00"><strong>25</strong> <em>April</em><em>2023</em></time>
+          <time datetime="2023-06-16T10:00+11:30"><strong>16</strong> <em>June</em><em>2023</em></time>
         </article>
       </li>
-      <!--<li class="one_half first">
+      <!--<li class="one_half first">event
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
@@ -226,7 +223,7 @@
     </ul>
     <footer class="center"><a class="btn" href="http://localhost:4000/events">View More</a><br /><br />
     <a href="http://localhost:4000/Join"><strong>(More open position to explore the RNA world...)</strong></a>
-    </footer><br />
+    </footer>
 
   </section>
 </div>
@@ -312,17 +309,17 @@
       <h6 class="heading">Latest Academic Events schedule </h6>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
-     <li class="two_third first">
-        <img src="http://localhost:4000/images/newspic/event230522.png" style="max-width: 54%;padding-left:20px;padding-right:20px;" />
-        <!--<img src="http://localhost:4000/images/newspic/event230425-2.png" style="max-width: 44%;padding-left:5px;padding-right:5px;">--> 
+     <li class="one_half first">
+        <img src="http://localhost:4000/images/newspic/event230616.png" style="max-width: 74%;padding-left:40px;padding-right:20px;" />
+        <!--<img src="http://localhost:4000/images/newspic/event230425-2.png" Tencent meeting ID:741-265-041,style="max-width: 44%;padding-left:5px;padding-right:5px;">--> 
     </li>
-    <li class="one_third" style="border-left:1px solid #f0f0f0">
+    <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the excellent presentation by Prof.<strong>Yiliang Ding</strong> from the John Innes Centre in the UK, at 9am 2023-05-22, Professor <strong> Yi Xing </strong> from Children’s Hospital of Philadelphia and University of Pennsylvania will give a talk on &lt; Long-read strategies to study the human transcriptome &gt; to the Guangzhou RNA club of the International RNA Association. Dr. Yi Xing is the Director of the Center for Computational and Genomic Medicine and the Executive Director of the Department of Biomedical and Health Informatics at the Children’s Hospital of Philadelphia (CHOP). He has developed some of the foundational algorithms and several widely used tools for studying transcriptome variation using high-throughput technologies.<br /><br />
-            Tencent meeting ID:741-265-041,<br />
+            <p style="padding-top:10px"> Following the excellent presentation by Prof.<strong> Yi Xing</strong> from the John Innes Centre in the UK, at 10am 2023-06-16, Professor <strong> Chun Kit KWOK </strong> from Department of Chemistry and State Key Laboratory of Marine Pollution City University of Hong Kong, will give a talk on &lt; Identification, characterization and targeting of RNA G-quadruplex structures &gt; to the Guangzhou RNA club of the International RNA Association. Dr. Chun Kit KWOK focus on exploring the role of RNA structures and interactions in biology, particularly the function of G4 structures/interactions and non-coding RNA structures/interactions in the mammalian transcriptome and their relevance to gene regulation, RNA metabolism, and disease.<br /><br />
+            Zoom Meeting ID: 375 375 1031, Passcode: Qcd8Vs<br />
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br />
-Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 22!  <br /><br />
-Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br /><br /><br />
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on June 16!  <br /><br />
+            Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br /><br /><br />
             </p>   
         </article>
     </li> 
@@ -419,7 +416,7 @@ Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物
   <section id="testimonials" class="hoc container clear"> 
     <!-- ##### -->
     <div class="sectiontitle" style="margin-bottom: 40px">
-      <p class="nospace font-xs">The</p>
+      <p class="nospace font-xs"></p>
       <h6 class="heading">Salon Founder</h6>
     </div>
     <article class="col-sm-6">
