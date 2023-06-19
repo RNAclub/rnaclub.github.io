@@ -104,23 +104,21 @@ permalink: /events/
     </div>
   </div>
 </div>
-<!--<div class="item">
+<div class="item">
   <div class="image">
     <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
-      <span>
-      07.12.2016
-      </span>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-05-22.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Xingyi.png" /></a>
+      <span> 2023.05.22</span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1 id="time1"> 林水宾 </h1>
-      <p id="p1">Quisque vestibulum iaculis felis eget varius. Morbi bibendum lectus felis, sed vehicula purus pellentesque eu. Maecenas sit amet libero vel nunc porta tincidunt fringilla nec mauris. Phasellus pharetra pharetra massa. Ut maximus purus eget libero dapibus, sit amet ultricies eros auctor. Nulla tristique dui nec libero rhoncus, et dictum odio lobortis. Proin consectetur nec sapien hendrerit lobortis. Proin mi odio, mollis ac ullamcorper in, pellentesque non nulla. In pretium purus at posuere efficitur. Donec eget cursus quam, in mollis libero. Mauris tempor volutpat sodales. Nulla in odio nec metus elementum ultricies sit amet vel dolor.</p>
+      <h1 id="time1">Yi Xing - Long-read strategies to study the human transcriptome </h1>
+      <p id="p1">Professor Yi Xing's research focuses on bioinformatics and genomics related to RNA expression regulation, with a particular interest in applying these emerging technologies to investigate the role of RNA in human disease and genetics. In recent years, his laboratory has been particularly interested in utilizing new long-read RNA sequencing technologies to study the human transcriptome.<a href="{{ site.url }}{{ site.baseurl }}/docs/2023-05-22.html">(More...) </a></p>
     </div>
   </div>
 </div>
- <div class="item">
+ <!--<div class="item">
   <div class="image">
     <div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/RNA_club_logo.jpg" />
