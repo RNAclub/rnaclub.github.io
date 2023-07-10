@@ -336,7 +336,7 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. <br><br>
             Zoom Meeting link:<a href="https://us06web.zoom.us/i/82283798518?pwd=dk1NZlkvY2tLNWdueHl2Vmd0NiV2Z209">https://us06web.zoom.us/i/82283798518?pwd=dk1NZlkvY2tLNWdueHl2Vmd0NiV2Z209</a>, Passcode: 666666<br>
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on June 16!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 14!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>
         </article>
