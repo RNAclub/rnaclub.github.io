@@ -89,7 +89,6 @@ permalink: /events/
     </div>
   </div>
 </div>
-
 <div class="item">
   <div class="image">
     <div>
@@ -99,7 +98,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Janusz M. Bujnicki <Computational modeling of RNA 3D structures and interactions with the use of experimental data></h1>
+      <h1 id="time1">Janusz M. Bujnicki < Computational modeling of RNA 3D structures and interactions with the use of experimental data ></h1>
       <p id="p1"> Our research focuses on the structure of RNA and its interaction with RNA proteins. Using biophysics and computational simulation techniques, we explore the dynamic behavior and structural features of RNA and develop new RNA structure prediction algorithms. Additionally, we investigate the mechanism of action of RNA proteins, especially those related to diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-03-16.html">(More...) </a> </p>
     </div>
   </div>
@@ -107,7 +106,23 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-05-22.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Xingyi.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-04-25.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Yiliang_Ding.png" /></a>
+      <span> 2023.04.25</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Yiliang Ding < RNA structure, a hidden regulator in living cells ></h1>
+      <p id="p1"> Research Fields: Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing; 
+      Exploring how RNA structures alter in response to environmental changes;
+      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-04-25.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-05-22.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Yi_Xing.png" /></a>
       <span> 2023.05.22</span>
     </div>
   </div>
