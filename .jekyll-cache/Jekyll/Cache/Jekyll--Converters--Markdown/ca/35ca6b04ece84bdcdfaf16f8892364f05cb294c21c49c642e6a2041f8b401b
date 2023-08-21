@@ -1,4 +1,4 @@
-I"A�<html lang="">
+I"ƍ<html lang="">
 <head>
 <title>&nbsp;&nbsp;Guangzhou RNA club</title>
 <meta charset="utf-8" />
@@ -80,12 +80,12 @@
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Chun Kit KWOK</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.kitkwok.com/">Department of Chemistry and State Key Laboratory of Marine Pollution City University of Hong Kong,Hong Kong SAR, China</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Pascale Romby</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">Directress of the UP 9002 CNRS-ARN at IBMC &amp; Host of Stras-RNA club</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Identification, characterization and targeting of RNA G-quadruplex structures</h6>
-            <p style="padding-top:10px">  Explore the role of RNA structures and interactions in biology, particularly the function of G4 structures/interactions and non-coding RNA structures/interactions in the mammalian transcriptome and their relevance to gene regulation, RNA metabolism, and disease.
-            [<a href="https://www.kitkwok.com/">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px">Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future challenges</h6>
+            <p style="padding-top:10px"> Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence).Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria.
+            [<a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">&hellip;</a>]</p>
             <footer><a href="#">Read More..</a></footer><br />
           </div>
           <time datetime="2023-06-16T10:00+11:30"><strong>16</strong> <em>June</em><em>2023</em></time>
@@ -312,24 +312,15 @@
       <h6 class="heading">Latest Academic Events schedule </h6>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
-     <li class="two_third first">
-        <img src="http://localhost:4000/images/newspic/event230714-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;" />
-        <img src="http://localhost:4000/images/newspic/event230714-2.png" style="max-width: 46%;padding-left:0px;padding-right:5px;" />
+    <li class="one_half first">
+        <img src="http://localhost:4000/images/newspic/event230824.png" style="max-width: 100%;padding-left:0px;padding-right:0px;" />
     </li>
-    <li class="one_third" style="border-left:1px solid #f0f0f0">
+    <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <!--<p style="padding-top:10px"> Following the excellent presentation by Prof.<strong> Yi Xing</strong> from the John Innes Centre in the UK, at 10am 2023-06-16, Professor <strong> Chun Kit KWOK </strong> from Department of Chemistry and State Key Laboratory of Marine Pollution City University of Hong Kong, will give a talk on < Identification, characterization and targeting of RNA G-quadruplex structures > to the Guangzhou RNA club of the International RNA Association. Dr. Chun Kit KWOK focus on exploring the role of RNA structures and interactions in biology, particularly the function of G4 structures/interactions and non-coding RNA structures/interactions in the mammalian transcriptome and their relevance to gene regulation, RNA metabolism, and disease.<br><br>
-            Zoom Meeting ID: 375 375 1031, Passcode: Qcd8Vs<br>
-            bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on June 16!  <br><br>
-            Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
-            </p>-->
-            <p style="padding-top:10px"> We are thrilled to present the yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. <br /><br />
-            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82283798518?pwd=d
-k1NZlkvY2tLNWdueHI2VmdONjV2Zz09">https://us06web.zoom.us/j/82283798518?pwd=d
-k1NZlkvY2tLNWdueHI2VmdONjV2Zz09</a>, Passcode: 666666<br />
+            <p style="padding-top:10px"> Following the yearly symposium program organized by Guangzhou RNAclub. Professor <strong> Pascale Romby </strong> from Directress of the UP 9002 CNRS-ARN at IBMC, will give a talk on &lt; Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future challenges &gt; to the Guangzhou RNA club of the International RNA Association. Dr. Pascale Romby focus on exploring the mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence). Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria. And the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus.<br /><br />
+            Zoom Meeting ID: 375 375 1031, Passcode: 666666<br />
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br />
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 14!  <br /><br />
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on June 16!  <br /><br />
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br /><br /><br />
             </p>
         </article>
@@ -337,6 +328,25 @@ k1NZlkvY2tLNWdueHI2VmdONjV2Zz09</a>, Passcode: 666666<br />
     </ul>
   </section>
 </div>
+    <!--<li class="two_third first" >
+        <img src="http://localhost:4000/images/newspic/event230714-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
+        <img src="http://localhost:4000/images/newspic/event230714-2.png" style="max-width: 46%;padding-left:0px;padding-right:5px;">
+    </li>
+    <li class="one_third" style="border-left:1px solid #f0f0f0">
+        <article>   
+            <p style="padding-top:10px"> We are thrilled to present the yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. <br><br>
+            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82283798518?pwd=d
+k1NZlkvY2tLNWdueHI2VmdONjV2Zz09">https://us06web.zoom.us/j/82283798518?pwd=d
+k1NZlkvY2tLNWdueHI2VmdONjV2Zz09</a>, Passcode: 666666<br>
+            bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 14!  <br><br>
+            Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
+            </p>-->
+        &lt;/article&gt;
+    &lt;/li&gt; 
+    &lt;/ul&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
 <!-- feedback ######################################################################################### -->
 <div class="wrapper row3" style="padding-top:50px">
 <div class="sectiontitle">
