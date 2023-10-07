@@ -89,15 +89,15 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Pascale Romby</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">Directress of the UP 9002 CNRS-ARN at IBMC & Host of Stras-RNA club</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Jeffrey S. Kieft</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">Executive Director of the New York Structural Biology Center</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future challenges</h6>
-            <p style="padding-top:10px"> Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence).Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria.
-            [<a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px">Conformational dynamics and manipulation of the translation machinery by a viral RNA</h6>
+            <p style="padding-top:10px"> RNA's functional diversity is provided by a rich variety of folded three-dimensional structures that are often conformationally dynamic. Understanding how these RNAs perform their biological function thus requires an understand of their structure and motions at different resolutions. We are particularly interested in viral RNAs, which can interact with and manipulate the cellular machinery.
+            [<a href="https://www.kieftlab.org/.">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-08-24T16:00+17:00"><strong>24</strong> <em>Aug</em><em>2023</em></time>
+          <time datetime="2023-08-24T16:00+17:00"><strong>27</strong> <em>Sep</em><em>2023</em></time>
         </article>
       </li>
       <!--<li class="one_half first">event
@@ -322,14 +322,14 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230824.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230927.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the yearly symposium program organized by Guangzhou RNAclub. Professor <strong> Pascale Romby </strong> from Directress of the UP 9002 CNRS-ARN at IBMC, will give a talk on < Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future challenges > to the Guangzhou RNA club of the International RNA Association. Dr. Pascale Romby focus on exploring the mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence). Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria. And the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus.<br><br>
-            Zoom Meeting ID: 375 375 1031, Passcode: 666666<br>
+            <p style="padding-top:10px"> Following the Professor <strong> Pascale Romby </strong>, Professor <strong>Jeffrey Kieft</strong> from Executive Director of the New York Structural Biology Center, will give a talk on <strong>< Conformational dynamics and manipulation of the translation machinery by a viral RNA > </strong>to the Guangzhou RNA club of the International RNA Association. Professor Kieft has dedicated his research efforts to understanding how RNA forms complex three-dimensional structures and how these structures control diverse biological processes. Their particular, though not exclusive, focus lies in examining how viral RNAs engage with, regulate, and influence cellular machinery. Given the exceptional diversity found within viruses and viral RNAs, valuable insights are being gained into fundamental aspects of RNA structure, the mechanisms through which viruses induce diseases, and the fundamental operations of the cell. For more information about his outstanding work, please visit his profile at https://www.kieftlab.org/.<br><br>
+            Zoom Meeting ID: 623 8851 5658, Passcode: 666666<br>
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on June 16!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on September 27!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >
