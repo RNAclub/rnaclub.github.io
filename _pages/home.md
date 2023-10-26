@@ -213,7 +213,7 @@ permalink: /
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the Professor <strong> Matthias W. Hentze </strong>, Professor <strong>Zhipeng Lu</strong> from University of Southern California (USC), will give a talk on <strong>< Decoding the RNA structurome and interactome in cells.> <br>
+            <p style="padding-top:10px"> Following the Professor <strong> Matthias W. Hentze </strong>, Professor <strong>Zhipeng Lu</strong> from University of Southern California (USC), will give a talk on <strong>< Decoding the RNA structurome and interactome in cells.></strong><br>
             Dr. Zhipeng Lu is an assistant professor at the University of Southern California (USC), and a pioneer in the field of in vivo RNA structure and interaction analysis. He was a postdoctoral fellow with Howard Chang at Stanford before starting his own lab at USC in 2018. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. Major publications include Cell, PNAS, Nature Comm., Genome Biology, Genome Res. In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. For more information about his outstanding work, please visit his profile at https://zhipenglulab.org/.<br><br>
             Tencent Meeting ID: 761-640-492.<br>
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
