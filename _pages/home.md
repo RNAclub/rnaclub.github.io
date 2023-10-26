@@ -73,16 +73,17 @@ permalink: /
       <li class="one_half first">
         <article>
           <div class="excerpt">
-            <!--<ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3"> </font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#"></a></li>
-            </ul>-->
-            <h6 class="heading" style="padding-top:10px"><font size="5">Guangzhou RNA club 2023 yearly symposium program</font></h6>
-            <p style="padding-top:10px"> We are thrilled to present the yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA.
-            [<a href="#">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
+            <!--
+            <h6 class="heading" style="padding-top:10px"><font size="5">Guangzhou RNA club 2023 yearly symposium program</font></h6>-->
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Zhipeng Lu </font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://zhipenglulab.org">University of Southern California</a></li>
+            </ul>
+            <p style="padding-top:10px"> Structures of RNA molecules are essential for their architectural, regulatory, and catalytic functions. Recent advances in high throughput sequencing enabled the development of methods for probing RNA structures on a transcriptome-wide scale – termed the RNA structurome. 
+            [<a href="https://zhipenglulab.org/">&hellip;</a>]</p>
+            <footer ><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4785074/">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-05-22T09:00+11:00"><strong>14</strong> <em>JULY</em><em>2023</em></time>
+          <time datetime="2023-11-06T10:30+11:30"><strong>06</strong> <em>Nov</em><em>2023</em></time>
         </article>
       </li>
       <li class="one_half">
@@ -90,7 +91,7 @@ permalink: /
           <div class="excerpt">
             <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Matthias W. Hentze</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">Director, Co-Director of Molecular Medicine Partnership Unit (MMPU)</a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.embl.org/groups/hentze/">Director, Co-Director of Molecular Medicine Partnership Unit (MMPU)</a></li>
             </ul>
             <h6 class="heading" style="padding-top:10px">Riboregulation: Biology, Mechanisms and Scope</h6>
             <p style="padding-top:10px"> Riboregulation, the direct control of protein function by RNA, has begun to emerge as a new paradigm of biological control. We are beginning to understand molecular mechanisms of riboregulation, and investigation of the RBPs of mouse organs points to their broad roles in mammalian physiology I will discuss these new facets of the RBP World and their implications for cell biology, metabolism and disease mechanisms.
@@ -104,51 +105,6 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Jeffrey S. Kieft</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/en/annuaire/pascale-romby/">Executive Director of the New York Structural Biology Center</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Conformational dynamics and manipulation of the translation machinery by a viral RNA</h6>
-            <p style="padding-top:10px"> RNA's functional diversity is provided by a rich variety of folded three-dimensional structures that are often conformationally dynamic. Understanding how these RNAs perform their biological function thus requires an understand of their structure and motions at different resolutions. We are particularly interested in viral RNAs, which can interact with and manipulate the cellular machinery.
-            [<a href="https://www.kieftlab.org/.">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-08-24T16:00+17:00"><strong>27</strong> <em>Sep</em><em>2023</em></time>
-        </article>
-      </li>
-      <li class="one_half first">event
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Janusz M. Bujnicki</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://genesilico.pl/">Young Academy at Polish Academy of Sciences Fellow of EMBO ｜Professor at International Institute of Molecular and Cell Biology in Warsaw</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Computational modeling of RNA 3D structures and interactions with the use of experimental data</h6>
-            <p style="padding-top:10px"> Ribonucleic acid (RNA) molecules are the master regulators of cells. They are involved in many molecular processes: They transmit genetic information, sense cellular signals and transmit responses, and even catalyze chemical reactions. The function of RNA, and in particular its ability to interact with other molecules, is encoded in sequence. Understanding how these molecules perform their biological tasks requires detailed knowledge of RNA structure and dynamics, as well as thermodynamics, which largely determines how RNA folds and interacts in the cellular environment.
-            [<a href="https://genesilico.pl/">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-03-16T15:00+17:00"><strong>16</strong> <em>MAR</em><em>2023</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">屈良鹄</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中山大学</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">RNA 驱动的细胞组学与新一代精准医疗</h6>
-            <p style="padding-top:10px"> 20多年来，我国科学家勇于开拓创新，在RNA信息学、RNA生物学、RNA医学、非编码基因资源与技术等方面走上国际前沿。目前，RNA科学已率先进入生物大数据时代，以非编码核酸为代表的基因组“暗物质”正在转化为细胞 “大数据”，RVA驱动的细胞组学和新一代精准医疗已成为21世纪生命科学与生物技术的制高点，有望在解析细胞功能图谱及健康机制等方面取得重大突破，为解決人类重大疾病提供颠覆性思路与技术。
-            [<a href="https://people.ucas.ac.cn/~runshengchen">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-02-28T15:00+17:00"><strong>28</strong> <em>Feb</em><em>2023</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Xiuwei zhang</a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">School of Computational Science & Engineering, College of Computing, Georgia Institute of Technology</a></li>
             </ul>
@@ -158,76 +114,6 @@ permalink: /
             <footer><a href="#">Read more...</a></footer><br>
           </div>
           <time datetime="2023-01-11T10:00+11:30"><strong>11</strong> <em>Jan </em><em>2023</em></time>
-        </article>
-      </li>
-      <li class="one_half first">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">靳文菲</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">南方科技大学</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px"> 开发和利用单细胞测序技术多角度解析细胞异质性</h6>
-            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2022-11-21T09:30+10:30"><strong>21</strong> <em>Nov</em><em>2022</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">赵方庆</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院动物研究所</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">环形RNA数据挖掘技术及应用</h6>
-            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More</a></footer>
-          </div>
-          <time datetime="2022-11-23T09:30+11:30"><strong>23</strong> <em>Nov</em><em>2022</em></time>
-        </article>
-      </li>
-      <li class="one_half first">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">薛愿超</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">中国科学院生物物理研究所研究员</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px"> 非编码RNA与转录调控</h6>
-            <p style="padding-top:10px">  [<a href="#">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2022-11-23T09:30+11:30"><strong>23</strong> <em>Nov</em><em>2022</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">伊成器</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">北京大学</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">RNA修饰的检测功能与机制</h6>
-            <p style="padding-top:10px"> [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More</a></footer>
-          </div>
-          <time datetime="2045-04-05T08:15+00:00"><strong>25</strong> <em>Nov</em><em>2022</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#">Admin</a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Category Name</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Eget lorem in in felis in metus mollis</h6>
-            <p style="padding-top:10px">Eget lorem in in felis in metus mollis blandit ut eu justo suspendisse semper sem sit amet ligula quisque eget felis eu tortor tristique pharetra praesent turpis pede varius sed [<a href="#">&hellip;</a>]</p>
-            <footer><a href="#">Read More</a></footer>
-          </div>
-          <time datetime="2045-04-05T08:15+00:00"><strong>05</strong> <em>Apr</em><em>2022</em></time>
         </article>
       </li>-->
     </ul>
@@ -323,14 +209,13 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231025.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231106.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the Professor <strong> Jeffrey Kieft </strong>, Professor <strong>Matthias W. Hentze</strong> from Director of the European Molecular Biology Laboratory, will give a talk on <strong>< Riboregulation: Biology, Mechanisms and Scope > </strong>to the Guangzhou RNA club of the International RNA Association. <br>
-            Until system-wide, unbiased analyses increased the number of recognized RNA-binding proteins (RBs) well into the four-digit range, fewer than half of all BPs were known. This surprising outcome delivered new challenges for exploration: from the prevalence of structurally disordered RNA-binding regions with roles in the formation of RNA-protein condensates to unsuspected and potentially pervasive connections between intermediary metabolism and RNA regulation.
-            Riboregulation, the direct control of protein function by RNA, has begun to emerge as a new paradigm of biological control. We are beginning to understand molecular mechanisms of riboregulation, and investigation of the RBPs of mouse organs points to their broad roles in mammalian physiology I will discuss these new facets of the RBP World and their implications for cell biology, metabolism and disease mechanisms. For more information about his outstanding work, please visit his profile at https://www.embl.org/groups/hentze/.<br><br>
-            Zoom Meeting ID: 623 8851 5658, Passcode: 666666<br>
+            <p style="padding-top:10px"> Following the Professor <strong> Matthias W. Hentze </strong>, Professor <strong>Zhipeng Lu</strong> from University of Southern California (USC), will give a talk on <strong>< Decoding the RNA structurome and interactome in cells.> <br>
+            Dr. Zhipeng Lu is an assistant professor at the University of Southern California (USC), and a pioneer in the field of in vivo RNA structure and interaction analysis. He was a postdoctoral fellow with Howard Chang at Stanford before starting his own lab at USC in 2018. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. Major publications include Cell, PNAS, Nature Comm., Genome Biology, Genome Res. In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. For more information about his outstanding work, please visit his profile at https://zhipenglulab.org/.<br><br>
+            Tencent Meeting ID: 761-640-492.<br>
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
             Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on September 27!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
