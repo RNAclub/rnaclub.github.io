@@ -90,15 +90,15 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Matthias W. Hentze</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.embl.org/groups/hentze/">Director, Co-Director of Molecular Medicine Partnership Unit (MMPU)</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Ling-Ling Chen</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://sourcedb.sibs.cas.cn/yw/rck/201104/t20110429_3124168.html">Center for Excellence in Molecular Cell Science,CAS</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Riboregulation: Biology, Mechanisms and Scope</h6>
-            <p style="padding-top:10px"> Riboregulation, the direct control of protein function by RNA, has begun to emerge as a new paradigm of biological control. We are beginning to understand molecular mechanisms of riboregulation, and investigation of the RBPs of mouse organs points to their broad roles in mammalian physiology I will discuss these new facets of the RBP World and their implications for cell biology, metabolism and disease mechanisms.
-            [<a href="https://www.embl.org/groups/hentze/.">&hellip;</a>]</p>
+            <h6 class="heading" style="padding-top:10px">Lnc-ing RNA processing and function,and beyond</h6>
+            <p style="padding-top:10px"> By developing methods for genome-wide discovery and characterization of non-polyadenylated RNAs, Prof.Chen has identified several RNA species with unexpected formats. These RNAs are derived from long primary transcripts via unusual RNA processing pathways and are stabilized by distinct mechanisms. Prof. Chen has shown that some such RNAs are involved in key gene regulation events and are also implicated in human diseases. In this coming talk, Prof. Chen will discuss the general mechanisms of their formation and function, as well as how they study one sno-lncRNA named SLERT that has allowed us to uncover previously unknown organization and regulation in the human nucleolus.
+            [<a href="http://sourcedb.sibs.cas.cn/yw/rck/201104/t20110429_3124168.html">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-08-24T16:00+17:00"><strong>25</strong> <em>Oct</em><em>2023</em></time>
+          <time datetime="2023-11-24T15:00+16:00"><strong>24</strong> <em>Nov</em><em>2023</em></time>
         </article>
       </li>
    <!--<li class="one_half">
@@ -209,13 +209,14 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231106.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231124.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the Professor <strong> Matthias W. Hentze </strong>, Professor <strong>Zhipeng Lu</strong> from University of Southern California (USC), will give a talk on <strong>< Decoding the RNA structurome and interactome in cells.></strong><br>
-            Dr. Zhipeng Lu is an assistant professor at the University of Southern California (USC), and a pioneer in the field of in vivo RNA structure and interaction analysis. He was a postdoctoral fellow with Howard Chang at Stanford before starting his own lab at USC in 2018. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. Major publications include Cell, PNAS, Nature Comm., Genome Biology, Genome Res. In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. For more information about his outstanding work, please visit his profile at https://zhipenglulab.org/.<br><br>
-            Tencent Meeting ID: 761-640-492.<br>
+            <p style="padding-top:10px"> Following the Professor <strong> Zhipeng Lu </strong>, Professor <strong>Ling-Ling Chen</strong> from Center for Excellence in Molecular Cell Science(CAS), will give a talk on <strong>< Lnc-ing RNA processing and function,and beyond></strong><br>
+            Prof. Chen is a group leader at the Center for Excellence in Molecular Cell, Chinese Academy of Sciences. She is currently serving as editorial board members for journals such as Science, Cell, and Mol Cell. She is also an HHMI international research scholar and Distinguished Young Scholar of NSFC.<br><br>
+            By developing methods for genome-wide discovery and characterization of non-polyadenylated RNAs, Prof. Chen has identified several RNA species with unexpected formats. These RNAs are derived from long primary transcripts via unusual RNA processing pathways and are stabilized by distinct mechanisms. Prof. Chen has shown that some such RNAs are involved in key gene regulation events and are also implicated in human diseases. In this coming talk, Prof. Chen will discuss the general mechanisms of their formation and function, as well as how they study one sno-lncRNA named SLERT that has allowed us to uncover previously unknown organization and regulation in the human nucleolus. For more information about his outstanding work, please visit her profile at https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670125.html.<br><br>
+            Tencent Meeting ID: 412-116-964.<br>
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
             Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on September 27!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
