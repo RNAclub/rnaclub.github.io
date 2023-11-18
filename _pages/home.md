@@ -218,7 +218,7 @@ permalink: /
             By developing methods for genome-wide discovery and characterization of non-polyadenylated RNAs, Prof. Chen has identified several RNA species with unexpected formats. These RNAs are derived from long primary transcripts via unusual RNA processing pathways and are stabilized by distinct mechanisms. Prof. Chen has shown that some such RNAs are involved in key gene regulation events and are also implicated in human diseases. In this coming talk, Prof. Chen will discuss the general mechanisms of their formation and function, as well as how they study one sno-lncRNA named SLERT that has allowed us to uncover previously unknown organization and regulation in the human nucleolus. For more information about his outstanding work, please visit her profile at https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670125.html.<br><br>
             Tencent Meeting ID: 412-116-964.<br>
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on September 27!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on November 24!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >
