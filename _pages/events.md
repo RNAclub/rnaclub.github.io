@@ -133,6 +133,49 @@ permalink: /events/
     </div>
   </div>
 </div>
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-08-24.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Pascale_Romby.png" /></a>
+      <span> 2023.08.24</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Pascale Romby < Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future ></h1>
+      <p id="p1"> 1.Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence); 2.Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria; 3.Research on the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus...<br>
+      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-08-24.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-09-27.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Jeffrey_Kieft.png" /></a>
+      <span> 2023.09.27</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Jeffrey Kieft < Conformational dynamics and manipulation of the translation machinery by a viral RNA ></h1>
+      <p id="p1"> In this seminar, I will present our work towards understanding how a viral RNA binds the ribosome and enables a noncanonical "translation reinitiation" event. Combining bioinformatic, functional, and structural data from Cryo-EM, we propose a model for how this relatively small RNA uses programmed molecular motions within a surprisingly simple mechanism. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-09-27.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Zhipeng_Lu.png" /></a>
+      <span> 2023.11.06</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Zhipeng Lu < Decoding the RNA structurome and interactome in cells ></h1>
+      <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
  <!--<div class="item">
   <div class="image">
     <div>
