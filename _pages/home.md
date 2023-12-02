@@ -76,14 +76,15 @@ permalink: /
             <!--
             <h6 class="heading" style="padding-top:10px"><font size="5">Guangzhou RNA club 2023 yearly symposium program</font></h6>-->
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Zhipeng Lu </font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://zhipenglulab.org">University of Southern California</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Elena Rivas </font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.mcb.harvard.edu/directory/elena-rivas/">Harvard University</a></li>
             </ul>
-            <p style="padding-top:10px"> Structures of RNA molecules are essential for their architectural, regulatory, and catalytic functions. Recent advances in high throughput sequencing enabled the development of methods for probing RNA structures on a transcriptome-wide scale – termed the RNA structurome. 
-            [<a href="https://zhipenglulab.org/">&hellip;</a>]</p>
-            <footer ><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4785074/">Read More..</a></footer><br>
+            <h6 class="heading" style="padding-top:10px">Evolutionary conservation of RNA structure</h6>
+            <p style="padding-top:10px"> The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. I will present new directions to expand and apply these methods for the systematic identification of novel vertebrate structural RNAs relevant to human biology, and to create novel algorithms for the prediction of structured RNAs using deep learning methods. 
+            [<a href="https://www.mcb.harvard.edu/directory/elena-rivas/">&hellip;</a>]</p>
+            <footer ><a href="https://pubmed.ncbi.nlm.nih.gov/?term=RIVAS+ELENA">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-06T10:30+11:30"><strong>06</strong> <em>Nov</em><em>2023</em></time>
+          <time datetime="2023-11-07T09:00+10:00"><strong>07</strong> <em>Dec</em><em>2023</em></time>
         </article>
       </li>
       <li class="one_half">
@@ -209,14 +210,17 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231124.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231206.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the Professor <strong> Zhipeng Lu </strong>, Professor <strong>Ling-Ling Chen</strong> from Center for Excellence in Molecular Cell Science(CAS), will give a talk on <strong>< Lnc-ing RNA processing and function,and beyond></strong><br>
-            Prof. Chen is a group leader at the Center for Excellence in Molecular Cell, Chinese Academy of Sciences. She is currently serving as editorial board members for journals such as Science, Cell, and Mol Cell. She is also an HHMI international research scholar and Distinguished Young Scholar of NSFC.<br><br>
-            By developing methods for genome-wide discovery and characterization of non-polyadenylated RNAs, Prof. Chen has identified several RNA species with unexpected formats. These RNAs are derived from long primary transcripts via unusual RNA processing pathways and are stabilized by distinct mechanisms. Prof. Chen has shown that some such RNAs are involved in key gene regulation events and are also implicated in human diseases. In this coming talk, Prof. Chen will discuss the general mechanisms of their formation and function, as well as how they study one sno-lncRNA named SLERT that has allowed us to uncover previously unknown organization and regulation in the human nucleolus. For more information about his outstanding work, please visit her profile at https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670125.html.<br><br>
-            Tencent Meeting ID: 412-116-964.<br>
+            <p style="padding-top:10px"> Following the Professor <strong> Ling-Ling Chen </strong>, Professor <strong>Elena Rivas</strong> Department of Molecular and Cellular Biology, Harvard University, will give a talk on <strong>< Evolutionary conservation of RNA structure ></strong><br>
+            The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. <br><br> 
+            I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation calculation to identify negative pairs with power (variation) but insignificant covariation unlikely to form RNA base pairs; (2) a cascading folding algorithm that combines all positive and negative evolutionary information into complex structures including all types of pseu- doknots and triplets. (3) An enhanced covariation statistical test at helix-level resultion that increases sensitivity in the detection of evolutionaryly conserved RNA structure without sacrificing specificity.<br><br>
+            I will present new directions to expand and apply these methods for the systematic identification of novel vertebrate structural RNAs relevant to human biology, and to create novel algorithms for the prediction of structured RNAs using deep learning methods. <br><br>
+            For more information about her outstanding work, please visit her profile at<a href="https://www.mcb.harvard.edu/directory/elena-rivas/"> https://www.mcb.harvard.edu/directory/elena-rivas/.</a><br><br>
+            <!--Tencent Meeting ID: 412-116-964.<br>-->
+            Tencent Meeting ID: 431 722 8751(Passcode:666666).
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
             Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on November 24!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
