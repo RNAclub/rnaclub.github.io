@@ -31,7 +31,7 @@ permalink: /
           <div class="block clear"><a href="#"><i class="fa fa-wechat" style="font-size:20px;"></i></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
         </li>
         <li class="one_third">
-          <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> shi_yaohuang@gzlab.ac.cn</span></div>
+          <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> huanglin36@mail.sysu.edu.cn</span></div>
         </li>
         <!--<li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
@@ -260,7 +260,7 @@ k1NZlkvY2tLNWdueHI2VmdONjV2Zz09</a>, Passcode: 666666<br>
         </article>
     <footer class="center">
     <p><br>
-    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;shi_yaohuang@gzlab.ac.cn <br>
+    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;huanglin36@mail.sysu.edu.cn <br>
     </p>
     </footer><br><br><br><br><br> 
 </div>
