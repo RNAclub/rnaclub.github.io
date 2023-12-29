@@ -143,7 +143,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Chun Kit KWOK - Identification, characterization and targeting of RNA G-quadruplex structures </h1>
-      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research. In recent years, his research team has published more than 60 papers in internationally renowned journals such as Nature, Nature Methods, Nature Communications, Nature Protocols...<a href="{{ site.url }}{{ site.baseurl }}/docs/2023-05-22.html">(More...) </a></p>
+      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research. In recent years, his research team has published more than 60 papers in internationally renowned journals such as Nature, Nature Methods, Nature Communications, Nature Protocols...<a href="{{ site.url }}{{ site.baseurl }}/docs/2023-06-16.html">(More...) </a></p>
     </div>
   </div>
 </div>
