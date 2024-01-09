@@ -215,15 +215,25 @@ permalink: /
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Professor <strong>Mofang Liu</strong> Center for Excellence in Molecular Cell Science, CAS, will give a talk on <strong>RNA regulation and male reproductive development</strong>.<br>
-            Mofang Liu is a researcher at the Center for Innovation and Excellence in Molecular and Cellular Sciences. Her primary research encompasses RNA regulation and male reproductive studies, and she aims to shed light on the unknown causes behind more than half of male infertility, which has emerged as a global social concern. <br><br> 
-            Her concentrated efforts in RNA regulation, spermatogenesis, and male infertility have yielded a series of original and significant research breakthroughs. Notably, her work unveiled the piRNA regulatory pathway's abnormality as a novel contributor to male infertility. She also revealed fresh insights into mRNA translation regulation, sperm cell clearance, and degradation mechanisms. Her contributions include unravelling multiple mysteries in spermatogenesis, proposing novel theories, and advancing our comprehension of male reproductive patterns and the origins of male infertility.<br><br>
-            As a corresponding author, she has authored over 30 articles published in renowned journals such as Science, Cell (2), New England Journal of Medicine, Nature Cell Biology, Molecular Cell, and Developmental Cell, among others. Recognized as one of the leading researchers in RNA regulation and reproduction, she was recently invited by Nature Reviews Molecular Cell Biology to conduct a comprehensive review of PIWI/piRNA research progress. <br><br>
-            Additionally, Liu is Deputy Editor-in-Chief of 'Chinese Science: Life Sciences,' the Director of the RNA Professional Committee, and the Chief Scientist for key research and development programs under the Ministry of Science and Technology and significant basic research initiatives in Shanghai. She has been honored with the Shanghai First Prize in Natural Science, the First Prize in Natural Science of the National Science and Technology Award for Women's and Children's Health, and the Tan Jiazhen Life Science Innovation Award.<br><br>
-            For more information about her outstanding work, please visit her profile at<a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html"> https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html</a><br><br>
+            <p style="padding-top:10px"> Professor <strong>Mofang Liu</strong> Center for Excellence in Molecular Cell Science, CAS, will give a talk on <strong>RNA regulation and male reproductive development</strong>.
+            <br><br>
+            Mofang Liu is a researcher at the Center for Innovation and Excellence in Molecular and Cellular Sciences. Her primary research encompasses RNA regulation and male reproductive studies, and she aims to shed light on the unknown causes behind more than half of male infertility, which has emerged as a global social concern.
+            <br><br> 
+            Her concentrated efforts in RNA regulation, spermatogenesis, and male infertility have yielded a series of original and significant research breakthroughs. Notably, her work unveiled the piRNA regulatory pathway's abnormality as a novel contributor to male infertility. She also revealed fresh insights into mRNA translation regulation, sperm cell clearance, and degradation mechanisms. Her contributions include unravelling multiple mysteries in spermatogenesis, proposing novel theories, and advancing our comprehension of male reproductive patterns and the origins of male infertility.
+            <br><br>
+            As a corresponding author, she has authored over 30 articles published in renowned journals such as Science, Cell (2), New England Journal of Medicine, Nature Cell Biology, Molecular Cell, and Developmental Cell, among others. Recognized as one of the leading researchers in RNA regulation and reproduction, she was recently invited by Nature Reviews Molecular Cell Biology to conduct a comprehensive review of PIWI/piRNA research progress.
+            <br><br>
+            Additionally, Liu is Deputy Editor-in-Chief of 'Chinese Science: Life Sciences,' the Director of the RNA Professional Committee, and the Chief Scientist for key research and development programs under the Ministry of Science and Technology and significant basic research initiatives in Shanghai. She has been honored with the Shanghai First Prize in Natural Science, the First Prize in Natural Science of the National Science and Technology Award for Women's and Children's Health, and the Tan Jiazhen Life Science Innovation Award.
+            <br><br>
+            For more information about her outstanding work, please visit her profile at
+            <a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html">https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html
+            </a>
+            <br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
             Tencent Meeting ID: 771-988-232(Passcode:666666).
-            bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
+            bilibili live link: 
+            <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
+            </a>,
             Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on January 10th 2024!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>
