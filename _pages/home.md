@@ -70,7 +70,22 @@ permalink: /
       <h6 class="heading">Latest Academic Events Calendar</h6>
     </div>
     <ul class="nospace group latest">
-      <li class="one_half first">
+    <li class="one_half first">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Mofang Liu</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html">Center for Excellence in Molecular Cell Science,CAS</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">RNA regulation and male reproductive development</h6>
+            <p style="padding-top:10px"> Prof. Liu concentrated efforts in RNA regulation, spermatogenesis, and male infertility have yielded a series of original and significant research breakthroughs. Notably, her work unveiled the piRNA regulatory pathway's abnormality as a novel contributor to male infertility. She also revealed fresh insights into mRNA translation regulation, sperm cell clearance, and degradation mechanisms. Her contributions include unravelling multiple mysteries in spermatogenesis, proposing novel theories, and advancing our comprehension of male reproductive patterns and the origins of male infertility.
+            [<a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>10</strong> <em>Jan</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
         <article>
           <div class="excerpt">
             <!--
@@ -87,21 +102,7 @@ permalink: /
           <time datetime="2023-11-07T09:00+10:00"><strong>07</strong> <em>Dec</em><em>2023</em></time>
         </article>
       </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Ling-Ling Chen</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://sourcedb.sibs.cas.cn/yw/rck/201104/t20110429_3124168.html">Center for Excellence in Molecular Cell Science,CAS</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Lnc-ing RNA processing and function,and beyond</h6>
-            <p style="padding-top:10px"> By developing methods for genome-wide discovery and characterization of non-polyadenylated RNAs, Prof.Chen has identified several RNA species with unexpected formats. These RNAs are derived from long primary transcripts via unusual RNA processing pathways and are stabilized by distinct mechanisms. Prof. Chen has shown that some such RNAs are involved in key gene regulation events and are also implicated in human diseases. In this coming talk, Prof. Chen will discuss the general mechanisms of their formation and function, as well as how they study one sno-lncRNA named SLERT that has allowed us to uncover previously unknown organization and regulation in the human nucleolus.
-            [<a href="http://sourcedb.sibs.cas.cn/yw/rck/201104/t20110429_3124168.html">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>24</strong> <em>Nov</em><em>2023</em></time>
-        </article>
-      </li>
+      
    <!--<li class="one_half">
         <article>
           <div class="excerpt">
@@ -210,19 +211,20 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event231206.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Mofang _Liu_poster_20240108.jpg.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Following the Professor <strong> Ling-Ling Chen </strong>, Professor <strong>Elena Rivas</strong> Department of Molecular and Cellular Biology, Harvard University, will give a talk on <strong>< Evolutionary conservation of RNA structure ></strong><br>
-            The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. <br><br> 
-            I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation calculation to identify negative pairs with power (variation) but insignificant covariation unlikely to form RNA base pairs; (2) a cascading folding algorithm that combines all positive and negative evolutionary information into complex structures including all types of pseu- doknots and triplets. (3) An enhanced covariation statistical test at helix-level resultion that increases sensitivity in the detection of evolutionaryly conserved RNA structure without sacrificing specificity.<br><br>
-            I will present new directions to expand and apply these methods for the systematic identification of novel vertebrate structural RNAs relevant to human biology, and to create novel algorithms for the prediction of structured RNAs using deep learning methods. <br><br>
-            For more information about her outstanding work, please visit her profile at<a href="https://www.mcb.harvard.edu/directory/elena-rivas/"> https://www.mcb.harvard.edu/directory/elena-rivas/.</a><br><br>
+            <p style="padding-top:10px"> Professor <strong>Mofang Liu</strong> Center for Excellence in Molecular Cell Science, CAS, will give a talk on <strong>< RNA regulation and male reproductive development ></strong><br>
+            Mofang Liu is a researcher at the Center for Innovation and Excellence in Molecular and Cellular Sciences. Her primary research encompasses RNA regulation and male reproductive studies, and she aims to shed light on the unknown causes behind more than half of male infertility, which has emerged as a global social concern. <br><br> 
+            Her concentrated efforts in RNA regulation, spermatogenesis, and male infertility have yielded a series of original and significant research breakthroughs. Notably, her work unveiled the piRNA regulatory pathway's abnormality as a novel contributor to male infertility. She also revealed fresh insights into mRNA translation regulation, sperm cell clearance, and degradation mechanisms. Her contributions include unravelling multiple mysteries in spermatogenesis, proposing novel theories, and advancing our comprehension of male reproductive patterns and the origins of male infertility.<br><br>
+            As a corresponding author, she has authored over 30 articles published in renowned journals such as Science, Cell (2), New England Journal of Medicine, Nature Cell Biology, Molecular Cell, and Developmental Cell, among others. Recognized as one of the leading researchers in RNA regulation and reproduction, she was recently invited by Nature Reviews Molecular Cell Biology to conduct a comprehensive review of PIWI/piRNA research progress. <br><br>
+            Additionally, Liu is Deputy Editor-in-Chief of 'Chinese Science: Life Sciences,' the Director of the RNA Professional Committee, and the Chief Scientist for key research and development programs under the Ministry of Science and Technology and significant basic research initiatives in Shanghai. She has been honored with the Shanghai First Prize in Natural Science, the First Prize in Natural Science of the National Science and Technology Award for Women's and Children's Health, and the Tan Jiazhen Life Science Innovation Award.<br><br>
+            For more information about her outstanding work, please visit her profile at<a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html"> https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html</a><br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
-            Tencent Meeting ID: 431 722 8751(Passcode:666666).
+            Tencent Meeting ID: 771-988-232(Passcode:666666).
             bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on November 24!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on January 10th 2024!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >
