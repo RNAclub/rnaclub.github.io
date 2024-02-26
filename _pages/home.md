@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Weihong Tan</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.ibmc.ac.cn/doctor/content/id/328/fid/509.shtml">Academician of CAS, Director of  Hangzhou Institute of Medicine, CAS</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Molecular Medicine of Nucleic Acids
+            </h6>
+            <p style="padding-top:10px"> Modern medicine has entered the era of molecular medicine, where precision diagnosis and targeted therapy are inevitable developments in contemporary medicine. The development of molecular medicine will greatly promote the implementation of a Healthy China and the realization of the increasing desire of the people for a better life. Molecular medicine aims to reveal the processes and mechanisms of disease occurrence and development at the molecular level, to diagnose diseases early and accurately at the molecular level, to precisely treat diseases and guide recovery at the molecular level, and to prevent and predict diseases at the molecular level, achieving the vision of "preventing disease before it occurs." 
+            [<a href="https://www.ibmc.ac.cn/doctor/content/id/328/fid/509.shtml">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>26</strong> <em>Feb</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Mofang Liu</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html">Center for Excellence in Molecular Cell Science,CAS</a></li>
             </ul>
@@ -83,23 +99,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>10</strong> <em>Jan</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <!--
-            <h6 class="heading" style="padding-top:10px"><font size="5">Guangzhou RNA club 2023 yearly symposium program</font></h6>-->
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Elena Rivas </font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.mcb.harvard.edu/directory/elena-rivas/">Harvard University</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Evolutionary conservation of RNA structure</h6>
-            <p style="padding-top:10px"> The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. I will present new directions to expand and apply these methods for the systematic identification of novel vertebrate structural RNAs relevant to human biology, and to create novel algorithms for the prediction of structured RNAs using deep learning methods. 
-            [<a href="https://www.mcb.harvard.edu/directory/elena-rivas/">&hellip;</a>]</p>
-            <footer ><a href="https://pubmed.ncbi.nlm.nih.gov/?term=RIVAS+ELENA">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-07T09:00+10:00"><strong>07</strong> <em>Dec</em><em>2023</em></time>
         </article>
       </li>
       
@@ -211,30 +210,24 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Mofang _Liu_20240108.jpg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Weihong_Tan_20240224.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Professor <strong>Mofang Liu</strong> Center for Excellence in Molecular Cell Science, CAS, will give a talk on <strong>RNA regulation and male reproductive development</strong>.
+            <p style="padding-top:10px"> Professor <strong>Weihong Tan</strong>, Academician of Chinese Academy of Sciences, Director of  Hangzhou Institute of Medicine, Chinese Academy of Sciences, will give a talk on <strong>Molecular Medicine of Nucleic Acids</strong>.
             <br><br>
-            Mofang Liu is a researcher at the Center for Innovation and Excellence in Molecular and Cellular Sciences. Her primary research encompasses RNA regulation and male reproductive studies, and she aims to shed light on the unknown causes behind more than half of male infertility, which has emerged as a global social concern.
-            <br><br> 
-            Her concentrated efforts in RNA regulation, spermatogenesis, and male infertility have yielded a series of original and significant research breakthroughs. Notably, her work unveiled the piRNA regulatory pathway's abnormality as a novel contributor to male infertility. She also revealed fresh insights into mRNA translation regulation, sperm cell clearance, and degradation mechanisms. Her contributions include unravelling multiple mysteries in spermatogenesis, proposing novel theories, and advancing our comprehension of male reproductive patterns and the origins of male infertility.
-            <br><br>
-            As a corresponding author, she has authored over 30 articles published in renowned journals such as Science, Cell (2), New England Journal of Medicine, Nature Cell Biology, Molecular Cell, and Developmental Cell, among others. Recognized as one of the leading researchers in RNA regulation and reproduction, she was recently invited by Nature Reviews Molecular Cell Biology to conduct a comprehensive review of PIWI/piRNA research progress.
-            <br><br>
-            Additionally, Liu is Deputy Editor-in-Chief of 'Chinese Science: Life Sciences,' the Director of the RNA Professional Committee, and the Chief Scientist for key research and development programs under the Ministry of Science and Technology and significant basic research initiatives in Shanghai. She has been honored with the Shanghai First Prize in Natural Science, the First Prize in Natural Science of the National Science and Technology Award for Women's and Children's Health, and the Tan Jiazhen Life Science Innovation Award.
+            Modern medicine has entered the era of molecular medicine, where precision diagnosis and targeted therapy are inevitable developments in contemporary medicine. The development of molecular medicine will greatly promote the implementation of a Healthy China and the realization of the increasing desire of the people for a better life. Molecular medicine aims to reveal the processes and mechanisms of disease occurrence and development at the molecular level, to diagnose diseases early and accurately at the molecular level, to precisely treat diseases and guide recovery at the molecular level, and to prevent and predict diseases at the molecular level, achieving the vision of "preventing disease before it occurs." Molecular medicine is the development trend of modern medicine but faces significant challenges. It is still in its early stages of development and faces many bottlenecks. The development of molecular medicine relies on molecular recognition at the molecular level, but such molecular tools have been scarce in clinical applications and research. Recently, scientists have discovered the broad prospects of functional nucleic acid molecules in the diagnosis and treatment of major diseases, with nucleic acid aptamers being particularly prominent. They are nucleic acid molecules composed of DNA/RNA single strands that can specifically recognize proteins, small molecules, and more. Based on this, we have pioneered a new method of nucleic acid aptamer cell screening based on complete cells (Cell-SELEX), which is simple, fast, and capable of selecting molecular probes for multiple disease biomarkers. Through this screening method, we have obtained nucleic acid aptamers for various diseases and applied them in cutting-edge biomedical research and clinical applications, including precise diagnosis of cancer, disease molecular typing and molecular imaging, targeted drug delivery, especially the discovery and application of cancer biomarkers. These novel molecular tools establish a revolutionary scientific and technological platform for the deeper development of medicine. This report will introduce the latest progress in functional nucleic acids, especially nucleic acid aptamers, and the mRNA field, particularly in basic research and early clinical applications in the field of disease diagnosis and treatment. The development of molecular medicine will surely promote a more beautiful, happier, healthier, and happier life for humanity!
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html">https://cemcs.cas.cn/sourcedb_cemcs_cas/zw/pi/202008/t20200823_5670126.html
+            <a href="https://www.ibmc.ac.cn/doctor/content/id/328/fid/509.shtml">https://www.ibmc.ac.cn/doctor/content/id/328/fid/509.shtml
             </a>
             <br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
-            Tencent Meeting ID: 771-988-232(Passcode:666666).
+            Tencent Meeting ID: 139-138-869.
             bilibili live link: 
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
             </a>,
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on January 10th 2024!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on February 26th 2024!  <br><br>
             Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >
