@@ -79,7 +79,7 @@ permalink: /
             </ul>
             <h6 class="heading" style="padding-top:10px">Decoding and investigating theepitranscriptome with new tools
             </h6>
-            <p style="padding-top:10px"> Epitranscriptomics refers to chemical changes in cellular RNA and includesmany chemical types with varying stoichiometry and funetions. Human RNAcontains about 40 modification types in tRNA and about 10 in mRNA. Professor Tao Pan will diseuss recent technology development and biological investigations inhis lab that utilize nanopore sequencing for mRNA modifications, and illuminasequencing for tRNA modifications.
+            <p style="padding-top:10px"> Epitranscriptomics refers to chemical changes in cellular RNA and includesmany chemical types with varying stoichiometry and funetions. Human RNA contains about 40 modification types in tRNA and about 10 in mRNA. Professor Tao Pan will diseuss recent technology development and biological investigations inhis lab that utilize nanopore sequencing for mRNA modifications, and illuminasequencing for tRNA modifications.
             [<a href="https://profiles.uchicago.edu/profiles/display/37026">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
@@ -217,7 +217,7 @@ permalink: /
         <article>   
             <p style="padding-top:10px"> Professor <strong>Tao Pan</strong>, from The University of chicago, will give a talk on <strong>Decoding and investigating theepitranscriptome with new tools</strong>.
             <br><br>
-            Epitranscriptomics refers to chemical changes in cellular RNA and includesmany chemical types with varying stoichiometry and funetions. Human RNAcontains about 40 modification types in tRNA and about 10 in mRNA. Professor Tao Pan will diseuss recent technology development and biological investigations inhis lab that utilize nanopore sequencing for mRNA modifications, and illuminasequencing for tRNA modifications.
+            Epitranscriptomics refers to chemical changes in cellular RNA and includesmany chemical types with varying stoichiometry and funetions. Human RNA contains about 40 modification types in tRNA and about 10 in mRNA. Professor Tao Pan will diseuss recent technology development and biological investigations inhis lab that utilize nanopore sequencing for mRNA modifications, and illuminasequencing for tRNA modifications.
             <br><br>
             For more information about her outstanding work, please visit her profile at
             <a href="https://profiles.uchicago.edu/profiles/display/37026">https://profiles.uchicago.edu/profiles/display/37026
