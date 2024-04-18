@@ -232,7 +232,7 @@ permalink: /
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
             </a>,
             Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on April 18th 2024!  <br><br>
-            Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
+            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, and 厚泽生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230714-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
