@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Shengyou Huang</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://huanglab.phys.hust.edu.cn/people.php">Professor of Huazhong University of Science and Technology</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence
+            </h6>
+            <p style="padding-top:10px"> RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. However, RNA structure is more complex and more flexible than protein, resulting in the resolution of RNA region in cryo-electron microscope density map is usually much lower than that of protein. Therefore, RNA structure modeling in cryo-electron microscope has been a difficult problem in the field of cryo-electron microscope structure analysis. In this report, I will introduce an AI-based 3D structure modeling method for RNA cryo-electron microscopy. 
+            [<a href="http://huanglab.phys.hust.edu.cn/people.php">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>May</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+                <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Yunyu Shi</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://biox.ustc.edu.cn/2010/0903/c24187a473051/page.psp">Academician of CAS;Professor of University of Science and Technology of China</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>18</strong> <em>Apr</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Tao Pan</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://profiles.uchicago.edu/profiles/display/37026">Professor of Biochemistry and Molecular Biology, The University of chicago</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Decoding and investigating theepitranscriptome with new tools
-            </h6>
-            <p style="padding-top:10px"> Epitranscriptomics refers to chemical changes in cellular RNA and includesmany chemical types with varying stoichiometry and funetions. Human RNA contains about 40 modification types in tRNA and about 10 in mRNA. Professor Tao Pan will diseuss recent technology development and biological investigations inhis lab that utilize nanopore sequencing for mRNA modifications, and illuminasequencing for tRNA modifications.
-            [<a href="https://profiles.uchicago.edu/profiles/display/37026">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>29</strong> <em>Mar</em><em>2024</em></time>
         </article>
       </li>
       
@@ -211,27 +211,29 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240412_Yunyu_Shi.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240517_Shengyou_Huang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Professor <strong>Yunyu Shi</strong>, Academician of Chinese Academy of Sciences, will give a talk on <strong>Epigenetic regulation of the mitochondrial genome and degenerative diseases</strong>.
+            <p style="padding-top:10px"> Professor <strong>Shengyou Huang</strong>, Huazhong University of Science and Technology, will give a talk on <strong>3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence</strong>.
             <br><br>
-            China is entering an aging society, and various degenerative diseases, including metabolic diseases, neurodegenerative diseases, cardiovascular and cerebrovascular diseases, and tumors, are seriously affecting people's health. The molecular and cellular mechanism of aging is an unresolved, fascinating and important issue in basic biology; it is a national strategic demand for people's life and health to explore the regulatory factors of healthy aging to the evolution of degenerative diseases, and to provide theoretical and practical basis for the early clinical diagnosis and intervention of aging and degenerative diseases. 
+            RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. However, RNA structure is more complex and more flexible than protein, resulting in the resolution of RNA region in cryo-electron microscope density map is usually much lower than that of protein. Therefore, RNA structure modeling in cryo-electron microscope has been a difficult problem in the field of cryo-electron microscope structure analysis.
             <br><br>
-            Although there are many different kinds of degenerative diseases, they are often accompanied by mitochondrial dysfunction-activation of inflammatory vesicles-leading to chronic inflammation-causing degenerative diseases. All of this is genetically or epigenetically regulated. Clinical data suggests that although the genome mutates, mutations cause only 5-10% of degenerative diseases with age. Epigenetic regulation related to nutrient metabolism, exercise, and environment is key. Aging-induced mitochondrial dysfunction is important in the development of many degenerative diseases. Epigenetic regulation of the nuclear genome has been studied for many years, and we focus on epigenetic regulation of the mitochondrial genome. We take the structure and function study of methylation modification of rRNA in mitochondria as an example to illustrate the relationship between epigenetic regulation of the mitochondrial genome and type 2 diabetes mellitus and neurological cognitive dysfunction.
+            In this report, I will introduce an AI-based 3D structure modeling method for RNA cryo-electron microscopy. Through deep learning, RNA main strand atoms are mined from the experimental density map of cryo-electron microscopy, and the one-dimensional sequence, two-dimensional secondary structure and three-dimensional main strand information of RNA are organically integrated to construct the all-atomic 3D structure of RNA. This method effectively solves the problem of low resolution of RNA cryo-electron microscope density map, greatly improves the accuracy of RNA modeling, and the results are significantly superior to other RNA structure modeling algorithms based on cryo-electron microscope density map, realizing automatic, rapid and accurate RNA structure modeling of cryo-electron microscope density map.
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://biox.ustc.edu.cn/2010/0903/c24187a473051/page.psp">https://biox.ustc.edu.cn/2010/0903/c24187a473051/page.psp
+            <a href="http://huanglab.phys.hust.edu.cn/people.php">http://huanglab.phys.hust.edu.cn/people.php
             </a>
             <br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
-            Tencent Meeting ID: 536-296-379<br>
+            
+            Address: Building B2, 201 room, Guangzhou Laboratory<br>
+            Tencent Meeting ID: 399-6661-4494<br>
             <!--Meeting Password: 123456<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
             </a>,
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on April 18th 2024!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 17th 2024!  <br><br>
             Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, and 厚泽生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >

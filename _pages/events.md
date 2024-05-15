@@ -89,6 +89,7 @@ permalink: /events/
     </div>
   </div>
 </div>
+
 <div class="item">
   <div class="image">
     <div>
@@ -103,6 +104,7 @@ permalink: /events/
     </div>
   </div>
 </div>
+
 <div class="item">
   <div class="image">
     <div>
@@ -119,6 +121,7 @@ permalink: /events/
     </div>
   </div>
 </div>
+
 <div class="item">
   <div class="image">
     <div>
@@ -133,6 +136,7 @@ permalink: /events/
     </div>
   </div>
 </div>
+
 <div class="item">
   <div class="image">
     <div>
@@ -147,6 +151,7 @@ permalink: /events/
     </div>
   </div>
 </div>
+
 <div class="item">
   <div class="image">
     <div>
@@ -162,6 +167,7 @@ permalink: /events/
     </div>
   </div>
 </div>
+
 <div class="item">
   <div class="image">
     <div>
@@ -176,6 +182,52 @@ permalink: /events/
     </div>
   </div>
 </div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Zhipeng_Lu.png" /></a>
+      <span> 2023.11.06</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Zhipeng Lu < Decoding the RNA structurome and interactome in cells ></h1>
+      <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Zhipeng_Lu.png" /></a>
+      <span> 2023.12.21</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Zhipeng Lu < Decoding the RNA structurome and interactome in cells ></h1>
+      <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html"><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Zhipeng_Lu.png" /></a>
+      <span> 2023.11.06</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Zhipeng Lu < Decoding the RNA structurome and interactome in cells ></h1>
+      <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
 <div class="item">
   <div class="image">
     <div>
