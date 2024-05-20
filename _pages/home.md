@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Kin Fai Au</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://augroup.org/">University of Michigan, USA</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Long-read sequencing and new insights in transcriptomics and epigenetics
+            </h6>
+            <p style="padding-top:10px"> Long-read sequencing, aka Third Generation Sequencing/TGS (i.e.. Oxford Nanopore Technologies/ONT and Pacific Biosciences/PacBio) can generate single-molecule long reads, ranging from a few kb to million bp. These data have been demonstrated to be very powerful to address many complex biomedical problems that remained unsolved by short reads. For example, the extensive applications of TGS data for genome research have been published in various biomedical contexts. Here , I will present the methodological research of how long reads can advance transcriptome and epigenetics research and how their applications discovered new insights of transcript complexity and transposable elements in early embryonic development and stem cells.
+            [<a href="http://augroup.org/">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>23</strong> <em>May</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Shengyou Huang</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://huanglab.phys.hust.edu.cn/people.php">Professor of Huazhong University of Science and Technology</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>May</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-                <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Yunyu Shi</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://biox.ustc.edu.cn/2010/0903/c24187a473051/page.psp">Academician of CAS;Professor of University of Science and Technology of China</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Epigenetic regulation of the mitochondrial genome and degenerative diseases
-            </h6>
-            <p style="padding-top:10px"> China is entering an aging society, and various degenerative diseases, including metabolic diseases, neurodegenerative diseases, cardiovascular and cerebrovascular diseases, and tumors, are seriously affecting people's health. The molecular and cellular mechanism of aging is an unresolved, fascinating and important issue in basic biology; it is a national strategic demand for people's life and health to explore the regulatory factors of healthy aging to the evolution of degenerative diseases, and to provide theoretical and practical basis for the early clinical diagnosis and intervention of aging and degenerative diseases.
-            [<a href="https://biox.ustc.edu.cn/2010/0903/c24187a473051/page.psp">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>18</strong> <em>Apr</em><em>2024</em></time>
         </article>
       </li>
       
@@ -211,29 +211,26 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240517_Shengyou_Huang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240523_Kinfai_Au.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> Professor <strong>Shengyou Huang</strong>, Huazhong University of Science and Technology, will give a talk on <strong>3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Kin Fai Au</strong>, University of Michigan, USA, will give a talk on <strong>Long-read sequencing and new insights in transcriptomics and epigenetics</strong>.
             <br><br>
-            RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. However, RNA structure is more complex and more flexible than protein, resulting in the resolution of RNA region in cryo-electron microscope density map is usually much lower than that of protein. Therefore, RNA structure modeling in cryo-electron microscope has been a difficult problem in the field of cryo-electron microscope structure analysis.
-            <br><br>
-            In this report, I will introduce an AI-based 3D structure modeling method for RNA cryo-electron microscopy. Through deep learning, RNA main strand atoms are mined from the experimental density map of cryo-electron microscopy, and the one-dimensional sequence, two-dimensional secondary structure and three-dimensional main strand information of RNA are organically integrated to construct the all-atomic 3D structure of RNA. This method effectively solves the problem of low resolution of RNA cryo-electron microscope density map, greatly improves the accuracy of RNA modeling, and the results are significantly superior to other RNA structure modeling algorithms based on cryo-electron microscope density map, realizing automatic, rapid and accurate RNA structure modeling of cryo-electron microscope density map.
+                Long-read sequencing, aka Third Generation Sequencing/TGS (i.e.. Oxford Nanopore Technologies/ONT and Pacific Biosciences/PacBio) can generate single-molecule long reads, ranging from a few kb to million bp. These data have been demonstrated to be very powerful to address many complex biomedical problems that remained unsolved by short reads. For example, the extensive applications of TGS data for genome research have been published in various biomedical contexts. Here , I will present the methodological research of how long reads can advance transcriptome and epigenetics research and how their applications discovered new insights of transcript complexity and transposable elements in early embryonic development and stem cells.
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="http://huanglab.phys.hust.edu.cn/people.php">http://huanglab.phys.hust.edu.cn/people.php
+            <a href="http://augroup.org/">http://augroup.org/
             </a>
             <br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
-            
-            Address: Building B2, 201 room, Guangzhou Laboratory<br>
-            Tencent Meeting ID: 399-6661-4494<br>
+            Time(China): 2024-5-23 10:00-11:00<br>
+            Tencent Meeting：749-316-975<br>
             <!--Meeting Password: 123456<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
             </a>,
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 17th 2024!  <br><br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 23rd 2024!  <br><br>
             Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, and 厚泽生物 for their sponsorship support!<br><br><br>
             </p>
     <!--<li class="two_third first" >
