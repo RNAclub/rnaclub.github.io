@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Dali Han</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">Chinese Academy of Sciences, China</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Multi-omics analysis of the tumor immune microenvironment
+            </h6>
+            <p style="padding-top:10px"> Dr. Dali Han applies epigenetic techniques, chemical biology tools, and bioinformatics methods to study the regulatory mechanisms of RNA modification. He has gradually formed a characteristic research system that combines RNA epigenomics, single-cell transcriptomics, and spatial transcriptomics, achieving a series of cutting-edge progresses: In terms of regulatory theory, he has revealed new transcriptional regulatory mechanisms of chromatin structure and histone modifications directly affected by caRNA m6A modification; In terms of pathogenic mechanisms, he has systematically analyzed the functional dysregulation and RNA modification abnormalities in the tumor microenvironment, including tumor cells, dendritic cells, macrophages, and T cells, identified multiple new targets for immunotherapy and developed small molecule inhibitors
+            [<a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>20</strong> <em>JUN</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Kin Fai Au</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://augroup.org/">University of Michigan, USA</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>23</strong> <em>May</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Shengyou Huang</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://huanglab.phys.hust.edu.cn/people.php">Professor of Huazhong University of Science and Technology</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence
-            </h6>
-            <p style="padding-top:10px"> RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. However, RNA structure is more complex and more flexible than protein, resulting in the resolution of RNA region in cryo-electron microscope density map is usually much lower than that of protein. Therefore, RNA structure modeling in cryo-electron microscope has been a difficult problem in the field of cryo-electron microscope structure analysis. In this report, I will introduce an AI-based 3D structure modeling method for RNA cryo-electron microscopy. 
-            [<a href="http://huanglab.phys.hust.edu.cn/people.php">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>May</em><em>2024</em></time>
         </article>
       </li>
       
@@ -211,21 +211,23 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240523_Kinfai_Au.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240620_Dali_Han.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Kin Fai Au</strong>, University of Michigan, USA, will give a talk on <strong>Long-read sequencing and new insights in transcriptomics and epigenetics</strong>.
+            <p style="padding-top:10px"> <strong>Dr. Dali Han</strong>, Chinese Academy of Sciences, China, will give a talk on <strong>Multi-omics analysis of the tumor immune microenvironment</strong>.
             <br><br>
-                Long-read sequencing, aka Third Generation Sequencing/TGS (i.e.. Oxford Nanopore Technologies/ONT and Pacific Biosciences/PacBio) can generate single-molecule long reads, ranging from a few kb to million bp. These data have been demonstrated to be very powerful to address many complex biomedical problems that remained unsolved by short reads. For example, the extensive applications of TGS data for genome research have been published in various biomedical contexts. Here , I will present the methodological research of how long reads can advance transcriptome and epigenetics research and how their applications discovered new insights of transcript complexity and transposable elements in early embryonic development and stem cells.
+                Dr. Dali Han applies epigenetic techniques, chemical biology tools, and bioinformatics methods to study the regulatory mechanisms of RNA modification. He has gradually formed a characteristic research system that combines RNA epigenomics, single-cell transcriptomics, and spatial transcriptomics, achieving a series of cutting-edge progresses: In terms of regulatory theory, he has revealed new transcriptional regulatory mechanisms of chromatin structure and histone modifications directly affected by caRNA m6A modification; In terms of pathogenic mechanisms, he has systematically analyzed the functional dysregulation and RNA modification abnormalities in the tumor microenvironment, including tumor cells, dendritic cells, macrophages, and T cells, identified multiple new targets for immunotherapy and developed small molecule inhibitors; In terms of omics technology, he has developed new sequencing technologies and data analysis strategies for nucleic acid modifications. He has published 10 papers as corresponding author (including co-corresponding) in journals such as Nature, Science, Cancer Cell, and Cell Metabolism, 8 papers as first author (including co-first), and 12 papers as other authors. His work has been cited over 7000 times. He has been invited to review and comment on the progress in the field in authoritative review journals such as Annual Review of Immunology.
+
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="http://augroup.org/">http://augroup.org/
+            <a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html
             </a>
             <br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
-            Time(China): 2024-5-23 10:00-11:00<br>
-            Tencent Meeting：749-316-975<br>
+            Time(China): 2024-06-20 9:00-11:00<br>
+            Tencent Meeting：399-6661-4494<br>
+            Address: Building B2, 201 room, Guangzhou Laboratory<br>
             <!--Meeting Password: 123456<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
