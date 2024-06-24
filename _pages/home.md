@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Alastair Murchie</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">Fudan University, China</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Cofactor Binding Triggers Rapid Conformational Remodelling of the Active Site of a Methyltransferase Ribozyme
+            </h6>
+            <p style="padding-top:10px"> Professor Alastair Murchie, Professor and PhD Supervisor of the Institute of Biomedical Sciences, Fudan University, graduated from the Department of Biochemistry and Molecular Biology, University of Dundee, UK, in 1994, and worked as a postdoctoral fellow and senior researcher at the Department of Biochemistry, University of Dundee, UK, in 1994-1998, and as Chief R&D Officer of Ribotargets, a new drug development company in Cambridge, UK, in 1998-2003. Professor Murchie's main research interests are (1) Advanced structure and biological function of nucleic acids, including the discovery of novel riboswitches
+            [<a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>JUN</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Dali Han</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">Chinese Academy of Sciences, China</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>20</strong> <em>JUN</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Kin Fai Au</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="http://augroup.org/">University of Michigan, USA</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Long-read sequencing and new insights in transcriptomics and epigenetics
-            </h6>
-            <p style="padding-top:10px"> Long-read sequencing, aka Third Generation Sequencing/TGS (i.e.. Oxford Nanopore Technologies/ONT and Pacific Biosciences/PacBio) can generate single-molecule long reads, ranging from a few kb to million bp. These data have been demonstrated to be very powerful to address many complex biomedical problems that remained unsolved by short reads. For example, the extensive applications of TGS data for genome research have been published in various biomedical contexts. Here , I will present the methodological research of how long reads can advance transcriptome and epigenetics research and how their applications discovered new insights of transcript complexity and transposable elements in early embryonic development and stem cells.
-            [<a href="http://augroup.org/">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>23</strong> <em>May</em><em>2024</em></time>
         </article>
       </li>
       
@@ -211,23 +211,25 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240620_Dali_Han.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240627_Alastair_Murchie.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Dr. Dali Han</strong>, Chinese Academy of Sciences, China, will give a talk on <strong>Multi-omics analysis of the tumor immune microenvironment</strong>.
+            <p style="padding-top:10px"> <strong>Dr. Alastair Murchie</strong>, Fudan University, China, will give a talk on <strong>Cofactor Binding Triggers Rapid Conformational Remodelling of the Active Site of a Methyltransferase Ribozyme</strong>.
             <br><br>
-                Dr. Dali Han applies epigenetic techniques, chemical biology tools, and bioinformatics methods to study the regulatory mechanisms of RNA modification. He has gradually formed a characteristic research system that combines RNA epigenomics, single-cell transcriptomics, and spatial transcriptomics, achieving a series of cutting-edge progresses: In terms of regulatory theory, he has revealed new transcriptional regulatory mechanisms of chromatin structure and histone modifications directly affected by caRNA m6A modification; In terms of pathogenic mechanisms, he has systematically analyzed the functional dysregulation and RNA modification abnormalities in the tumor microenvironment, including tumor cells, dendritic cells, macrophages, and T cells, identified multiple new targets for immunotherapy and developed small molecule inhibitors; In terms of omics technology, he has developed new sequencing technologies and data analysis strategies for nucleic acid modifications. He has published 10 papers as corresponding author (including co-corresponding) in journals such as Nature, Science, Cancer Cell, and Cell Metabolism, 8 papers as first author (including co-first), and 12 papers as other authors. His work has been cited over 7000 times. He has been invited to review and comment on the progress in the field in authoritative review journals such as Annual Review of Immunology.
+                Professor Alastair Murchie, Professor and PhD Supervisor of the Institute of Biomedical Sciences, Fudan University, graduated from the Department of Biochemistry and Molecular Biology, University of Dundee, UK, in 1994, and worked as a postdoctoral fellow and senior researcher at the Department of Biochemistry, University of Dundee, UK, in 1994-1998, and as Chief R&D Officer of Ribotargets, a new drug development company in Cambridge, UK, in 1998-2003. Professor Murchie's main research interests are (1) Advanced structure and biological function of nucleic acids, including the discovery of novel riboswitches and ribozymes, their structure and function, and their impact on gene expression and regulation, effects on gene expression and regulation, RNA modification and its biological functions, RNA epigenetics in disease and stem cells. (2) Interaction between non-coding RNAs and small molecules regulates the expression of antibiotic resistance genes. He was awarded the 2015 Shanghai Magnolia Memorial Prize.
+
 
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html
+            <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm
             </a>
             <br><br>
             <!--Tencent Meeting ID: 412-116-964.<br>-->
-            Time(China): 2024-06-20 9:00-11:00<br>
-            Tencent Meeting：399-6661-4494<br>
-            Address: Building B2, 201 room, Guangzhou Laboratory<br>
+            Time(China): 2024-6-27 19:00<br>
+            Time(UK): 2024-6-27 12:00<br>
+            Tencent Meeting：284-568-908<br>
+            <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Meeting Password: 123456<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
