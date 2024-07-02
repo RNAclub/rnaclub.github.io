@@ -69,7 +69,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">David M.J. Lilley/李大卫</h1>
+      <h1 id="time1">David M.J. Lilley/李大卫 - The Extent Of RNA Catalysis – Are There Any Limits ?</h1>
       <p id="p1">The RNA world hypothesis for the early development of life on the planet requires that RNA molecules (ribozymes) could have catalysed a wide variety of chemical reactions. Known ribozymes in contemporary biology carry out a limited range of chemical catalysis, mostly involving phosphoryl transfer, but in vitro selection has generated species catalysing a broader range of chemistry. <a href="{{ site.url }}{{ site.baseurl }}/docs/2022-08-19-David.html">(More...) </a> </p>
     </div>
   </div>
@@ -84,7 +84,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">陈润生《大数据、人工智能和核酸药物》</h1>
+      <h1 id="time1">陈润生 - 大数据、人工智能和核酸药物 </h1>
       <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-01-04.html">(More...) </a> </p>
     </div>
   </div>
@@ -99,7 +99,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Janusz M. Bujnicki < Computational modeling of RNA 3D structures and interactions with the use of experimental data ></h1>
+      <h1 id="time1">Janusz M. Bujnicki - Computational modeling of RNA 3D structures and interactions with the use of experimental data </h1>
       <p id="p1"> Our research focuses on the structure of RNA and its interaction with RNA proteins. Using biophysics and computational simulation techniques, we explore the dynamic behavior and structural features of RNA and develop new RNA structure prediction algorithms. Additionally, we investigate the mechanism of action of RNA proteins, especially those related to diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-03-16.html">(More...) </a> </p>
     </div>
   </div>
@@ -114,7 +114,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Yiliang Ding < RNA structure, a hidden regulator in living cells ></h1>
+      <h1 id="time1">Yiliang Ding - RNA structure, a hidden regulator in living cells </h1>
       <p id="p1"> Research Fields: Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing; 
       Exploring how RNA structures alter in response to environmental changes;
       Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-04-25.html">(More...) </a> </p>
@@ -161,7 +161,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Pascale Romby < Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future ></h1>
+      <h1 id="time1">Pascale Romby - Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future </h1>
       <p id="p1"> 1.Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence); 2.Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria; 3.Research on the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus...<br>
       Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-08-24.html">(More...) </a> </p>
     </div>
@@ -177,7 +177,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Jeffrey Kieft < Conformational dynamics and manipulation of the translation machinery by a viral RNA ></h1>
+      <h1 id="time1">Jeffrey Kieft - Conformational dynamics and manipulation of the translation machinery by a viral RNA </h1>
       <p id="p1"> In this seminar, I will present our work towards understanding how a viral RNA binds the ribosome and enables a noncanonical "translation reinitiation" event. Combining bioinformatic, functional, and structural data from Cryo-EM, we propose a model for how this relatively small RNA uses programmed molecular motions within a surprisingly simple mechanism. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-09-27.html">(More...) </a> </p>
     </div>
   </div>
@@ -192,7 +192,7 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Zhipeng Lu < Decoding the RNA structurome and interactome in cells ></h1>
+      <h1 id="time1">Zhipeng Lu - Decoding the RNA structurome and interactome in cells </h1>
       <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
     </div>
   </div>
@@ -207,9 +207,9 @@ permalink: /events/
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Elena Rivas < Evolutionary conservation of RNA structure ></h1>
+      <h1 id="time1">Elena Rivas - Evolutionary conservation of RNA structure </h1>
       <p id="p1"> The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. 
-I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation calculation to identify negative pairs with power (variation) but insignificant covariation unlikely to form RNA base pairs; (2) a cascading folding algorithm that combines all positive and negative evolutionary <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
+I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation calculation to identify negative pairs with power (variation) but insignificant covariation unlikely to form RNA base pairs; (2) a cascading folding algorithm that combines all positive and negative evolutionary <a href="{{ site.url }}{{ site.baseurl }}/docs/events2023/20231207_Elena_Rivas.html">(More...) </a> </p>
     </div>
   </div>
 </div>

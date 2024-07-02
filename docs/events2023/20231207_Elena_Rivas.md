@@ -1,5 +1,5 @@
  ---
-title: "2023-11-06 Zhipeng Lu"
+title: "2023-12-07 Elena Rivas"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false
@@ -17,7 +17,7 @@ permalink:
 
   <div class="sectiontitle">
       <h6 class="heading"> Evolutionary conservation of RNA structure </h6>
-      <p class="nospace font-xs">Elena Rivas  2023-12-07</p>
+      <p class="nospace font-xs">Elena Rivas 2023-12-07</p>
     </div>
   <div class="details">
     <div>
