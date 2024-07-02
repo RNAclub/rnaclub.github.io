@@ -198,6 +198,22 @@ permalink: /events/
   </div>
 </div>
 
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events2023/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/20231207_Elena_Rivas.png" /></a>
+      <span> 2023.12.07</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Elena Rivas < Evolutionary conservation of RNA structure ></h1>
+      <p id="p1"> The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. 
+I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation calculation to identify negative pairs with power (variation) but insignificant covariation unlikely to form RNA base pairs; (2) a cascading folding algorithm that combines all positive and negative evolutionary <a href="{{ site.url }}{{ site.baseurl }}/docs/2023-11-06.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
  <!--<div class="item">
   <div class="image">
     <div>
