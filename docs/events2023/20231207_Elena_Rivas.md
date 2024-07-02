@@ -28,7 +28,7 @@ permalink:
 本次会议中Elena Rivas 研究员报告聚焦于如何识别基因组中保守结构的概念。保守结构原则上应该具有很高的功能性和生物学相关性的可能性。我们都知道，有很多功能性的RNA，它们都具有稳定的结构。其中一个例子是RNaseP RNA，这是一种核酶（图1）。 在左边可以看到 3D结构，在右侧，可以看到它对应的二级结构（形成3D结构的碱基对）。在这里展示的特定细菌物种的结构是保守的，这种结构的保守是在细菌中和真核生物中都是保守的。虽然有小的突变，但是在序列和结构上都很容易找到这个结构领域的同源物。
 
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/1.png" alt="drawing" style="weight:450px; height:230px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图1. RNaseP RNA
 </div>
@@ -46,7 +46,7 @@ Elena Rivas 研究员提出RNA保守结构在比对中引起我们重视的是�
 <div style="text-align:center">
 图3. R2R 的局限性
 </div><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/4.png" alt="drawing" style="weight:450px; height:410px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图4. Rscape RNA二级结构的共进化证据
 </div>
@@ -60,14 +60,14 @@ R-scape 成功发现了传统碱基配对之外的RNA结构的元件。对比SAM
 <br><br>
 在此之后，基于共进化的信息，Elena Rivas 研究员开发了RNA结构预测软件Cacofold。 因为好的共进化信息可告诉我们哪些配对是应该包含的，哪些是不该包含的。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/6.png" alt="drawing" style="weight:450px; height:400px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图6. CaCoFold 流程图
 </div>
 <br><br>
 总结，Elena Rivas 研究员告诉我们的就是RNA结构中的共进化信息可以带给我们很多结构上的信息。Elena Rivas 研究员今天使用的所有的信息仅仅是序列的对齐，通过序列的对齐来发现共进化的信息，进而发现RNA结构中新的碱基配对，甚至预测更准确的结构，没有其他的输入。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/7.png" alt="drawing" style="weight:450px; height:410px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231207_Elena_Rivas/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图7. RNA序列中的共进化信息能带给我们什么
 </div>
