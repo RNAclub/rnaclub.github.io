@@ -63,7 +63,7 @@ permalink: /events/
   <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20220819_David_Lilley.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/0.png" style="max-width: 100%"/></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20220819_David_Lilley.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/0.png"/></a>
       <span>2022.08.19</span>
     </div>
   </div>
@@ -116,8 +116,7 @@ permalink: /events/
     <div>
       <h1 id="time1">Yiliang Ding - RNA structure, a hidden regulator in living cells </h1>
       <p id="p1"> Research Fields: Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing; 
-      Exploring how RNA structures alter in response to environmental changes;
-      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230425_Yiliang_Ding.html">(More...) </a> </p>
+      Exploring how RNA structures alter in response to environmental changes; Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230425_Yiliang_Ding.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -147,7 +146,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Chun Kit KWOK - Identification, characterization and targeting of RNA G-quadruplex structures </h1>
-      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research. In recent years, his research team has published more than 60 papers in internationally renowned journals such as Nature, Nature Methods, Nature Communications, Nature Protocols...<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html">(More...) </a></p>
+      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research.<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html">(More...) </a></p>
     </div>
   </div>
 </div>
@@ -162,8 +161,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Pascale Romby - Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future </h1>
-      <p id="p1"> 1.Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence); 2.Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria; 3.Research on the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus...<br>
-      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230824_Pascale_Romby.html">(More...) </a> </p>
+      <p id="p1"> 1.Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence); 2.Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria; 3.Research on the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230824_Pascale_Romby.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -201,15 +199,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231207_Elena_Rivas/0.png" style="max-width: 100%" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231207_Elena_Rivas/0.png" /></a>
       <span> 2023.12.07</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">Elena Rivas - Evolutionary conservation of RNA structure </h1>
-      <p id="p1"> The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. 
-I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation calculation to identify negative pairs with power (variation) but insignificant covariation unlikely to form RNA base pairs; (2) a cascading folding algorithm that combines all positive and negative evolutionary <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html">(More...) </a> </p>
+      <p id="p1"> The Knowing when an RNA sequence includes a conserved RNA structure is not trivial and depends on clues left behind by conservation, covariation and variation. I will present three recent advances: (1) a statistical covariation test to identify significant covariation over back- ground covariation due to phylogeny; including a power of covariation <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html">(More...) </a> </p>
     </div>
   </div>
 </div>
