@@ -214,6 +214,21 @@ I will present three recent advances: (1) a statistical covariation test to iden
   </div>
 </div>
 
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events2023/20231221_Jian_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/2023/20231221_Jian_Lu/20231221_Jian_Lu.png" /></a>
+      <span> 2023.12.21</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Jian Lu - Evolutionary Genomics of ProteinTranslation Regulation </h1>
+      <p id="p1"> Prof. Jian Lu is a professor and doctoral supervisor at the School of Life Science, Peking University. With a focus on comparative genomics and evolutionary biology, he integrates genomics and evolutionary biology to systematically analyze the evolutionary characteristics and dirving mechanisms of gene expression regulatory factors in eukaryotes. <a href="{{ site.url }}{{ site.baseurl }}/docs/events2023/20231221_Jian_Lu.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
  <!--<div class="item">
   <div class="image">
     <div>
