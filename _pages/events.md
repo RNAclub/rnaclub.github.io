@@ -63,7 +63,7 @@ permalink: /events/
   <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20220819_David_Lilley.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20220819_David_Lilley.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/0.png" style="max-width: 100%“/></a>
       <span>2022.08.19</span>
     </div>
   </div>
@@ -78,7 +78,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230104_Runsheng_Chen.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230104_Runsheng_Chen/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230104_Runsheng_Chen.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230104_Runsheng_Chen/0.png" /></a>
       <span> 2023.01.04</span>
     </div>
   </div>
@@ -93,7 +93,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230316_Janusz_Bujnicki.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230316_Janusz_Bujnicki/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230316_Janusz_Bujnicki.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230316_Janusz_Bujnicki/0.png" /></a>
       <span> 2023.03.16</span>
     </div>
   </div>
@@ -108,7 +108,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230425_Yiliang_Ding.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230425_Yiliang_Ding/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230425_Yiliang_Ding.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230425_Yiliang_Ding/0.png" /></a>
       <span> 2023.04.25</span>
     </div>
   </div>
@@ -125,7 +125,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230522_Yi_Xing.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230522_Yi_Xing/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230522_Yi_Xing.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230522_Yi_Xing/0.png" /></a>
       <span> 2023.05.22</span>
     </div>
   </div>
@@ -140,7 +140,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230616_Chun_Kitkwok/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230616_Chun_Kitkwok/0.png" /></a>
       <span> 2023.06.16</span>
     </div>
   </div>
@@ -155,7 +155,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230824_Pascale_Romby.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230824_Pascale_Romby/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230824_Pascale_Romby.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230824_Pascale_Romby/0.png" /></a>
       <span> 2023.08.24</span>
     </div>
   </div>
@@ -171,7 +171,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230927_Jeffrey_Kieft.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230927_Jeffrey_Kieft.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/0.png" /></a>
       <span> 2023.09.27</span>
     </div>
   </div>
@@ -186,7 +186,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231106_Zhipeng_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231106_Zhipeng_Lu/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231106_Zhipeng_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231106_Zhipeng_Lu/0.png" /></a>
       <span> 2023.11.06</span>
     </div>
   </div>
@@ -201,7 +201,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231207_Elena_Rivas/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231207_Elena_Rivas/0.png" style="max-width: 100%“ /></a>
       <span> 2023.12.07</span>
     </div>
   </div>
@@ -217,7 +217,7 @@ I will present three recent advances: (1) a statistical covariation test to iden
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231221_Jian_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231221_Jian_Lu/0.png" style="max-width: 100% /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231221_Jian_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231221_Jian_Lu/0.png" /></a>
       <span> 2023.12.21</span>
     </div>
   </div>
