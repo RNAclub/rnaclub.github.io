@@ -16,8 +16,8 @@ permalink:
   <section class="hoc container clear"  > 
 
   <div class="sectiontitle">
-      <h6 class="heading"> 大数据、人工智能和核酸药物</h6>
-      <p class="nospace font-xs">陈润生院士  2023-01-04</p>
+      <h6 class="heading"> Big Data, AI and Nucleic Acid Drugs</h6>
+      <p class="nospace font-xs">Prof. Runsheng Chen 2023-01-04</p>
     </div>
   <div class="details">
     <div>
@@ -28,31 +28,31 @@ permalink:
 
 <strong>什么是大数据？</strong><br><br>
 陈院士将数据比做一串密码，人的一串遗传密码有 4*3* 10^9，如果以A4纸显示每个人的遗传密码，那就可以形成一百万页。大数据本身庞大的数据量和背后隐藏的深刻的生物学含义迎来了生物医学的变革。图1展示的仅仅只是一段。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图1. 部分人类遗传基因信息
 </div><br><br>
 陈院士在报告中也为我们介绍了他参与的人类基因组的相关研究。中国开展人类基因组研究应当是从 1992 年开始的，所以在 90 年代，实际上陈院士已经参与了大数据的破译的研究，逐渐地跟国际在领域融合了。除此外，因为人类基因组中国只承担了1%的部分，当时中国科学家就考虑我们应当独立地来完成一个复杂体系的基因组研究。随后我们国家就独立地完成的水稻基因组的研究，这是一个很大的工程。当时 science这一期的主编是鲁宾斯坦，他专门对中国科学家表示祝贺，同时把 science 这期水稻基因组封面的挑选权交给了中国科学家。所以我们现在很高兴地看到，这期的science 水稻基因组的区封面是我们云南红河哈尼族自治州的一个水稻梯田。它将永远地记录到科学史上，这是我们的中国科学家的光荣。<br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图2. 中国科学家主导水稻基因组工作当期science封面
 </div><br><br>
 <strong>大数据带来的重要影响是什么？</strong><br><br>
 陈院士首先展示的是复杂的真核细胞的基因组和简单的2019-nCov的基因组（图2）。如果没有大数据，我们将对整个基因组是一无了解。图3展示一个简单的早期新冠病毒的基因组，它只有 29903 个碱基。我们几天之内就可以完整地破译所有的新冠的序列以及所有的突变。以及它对整个人类健康带来的影响，然而，在100年前，我们并不能如此迅速获得基因组信息。例如，1919年国际流行西班牙流感，当时至少估计有 2500 万人罹难。直到 1933 年（拖了15年），才找到了这个病因是流感病毒；而直到 2005 年，它的完整序列才被测出。可以看到由于当时没有组学大数据，所以导致的后果是极端严重的。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图3. 复杂的真核细胞的基因组和简单的2019-nCov的基因组
 </div><br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图4. 一个简单的早期新冠病毒的基因组
 </div><br><br>
 陈院士讲述，相比于100年前，我们积累的知识和迅速发展的组学技术使得我们有了很多主动权，所以大数据对未来的影响实际上是巨大的、是深刻的。Standford 的 Snyder 教授，他通过不断地测自己的血液大数据来预测他自己的健康状况和他健康的未来的发展，预测出他可能存在代谢疾病的危险状况。通过大数据能够非常吻合的预测到它将来可能的整体的变化，这是没有大数据所根本不能实现的（图5）(Snyder 2014)。 2020 年8月13 号的新英格兰医学杂志，对美国所有非小细胞肺癌的大数据做了深刻地挖掘，非小细胞肺癌大约占肺癌总量的 80%- 85%，所以它基本上可以代表着肺癌的变化的情况(Chen et al. 2012)。研究发现，美国从 2001 年开始，肺癌的发生率是逐年降低的（蓝线）；而死亡率（红线）也是逐年下降的。即美国的非小细胞肺癌似乎是可防可治的。陈院士在报告中，分析了主要原因，因为对大数据的深刻的挖掘，找到了非常多的跟肺癌发生相关的靶点，比如ROS1、BRAF等，目前国内主要靶点是EGFR及ALK。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图5. Snyder 教授利用血液大数据来预测自身的健康状况和未来的发展
 </div><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/6.png" alt="drawing" style="weight:300px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/6.png" alt="drawing" style="weight:300px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图6. 2013-2016年，美国非小细胞肺癌患者的发病率和死亡率统计分析
 </div><br>
@@ -60,29 +60,29 @@ permalink:
 <strong>基因组的“暗物质”--lncRNA</strong><br><br>
 现在我们知道在人类基因组中，真正遵从中心法则，编码所谓蛋白质和多肽的序列，充其量不会超过3%。而另外 97% 的遗传密码并不用来编码所谓的蛋白和多肽这些序列的。刚开始大家称这97%为 junk ，就是所谓的垃圾。后来大家意识到这些 junk 实际应当是非常值得研究的问题。从1993 年开始，陈院士所带领的课题组就集中到研究人类基因组当中的非编码序列。在2010年SCIENCE 评选当年的科学的十大突破，第一个指出来的就是 genome stock matter，就是基因组当中的暗物质。提到人类基因组中大概只有 1. 5% 的基因组序列执行编码功能。现在看来可能要比 要多于1.5%，但是充其量也不会超过3%。<br><br>
 最初lncRNA相关研究进展比较缓慢。主要存在两个因素：一个因素是支撑这些非编码序列功能的研究结果太少，数据太少，实验也太少。第二个因素，我们当时没有有效的测量工具与方法来找到来自非编码序列的转录本。所以从 1993 年开始，我们就从理论研究着手，到 2000 年的时候，我的实验室建立了湿实验的体系，即开始自己发现新的来自非编码序列的转录本，随后研究它的功能。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图7. 基因组中的暗物质
 </div><br><br>
 一个活细胞中基本元件不仅有蛋白，还有核酸，生物机器这个网络实际上远比我们想象中复杂。 RNA 的参与是生命功能复杂化当中的一个非常基础和关键的步骤。2014年，陈院士和赫捷院士的合作研究发现在有些食管癌的病人中（图7），蛋白多肽标志物基本都没有变化，但非编码的转录本，是有明显变化。所以他们就提出来其实部分病人，它的癌症标志物并不是蛋白，而是那些 RNA 的转录本(Li et al. 2014)。同时研究提出影响食管癌病人存活率的3个 lncRNA ，同时也作为疾病诊断分子申请了专利。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图8. 非编码RNA 图谱研究解释影响食管癌病人存活率的重要标志物
 </div><br>
 此外，陈院士也在肿瘤干细胞与lncRNA之间的关系（图9），例如肿瘤干细胞干性细胞的维持，研究发现，除了我们现在知道的很多蛋白之外，其实有很多 RNA 的因子也参与了整个肿瘤干细胞的调控。例如 link-TCF7，它就是影响肿瘤干细胞的干性的维持(Wang et al. 2015)。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图9. 肿瘤干细胞与lncRNA之间的关系
 </div><br><br>
 众所周知，PD1、 PDL1 参与调节肿瘤微环境。实际上陈院士所领导的课题组的研究发现，维系肿瘤微环境或者影响肿瘤微环境的，不仅仅只是像PD1、 PDL1这些蛋白和多肽。实际上大量来自非编码的转录本RNA在维系肿瘤维环境当中起着非常重要的作用。陈院士发现 IncKdm2b（图10），可以调控淋巴细胞的微环境(Liu et al. 2017)。
 所以研究 RNA 的功能和作用解析的 97% 的功能将是一个非常重要、非常基本和非常带有根本性的这样的工作。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图10. IncKdm2b 调控淋巴细胞机制研究
 </div><br><br>
 <strong>大数据分析---重要挑战</strong><br><br>
 陈院士在汇报中阐述到，现在整个时代的变件变化是由转录组、蛋白组、代谢组、表观组这些组学大数据的冲击而引起的。由于它的带动，我们知道很多数据可以成为大数据（图11）的来源，比如电子病例，它把每一个人的病例都以电子病例的形式保留下来了，那它就是一个以自然语言来描述重要的生理生化指标；影像学的数据，疾病演变过程当中的动态数据，肠道菌群、皮肤菌群数据等；大气的污染程度，水温、地质当中的化肥、农药本体辐射等，所有这些东西都可以数值化形成大数据。实际上，如果我们抽象地看这些大数据的数学物理特征，会发现它是极端复杂的。仅从复杂性来讲，它又是多尺度，高维度的。所以如何能够把这些不同的数据能整合在一起，这是极端复杂的问题。从时空来讲，它是动态的，因为生命是鲜活的，它不像简单的物理化学系统，它实际上是非线性，有向的。过去我们认这个体系是由单一节点组成的，现在看来这个节点的属性也是高度复杂。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图11. 生物医学大数据的基本分类
 </div><br><br>
@@ -91,15 +91,15 @@ permalink:
 陈院士认为要解决这个问题，一方面我们要增加分子水平的组学数据；另外一方面，我们要把所有的生物学的特征，所有疾病的表形，进行表征化与定量化。目前国内已经有研究团队正在牵头来建立表型组的数据库。所以当我们一方面有了分子组学，一方面有了表型组学的时候，我们现在很容易借助控制论、信息论里面形成一个成熟的哲学逻辑----黑箱理论（图12）。即我们可以通过信息论、控制论的传递函数理论来构建解析复杂系统的模型。形成从分子组学数据到生物功能和疾病定量化的表型组学数据的映射，逐渐地，黑箱会变成一个灰箱，再从灰箱变成白箱，形成黑箱理论结构。实际上，我们可以构造的各种各样的神经网络，一端是输入端，一端是输出端，中间用一个所谓 AI 的这样的网络来进行描述。如果我们把 training 把这个网络之间搞清楚，那我们网络所带来的生物学机制也就逐渐从黑箱变成白箱。
 实际上，这样的技术是当前解决复杂大数据当中的最好的一种逻辑。所以这就是为什么当前 AI 技术能够如此全面、如此广泛地用到所谓生物医学大数据的解析当中。无论是从逻辑上来讲，或从方法论上来讲，它都能给大数据解析带来一个可用的模式。而如果我们纯粹地从数学物理建模来讲，对复杂体系的刻画实际上是相当困难。
 因此，陈院士认为 AI 技术会在一段时间内成为我们很好的大数据解析的工具。相较于实验数据来说，AI技术在生物学领域的主要优势体现在两个方面：一是结构预测，AlphaFold2 这些人工智能技术可以很好地预测蛋白质的结构，预测精度达到了实验的90%以上，换句话说，是可用的。这是我自己以前做生物大分子计算没有想到的，所以用这样的技术能够预测天然蛋白值的85%，同时为核酸预测提供了很好的模式，为核酸疫苗、核酸药物的设计开拓了很好的前景。二是影像学方面，目前用人工智能构建的影像系统超过了任何一个独立的医生的准确度，比如 DeepMind 通过处理数以千计的视网膜扫描图像，训练出了一种人工智能算法，可以比人类医生更加高效、准确地检查出眼底疾病。这展示了人工智能对生物大数据处理的精度和作用。这个作用会向大数据的其他方面延展，而为生物医药提供更好的工具。当然，我们相信随着对人工智能技术的发展，训练数据的不断地整合，以及AI技术的不断地提高（图13），人工智能可以帮助我们分析更复杂的基因组数据(Alipanahi et al. 2015)。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图12. 实现精准的三个关键和黑箱理论
 </div><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图13. Alphafold2 与蛋白质结构预测
 </div><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图14. AI 与基因组
 </div><br><br>
@@ -107,39 +107,39 @@ permalink:
 陈院士的学术报告中，认为现在整个的人工智能，依赖于三个方面的发展，一个是模型，一个是数据，一个是算力。模型是专业人员在研究的，算力是整个各个地区的计算能力，这两项在我们国内是有的。超级计算机也在不断地发展各种各样的模型。但是数据本身是掌握在用户手里的，所以任何从事大数据研究的基本理念就是你能够建立一个足够丰富的，信噪比足够好的数据，这是你用 AI 技术来获得更多知识的一个基本要素，这是非常重要的。所以数据是获取丰富信息的基本要素，也是我们各个实验室所需要用的 AI 技术当中的非常值得重视的一个环节。我们大脑中的神经网络远比现在使用的神经网络要复杂。所以如何逐渐逼近真实的网络结构，是体系模型构建当中的一个非常重要的因素。<br><br>
 <strong>核酸疫苗与核酸药物</strong><br><br>
 新冠疫情大大促进了核酸疫苗跟核酸药物的发展。左侧（图15）是新冠病毒的一个简单的模型，红色的部分实际上就是新冠病毒表面的刺突蛋白（S蛋白），该蛋白可以指导病毒进入人物机体。目前不管是新冠病毒的防治还是疫苗的研发，基本上都是围绕着冠状病毒的 S 蛋白（右侧图蓝色的这些标志物），其可以和受体的ACE2（右侧图里红色的部分）相结合而引起了一系列的过程。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图15. 冠状病毒结构图
 </div><br><br>
 当我们有了合适的疫苗以后，就会产生足够的抗体来消除病毒。在这次新冠当中，我们第一次研发出了所谓核酸疫苗，就是mRNA疫苗。其实这个想法非常简单，我们过去的疫苗都是用灭活重组疫苗，就是把病毒杀死以后，或是取病毒的某一些关键蛋白，打入机体诱发机体产生相应的抗体。一个很简单的想法是，与其打入蛋白进去，不如把模板打进去。这就是简单的所谓的核酸疫苗的想法。这个想法已经存在多年了，但是为什么只有这一次疫情期间才真正的产生了核酸疫苗，主要不是 mRNA的设计的问题，当然 mRNA 设计本身也有不断的问题，但非常重要的问题就是如何把 RNA的模板 递送到机体里面去，也就是递送系统成为制约核酸疫苗真正使用的一个关键。<br><br>
 最近十几年，学术界已经对递送系统的研究，使得对核酸的递送达到了可使用的目的。所以这一次真正的核酸疫苗在真正对抗新冠起了很大作用。目前核酸疫苗主要的是两家公司，一个moderna，一个是辉瑞。BioNTech 跟辉瑞联合的生产的这个疫苗，是一个典型的疫苗模型，很多人看过，实际上我们本来大家可以看到中间包裹的绿色的部分，就是所谓的信使RNA。这些 RNA 就是模仿了病毒的 s 蛋白或者 s 蛋白的一个关键区域。它直接注射到机体，但很快会被RNA酶所降解。因此引发了对复杂的递送系统的研究。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/16.png" alt="drawing" style="weight:450px; height:300px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/16.png" alt="drawing" style="weight:450px; height:300px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图16. 疫苗种类和RNA疫苗
 </div><br><br>
 <strong>递送系统</strong><br><br>
 现在成功的递送系统主要借助于纳米颗粒。比方，蓝色的纳米颗粒紧紧地包裹着这些绿色的RNA，而橙色的脂质纳米颗粒则是作为整个总体疫苗的外包装（图17）。即把信使 RNA包裹起来，使得它能够递送到细胞基质里面去。陈院士所领导的课题组也做了一些 RNA 的疫苗的研究，发现RNA 疫苗和传统的灭活疫苗、蛋白疫苗相比，综合抗体产生的能力，通用性，长效性都是优于传统疫苗的灭活疫苗。所以陈院士认为 RNA 疫苗未来在人们对抗这类病毒或者这些烈性传染病当中，一定会为我们带来很大的收益。当然，也带来了巨大经济效益。比如辉瑞公司在 2021 年的财政年报里公布，仅仅是 2021 年的RNA 疫苗的销售额到 367. 8 亿美金，约合 2340 亿人民币。这是一个巨大的数字，说明合理利用疫苗会形成一个巨大的产业。与此同时，RNA药物在 2018 年的 8 月份也真正在人类的药物仿真史上出现了，也就是FDA 批准了RNA 药物了（图15）。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/17.png" alt="drawing" style="weight:450px; height:280px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/17.png" alt="drawing" style="weight:450px; height:280px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图17. 疫苗的优势和RNA药物
 </div><br>
 因此，人们认为，如果把小分子的药物作为第一代药物，抗体，细胞作为第二代药物，那么核酸药物就是第三代药物。RNA 药物的优势非常清楚。一个RNA 本身就是一维的线性序列，非常容易设计，而且也非常容易合成，因此它的性价比高。此外，RNA是安全的，因为我们的活细胞里有大量的RNA，所以机体有一个对 RNA 新陈代谢非常重要的一个体系。所以外源性的 RNA很难整合到基因组中。所以RNA既是安全的，又是简单的、快速的、低廉的。这些就决定了RNA 药物必然在很快地会占领药物的舞台（图18）。<br>
 
 陈院士在汇报中举例道，2020 年的欧洲的心脏病学会上， Arrowhead的公司（图）提出了一个降脂药。这个降脂药的本质是一个小RNA 药物。它的降脂效果实际上是跟他汀类药物是可比拟的。但是它打一针可以管半年。现在高血脂病人每天都要吃降脂药他汀类药物，而如果改换成RNA药物，他只要半年打一针就够了。这对病人来说是极端友好的，一年打两针，实际上不用改变他任何状态（图19）。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图18. RNAi 候选疗法在1/2期临床研究中的研究
 </div><br>
 所谓小 RNA 的基本原理(Segel et al. 2021; Li et al. 2014)，就是小RNA进去以后会形成转录抑制复合物，所以它长期的存在，并做到所谓高效。RNA现在的药物有很多种，比如有反义核苷酸，有核酸适配体。主要的有几类，一类是小 RNA 药物， siRNA药物、circRNA 药物，一类是信使 RNA ；但是所有的实验当中获得的功能的RNA 是不能直接成为药物的。成为药物要经过两个重要阶段，一个 RNA 必须修饰，一个要找到一个好的递送系统。 RNA 修饰主要解决 四个问题，第一，要提高 RNA 的稳定性，不要进入机体里以后被降解；第二，要提高 RNA 的翻译效率；第三，要降低 RNA 本身的免疫源性；第四，要改善它跟细胞的物理化学性质的适应性。<br><br>
 对于递送系统，各种研究人员已经尝试了几十种不同的办法，但是在疫苗设计方面只有纳米颗粒取得较好效果(Huang et al. 2022)，但是也有对其他系统进行探究，例如外泌体，张锋在 science 上发表的多态的囊包系统(Segel et al. 2021)。这些内容还都在研究，但是始终还是一个难题。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图19. mRNA 药物通过 SEND 引入到患病细胞中，实现疾病治疗
 </div><br><br>
 陈院士此外还举例，在2020 年调研的国际上 10 个药王中，7个是二类药物且基本上都是抗体药和分子药。如果你在 30 年前去看，大部分的药都是小分子药，但陈院士认为10 年以后在药王当中会有很多是核酸药物，是RNA药物，所以RNA很快的会进入药物的领域当中，来为人类的健康来服务。<br><br>
 最后陈院士总结道，我们国家在 RNA 研究上实际上是做得相当好的。在 RNA 的基础研究上，我们发表了大量的文章。陈院士曾经做过一个简单的，让第三方做个简单的统计，仅仅 2015 年到 2018 年，这四年的数据。我们中国在 RNA相关的论文的数量、总被他引的数量和 ESI 的重要文章的数量上都已经超过美国（图20）。所以我们国家在 RNA 的基础研究当中是不落后的。如果我们能够更好地把 RNA 的这些研究进行转化，应用到我们的实践当中，将会在世界上起到引领的作用。<br><br>
 陈院士在报告中，强调自己作为从事长期从事 RNA 研究的人，自己觉得很荣幸，也觉得有信心跟 RNA 的各位同行们一起努力，来实现我们中国 RNA 研究的突破的发展，做出中国原创性的工作。将近 30 年，我们一直在做长非编码，实际上现在还是国际上还没有开发的一个领域，我们相信在这方面我们也将会进行一些原始性的探索。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0104/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20230104_Runsheng_Chen/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图20. 2015年-2018年各国的论文发表状况统计
 </div><br><br>

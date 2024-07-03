@@ -26,8 +26,8 @@ permalink:
       Going still further, how could RNA overcome its relative chemical simplicity and expand its catalytic repertoire? The RNA world would have required a much broader range of RNA catalyzed chemistry, including “difficult” reactions like making C-C bonds. Modern protein enzymes achieve this by using co-enzymes, and perhaps RNA could do the same. RNA is a superb receptor for small molecules, as exemplified by the riboswitches. A significant number of these bind coenzymes, including SAM, TPP, NAD+ and FMN, and it’s not a big leap to imagine that the riboswitch might have evolved from an ancient ribozyme, or might be converted into a novel ribozyme. 
       </p>
       <table><tr>
-      <td><img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20220819_David_Lilley/1.png" alt="drawing" style="height:300px;display:block;margin:0 auto;"></td>
-      <td><img src="{{ site.url }}{{ site.baseurl }}/images/eventspic/20220819_David_Lilley/2.png" alt="drawing" style="height:300px;display:block;margin:0 auto;"></td>
+      <td><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/1.png" alt="drawing" style="height:300px;display:block;margin:0 auto;"></td>
+      <td><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/2.png" alt="drawing" style="height:300px;display:block;margin:0 auto;"></td>
       </tr></table>
       <p class="nospace font-xs">Deng et al.Structure and mechanism of a methyl transferase ribozyme Nature Chem Biol 18, 556–564 (2022)</p>
       
