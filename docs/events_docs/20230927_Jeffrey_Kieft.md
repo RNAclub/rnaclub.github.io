@@ -27,29 +27,29 @@ permalink:
 <br><br>
 mRNA分子拥有丰富的结构和序列，这些特征在调节mRNA在细胞中的表现、翻译活性以及亚细胞定位中扮演着关键角色。此外，大多数转录事件并不总是导致mRNA的合成，而常常生成非编码RNA，这些非编码RNA在细胞中也具有重要功能，尽管我们对它们的了解仍在不断深入。这些多样性的RNA类型和结构都参与了一个复杂的调控网络，为细胞提供了多种重要调节功能。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0927/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图1. The RNA World
 </div><br><br>
 RNA能够像蛋白质一样形成复杂的三维结构。例如，下图展示了我实验室在过去几十年中解析的一些RNA结构。这些结构显示了RNA的多样性；每一种结构都与RNA的特定功能密切相关。这些RNA是如何通过三维折叠获得独特功能的？这一直是一个引人入胜的科学问题。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0927/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图2. RNA的三维结构赋予了它特定的功能
 </div><br><br>
 RNA病毒利用RNA储存和传递遗传信息，已知有75%的导致人类疾病的病毒都是RNA病毒。下图左侧列举了一些对人类健康具有重大影响的RNA病毒。这类病毒的多样性和适应性促进了新病毒的出现。右侧图示展示了病毒RNA基因组中的结构化元素，这些元素在病毒生命周期中起到关键作用。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0927/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图3. RNA病毒与人类疾病，以及单链RNA病毒简图
 </div><br><br>
 我在过去20年中主持的实验室，一直关注病毒与RNA世界的交汇点。这些病毒RNA如何与细胞内的生物过程相互作用？这些相互作用如何推动新结构和新功能的产生？这些问题的答案是我们理解病毒和RNA如何在疾病中作用的关键。<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0927/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图4. 理解RNA病毒的新视角
 </div><br>
 通过冷冻电镜（Cryo-EM）技术解析RNA结构，我们可以探究RNA与核糖体或蛋白质复合体的相互作用。今天我要介绍的是一种操纵翻译机制的RNA。这种技术允许我们以前所未有的方式来观察RNA及其复合物，从而构建新的模型并进行验证。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/eventpic/event0927/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图5. Kieft lab的Cryo-EM 
 </div><br><br>
