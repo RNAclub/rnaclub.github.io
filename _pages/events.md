@@ -78,14 +78,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230104_Runsheng_Chen.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230104_Runsheng_Chen/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230104_Runsheng_Chen.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230104_Runsheng_Chen/0.png" /></a>
       <span> 2023.01.04</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">陈润生院士 - 大数据、人工智能和核酸药物 </h1>
-      <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230104_Runsheng_Chen.html">(More...) </a> </p>
+      <p id="p1"> 大家知道，实际上RNA它的所有的发展都是来自大数据。换句话说，我们当前的生物医学的发展实际上都依赖于 90 年代初开展的以破译人的一串密码为代表的基因组研究。从此整个的大数据就进入了生物医学领域，带动了越来越多的深刻的变化。当然我们知道现在组学大数据跟医学的结合，就导致了整个医学的精准医学的出现。所以大数据是在促进整个社会医学变革的，一个原始的动力。 <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230104_Runsheng_Chen.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -93,14 +93,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230316_Janusz_Bujnicki.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230316_Janusz_Bujnicki/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230316_Janusz_Bujnicki.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230316_Janusz_Bujnicki/0.png" /></a>
       <span> 2023.03.16</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">Janusz M. Bujnicki - Computational modeling of RNA 3D structures and interactions with the use of experimental data </h1>
-      <p id="p1"> Our research focuses on the structure of RNA and its interaction with RNA proteins. Using biophysics and computational simulation techniques, we explore the dynamic behavior and structural features of RNA and develop new RNA structure prediction algorithms. Additionally, we investigate the mechanism of action of RNA proteins, especially those related to diseases. <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230316_Janusz_Bujnicki.html">(More...) </a> </p>
+      <p id="p1"> Our research focuses on the structure of RNA and its interaction with RNA proteins. Using biophysics and computational simulation techniques, we explore the dynamic behavior and structural features of RNA and develop new RNA structure prediction algorithms. Additionally, we investigate the mechanism of action of RNA proteins, especially those related to diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230316_Janusz_Bujnicki.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -108,7 +108,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230425_Yiliang_Ding.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230425_Yiliang_Ding/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230425_Yiliang_Ding.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230425_Yiliang_Ding/0.png" /></a>
       <span> 2023.04.25</span>
     </div>
   </div>
@@ -117,7 +117,7 @@ permalink: /events/
       <h1 id="time1">Yiliang Ding - RNA structure, a hidden regulator in living cells </h1>
       <p id="p1"> Research Fields: Determining the role of RNA structure in the post-transcriptional regulation of gene expression including translation, polyadenylation, RNA splicing, RNA stability and RNA processing; 
       Exploring how RNA structures alter in response to environmental changes;
-      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230425_Yiliang_Ding.html">(More...) </a> </p>
+      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230425_Yiliang_Ding.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -125,14 +125,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230522_Yi_Xing.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230522_Yi_Xing/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230522_Yi_Xing.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230522_Yi_Xing/0.png" /></a>
       <span> 2023.05.22</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">Yi Xing - Long-read strategies to study the human transcriptome </h1>
-      <p id="p1">Professor Yi Xing's research focuses on bioinformatics and genomics related to RNA expression regulation, with a particular interest in applying these emerging technologies to investigate the role of RNA in human disease and genetics. In recent years, his laboratory has been particularly interested in utilizing new long-read RNA sequencing technologies to study the human transcriptome.<a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230522_Yi_Xing.html">(More...) </a></p>
+      <p id="p1">Professor Yi Xing's research focuses on bioinformatics and genomics related to RNA expression regulation, with a particular interest in applying these emerging technologies to investigate the role of RNA in human disease and genetics. In recent years, his laboratory has been particularly interested in utilizing new long-read RNA sequencing technologies to study the human transcriptome.<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230522_Yi_Xing.html">(More...) </a></p>
     </div>
   </div>
 </div>
@@ -140,14 +140,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230616_Chun_Kitkwok.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230616_Chun_Kitkwok/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230616_Chun_Kitkwok/0.png" /></a>
       <span> 2023.06.16</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">Chun Kit KWOK - Identification, characterization and targeting of RNA G-quadruplex structures </h1>
-      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research. In recent years, his research team has published more than 60 papers in internationally renowned journals such as Nature, Nature Methods, Nature Communications, Nature Protocols...<a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230616_Chun_Kitkwok.html">(More...) </a></p>
+      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research. In recent years, his research team has published more than 60 papers in internationally renowned journals such as Nature, Nature Methods, Nature Communications, Nature Protocols...<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html">(More...) </a></p>
     </div>
   </div>
 </div>
@@ -155,7 +155,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230824_Pascale_Romby.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230824_Pascale_Romby/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230824_Pascale_Romby.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230824_Pascale_Romby/0.png" /></a>
       <span> 2023.08.24</span>
     </div>
   </div>
@@ -163,7 +163,7 @@ permalink: /events/
     <div>
       <h1 id="time1">Pascale Romby - Regulatory RNAs in pathogenic bacteria, the case of Staphylococcus aureus: novelties and future </h1>
       <p id="p1"> 1.Mapping RNA-RNA pairings in vivo in bacteria and their importance in fast acclimation processes (stress responses, virulence); 2.Research on the translation initiation of structured mRNAs and its control in Escherichia coll and S. aureus in bacteria; 3.Research on the functions of regulatory RNAs and their networks in the opportunistic pathogen Staphylococcus aureus...<br>
-      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230824_Pascale_Romby.html">(More...) </a> </p>
+      Developing new experimental and analytical approaches for revealing RNA structure and RNA-protein interactions. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230824_Pascale_Romby.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -171,14 +171,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230927_Jeffrey_Kieft.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230927_Jeffrey_Kieft.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20230927_Jeffrey_Kieft/0.png" /></a>
       <span> 2023.09.27</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">Jeffrey Kieft - Conformational dynamics and manipulation of the translation machinery by a viral RNA </h1>
-      <p id="p1"> In this seminar, I will present our work towards understanding how a viral RNA binds the ribosome and enables a noncanonical "translation reinitiation" event. Combining bioinformatic, functional, and structural data from Cryo-EM, we propose a model for how this relatively small RNA uses programmed molecular motions within a surprisingly simple mechanism. <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20230927_Jeffrey_Kieft.html">(More...) </a> </p>
+      <p id="p1"> In this seminar, I will present our work towards understanding how a viral RNA binds the ribosome and enables a noncanonical "translation reinitiation" event. Combining bioinformatic, functional, and structural data from Cryo-EM, we propose a model for how this relatively small RNA uses programmed molecular motions within a surprisingly simple mechanism. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230927_Jeffrey_Kieft.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -186,14 +186,14 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20231106_Zhipeng_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231106_Zhipeng_Lu/0.png" /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231106_Zhipeng_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231106_Zhipeng_Lu/0.png" /></a>
       <span> 2023.11.06</span>
     </div>
   </div>
   <div class="details">
     <div>
       <h1 id="time1">Zhipeng Lu - Decoding the RNA structurome and interactome in cells </h1>
-      <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}docs/events_docs/20231106_Zhipeng_Lu.html">(More...) </a> </p>
+      <p id="p1"> In this seminar, He will present an overview of these technologies, and the recent discovery of a global snoRNA-tRNA interaction network. He invented a series of methods in the past 10 years, providing an unprecedented view of dynamic RNA 2D and 3D structures and interactions in the transcriptome in various physiological contexts and human diseases. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231106_Zhipeng_Lu.html">(More...) </a> </p>
     </div>
   </div>
 </div>
