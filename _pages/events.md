@@ -63,7 +63,7 @@ permalink: /events/
   <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20220819_David_Lilley.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/0.png" style="max-width: 100%“/></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20220819_David_Lilley.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20220819_David_Lilley/0.png" style="max-width: 100%"/></a>
       <span>2022.08.19</span>
     </div>
   </div>
@@ -201,7 +201,7 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
-      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231207_Elena_Rivas/0.png" style="max-width: 100%“ /></a>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231207_Elena_Rivas.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231207_Elena_Rivas/0.png" style="max-width: 100%" /></a>
       <span> 2023.12.07</span>
     </div>
   </div>
