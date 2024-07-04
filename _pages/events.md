@@ -14,7 +14,7 @@ permalink: /events/
 </head>
 <style>
 .item {
-  display: flex;
+  display: block;
   max-width: 1000px;
   margin: 0 auto;
   border-top: 3px solid grey;
@@ -236,7 +236,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Mofang Liu - RNA regulation and male reproductive development </h1>
-      <p id="p1"> Mofang Liu is a researcher at the Center for Innovation and Excellence in Molecular and Cellular Sciences. Her primary research encompasses RNA regulation and male reproductive studies, and she aims to shed light on the unknown causes behind more than half of male infertility, which has emerged as a global social concern.<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240110_Mofang_Liu.html">(More...) </a> </p>
+      <p id="p1"> Mofang Liu is a researcher at the Center for Innovation and Excellence in Molecular and Cellular Sciences. Her primary research encompasses RNA regulation and male reproductive studies, and she aims to shed light on the unknown causes behind more than half of male infertility, which has emerged as a global social concern. Her concentrated efforts in RNA regulation <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240110_Mofang_Liu.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -266,7 +266,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Tao Pan - Decoding and investigating the epitranscriptome with new tools </h1>
-      <p id="p1"> Epitranscriptomics refers to chemical changes in cellular RNA and includes many chemical types with varying stoichiometry and functions. Human RNA contains   about  40 modification types in tRNA and about 10 in mRNA. Tao Pan will discuss recent technology development and biological investigations in his lab that utilize nanopore sequencing for mRNA modifications, and illumina sequencing for tRNA modifications. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240329_Tao_Pan.html">(More...) </a> </p>
+      <p id="p1"> Epitranscriptomics refers to chemical changes in cellular RNA and includes many chemical types with varying stoichiometry and functions. Human RNA contains   about  40 modification types in tRNA and about 10 in mRNA. Tao Pan will discuss recent technology development and biological investigations in his lab that utilize nanopore sequencing for mRNA modifications <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240329_Tao_Pan.html">(More...) </a> </p>
     </div>
   </div>
 </div>
@@ -281,7 +281,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Shengyou Huang - 3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence </h1>
-      <p id="p1"> RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240517_Shengyou_Huang.html">(More...) </a> </p>
+      <p id="p1"> RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. . However, RNA structure is more complex and more  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240517_Shengyou_Huang.html">(More...) </a> </p>
     </div>
   </div>
 </div>
