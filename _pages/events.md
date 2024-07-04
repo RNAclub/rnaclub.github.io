@@ -14,7 +14,7 @@ permalink: /events/
 </head>
 <style>
 .item {
-  display: flex;
+  display: block;
   max-width: 1000px;
   margin: 0 auto;
   border-top: 3px solid grey;
