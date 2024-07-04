@@ -220,7 +220,7 @@ MIWI蛋白表达在粗线期精母细胞中起始，并通过减数分裂后的�
 <br><br>
 <br><br>
 <strong>
-  Matthias W. Hentze教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1K64y1T7Jp/?spm_id_from=333.999.0.0)
+  刘默芳教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1K64y1T7Jp/?spm_id_from=333.999.0.0)
 <br><br>
 欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
 </strong>

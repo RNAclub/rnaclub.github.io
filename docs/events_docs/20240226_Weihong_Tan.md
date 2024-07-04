@@ -108,7 +108,7 @@ permalink:
 <br><br>
 <br><br>
 <strong>
-  Matthias W. Hentze教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1az421R7jA/?spm_id_from=333.999.0.0)
+谭蔚泓院士此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1az421R7jA/?spm_id_from=333.999.0.0)
 <br><br>
 欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
 </strong>
