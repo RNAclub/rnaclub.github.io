@@ -21,206 +21,191 @@ permalink:
     </div>
   <div class="details">
     <div>
-    <strong>会议回顾 </strong>
+<strong> 关键词 </strong>
+结构 序列 算法  分辨率 建模 人工智能 图像处理 深度学习
 <br><br>
-  2024年1月10，刘默芳教授进行了线上学术报告“RNA调控与雄性生殖发育”。刘默芳，中科院分子细胞科学卓越创新中心/生化细胞所研究员、PI；国家杰青、“万人计划”领军人才和新基石研究员获得者。主要从事RNA调控与雄性生殖研究，面向国际前沿和人口健康，针对精子发生极其复杂并有许多未解之谜、男性不育一半以上病因不明并已成为全球性社会问题等，聚焦RNA调控与精子发生和男性不育，获得了系列原创重大研究成果，包括首次证明piRNA调控通路异常是男性不育新病因、揭示了精子细胞mRNA翻译调控和清除降解新机制等，解答了精子发生中多个未解之谜，提出了新的理论，提升了对雄性生殖规律和男性不育病因的认识；发表学术论文80多篇，包括以通讯作者在Science、Cell （2篇）、New Engl J Med、Nat Cell Biol、Mol Cell、Dev Cell 等的30多篇；成果入选“国家重点研发计划重大科技成果”、“中国生命科学十大进展” 、“中科院科技亮点成果（2次）等；作为RNA调控与生殖领域主要引领者之一，近期受邀Nat Rev Mol Cell Biol长文综述，系统总结了Piwi/piRNA研究进展。担任《中国科学：生命科学》副主编、RNA专业委员会主任、科技部重点研发计划和上海市重大基础研究项目等项目首席科学家，获上海市自然科学一等奖、全国妇幼健康科学技术奖自然科学一等奖、谈家桢生命科学创新奖等荣誉。
+<strong>会议回顾 </strong>
+<br><br>
+  2024年5月17日，广州实验室苗智超研究员邀请了华中科技大学的黄胜友教授进行了线下及线上转播的学术报告“基于人工智能的冷冻电镜RNA三维结构建模”。黄胜友教授长期从事计算生物物理和生物信息学方面的研究，在Nature Protocols, Proceedings of the National Academy of Sciences，Nucleic Acids Research， Bioinformatics，Drug Discovery Today，Physical Review Letters等国际一流期刊上发表SCI论文80余篇，其中第一和通讯作者50余篇，文章累计他引2000余次。所提出的集合分子对接算法和迭代打分函数模型被国际同行广泛采用，发展的蛋白质分子对接算法和打分函数模型在称为国际蛋白质相互作用预测的“奥林匹克竞赛”CAPRI评估中多次排名第一。
 <br><br>
 <strong> 会议内容 </strong>
 <br><br>
-刘默芳教授以近年来，中国新生人口数呈断崖式下降，其中人类生育力下降是重要原因，特别是男性不育的问题为背景，引入了精子发生的概念。精子发生是指精子在睾丸的曲细精管（seminiferous tubules）中产生，是一个非常复杂且独特的细胞分化和发育的过程，起始于生精干细胞，经历有丝分裂、减数分裂、精子形成这三个阶段，才能形成高度特化的精细胞。精子发生过程中的基因表达调控，也十分独特，期间要经历两次转录高峰，以及随之而来的大量RNA加工储存、翻译、降解等RNA水平的调控事件。因此RNA调控在精子发生过程中，是至关重要的。
+继中心法则发现以后，我们认为DNA是遗传物质，蛋白质是生命活动的执行者，对RNA有所理解过后，再返回看中心法则，会发现RNA才位于生命活动中承上启下的中心位置。实际上，从某种意义上来说，RNA也是最复杂的。因为蛋白质的结构是相对比较稳定的，当然这也是Alphafold可以一定程度将蛋白质结构预测的很好的重要原因。
 <br><br>
-在人类基因组中编码的约2000个RNA结合蛋白就有1500个在睾丸组织中，它们都是特异性表达或者高表达，另外种类繁多的非编码调控RNA在睾丸组织中也是特异性表达或者高表达。这些说明了RNA调控在精子发生过程中十分重要。那么RNA调控是如何在精子发生过程中发挥作用的呢？该报告就主要介绍刘默芳教授团队在男性不育相关piRNA调控通路基因突变的发现及精子细胞中的翻译调控研究。
-<br><br>
-刘默芳教授的实验室研究的Piwi家族蛋白以及与它相互作用的小RNA—piRNA，就是典型的生殖细胞中特异性表达的RNA结合蛋白以及非编码调控RNA。小鼠的三个Piwi蛋白成员在精子发生过程中呈现时空特异性表达（小鼠基因组编码三种Piwi旁系同源物，Miwi、Mili和Miwi2，它们都在睾丸中高度表达，因此，所有这些都是雄性而非雌性生育所必需的）。任意一个Piwi基因的敲除都会导致小鼠出现完全的雄性不育，但是对于Piwi蛋白基因敲除导致雄性不育的机制了解是来源于2006年，有研究者发现Piwi蛋白与一类新的生殖细胞特异性小非编码RNA相关，称为Piwi相互作用RNA（piRNA），这激发了人们对Piwi蛋白的兴趣。Piwi蛋白与piRNA形成复合物，相互作用的机制已被充分证明可以通过沉默动物生殖细胞中的转座子来保持基因组完整性。这是Piwi蛋白与piRNA这个通路的一个经典功能。然而在此之前，还没有有研究报道过对于Piwi蛋白和piRNA功能调控异常，是否与男性不育有相关性。
-<br><br>
-Piwi蛋白由四个不同的结构域组成：N-末端、PAZ、MID和Piwi结构域。PAZ和MID结构域负责piRNA负载，而Piwi结构域类似于RNase H，但N-末端结构域的功能意义尚不清楚。 2013年刘默芳教授的实验室发现在脊椎动物Piwi蛋白的N端结构域中鉴定了一种保守的破坏盒（D-box），这是APC/C泛素E3连接酶底物共享的特征，包括小鼠的MIWI和人类的HIWI。在小鼠精子生成后期，MIWI以D-box依赖的方式被APC/C泛素化和降解。并进一步证明这种MIWI消除对于精子细胞正确转化为精子至关重要（图1）。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图1. PIWI/piRNA经典功能
+图1. RNA处于生命体遗传信息流的中心
 </div>
 <br><br>
-由于怀疑HIWI D-box元件突变可能是导致人类男性不育的原因（人类基因组编码四个Piwi家族成员，包括Hiwi、Hili、Hiwi2和Piwil3，所有这些成员都主要在睾丸中表达），2017年刘默芳教授团队对413名特发性无精子症患者的HIWI基因第六和第七外显子的D-box区域进行测序，从而在三名无精子病患者中鉴定出特定的D-box突变。随后他们通过在敲除小鼠和转基因小鼠中模拟这种突变，证明了D-box突变阻碍了MIWI的降解并导致小鼠完全雄性不育，从机制上来说是雄性小鼠中的MIWI D-box突变损害了精子发生过程中的组蛋白泛素化和组蛋白到精蛋白的转变，即MIWI D-box突变导致Piwi蛋白在后期精子细胞中异常稳定，从而导致与它相互作用的组蛋白泛蛋白连接酶RNF8被扣留在细胞质中，因此在晚期精子细胞中RNF8不能核转位催化组蛋白泛素化修饰，以及组蛋白和精蛋白的交换，最终导致精子变形出现问题，使得突变小鼠只能产生少量的且功能异常的精子，以此导致小鼠雄性不育。另外刘默芳教授团队基于对此机制的了解，设计干预策略，可以成功的恢复突变小鼠精子活性，为这类男性患者的治疗提供了一种潜在的方法策略。
+DNA的双螺旋结构相对RNA来说也是是非常稳定的。RNA既存在transcriptomes也存在ribonucleomes，情况相对更复杂，也是我认为Alphafold在RNA结构预测上表现欠佳的可能原因。RNA的三维结构要怎么确定呢，一般来说做实验得到的三维结构更准，但往往也伴随成本高难度大的问题，相对来说，通过计算得到三维结构的成本更低，速度或周期更短。在此基础上，我们进一步对RNA三维结构预测问题进行简化，就是在给定的一段RNA序列，要怎么得到它的三维结构。
 <br><br>
-在后续的研究中发现，在200个患者中，有五个患者存在一种新的Piwi基因370位R-W的突变，这个突变位于Piwi蛋白中的一个特异性元件叫作PIWI-Ins，从结构解析方面把它称为PIWI insertion。对于这个基因的突变是否是治病性的突变呢？刘默芳教授团队通过突变小鼠的Piwi基因，即370位R-W，发现小鼠虽然没有出现完全的雄性不育，但却出现了小鼠雄性生育率低下的表现，证明了这种突变的确是潜在的治病突变。在体外通过构建小鼠缺失突变（敲除PIWI-Ins元件的9个氨基酸）发现，Piwi蛋白仍然具有加工和结合piRNA的能力，但与之结合的piRNA变短，之后又用涡虫PIWI-Ins元件的27个氨基酸代替小鼠PIWI-Ins元件的9个氨基酸构建了杂合的Piwi蛋白，而这个杂合的Piwi蛋白加工、结合piRNA更长，<strong> 证明了PIWI-Ins元件决定了MIWI结合piRNA的3’端和长度，为小鼠精子形成和雄性生殖必须； </strong> 在体内实验中，也将9个氨基酸的PIWI-Ins元件删除，发现突变小鼠是完全雄性不育，而且在附睾中没有精子，与体外实验一致，Piwi蛋白加工、结合的piRNA变短（图2）。为此刘默芳教授团队提出疑问，<strong> PIWI-Ins突变以及变短的piRNA是如何影响精子形成呢？ </strong>
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图2. 小鼠PIWI-Ins缺失突变
-</div>
-<br><br>
-MiwiΔIns突变并不影响Piwi/piRNA 可以通过沉默动物生殖细胞中的转座子来保持基因组完整性这一功能（图3），他们发现Piwi/piRNA在小鼠精子细胞中对靶mRNA发挥双重调控作用，在早期球形精子细胞中参与mRNA的翻译激活，后期的精子细胞中，参与mRNA的清除降解。由于MiwiΔIns突变小鼠精子发生阻滞在第八步球形精子细胞期，而MIWI/piRNA在球形精子中激活翻译，因此<strong> MiwiΔIns/shoter piRNA是否具有正常的翻译激活功能呢? </strong>
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图3. 小鼠精子细胞转座元件活性及转录组
-</div>
-<br><br>
-将野生型小鼠和MiwiΔIns突变小鼠的球形精子细胞分选出来，进行定量质谱分析，发现有900多个蛋白表达水平在MiwiΔIns突变的球形精子细胞来发生了变化，其中有37个蛋白表达呈现显著下降的状态，通过Western Blot 确认了对应的下降的37蛋白，其变化相当大，但在mRNA 水平上，变化并不是很大，以此证明这些蛋白下降的原因是翻译受损（图4）。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图4. MiwiΔIns突变小鼠蛋白表达的变化
-</div>
-<br><br>
-<strong> 为何MiwiΔIns/shoter piRNA的翻译功能会受损呢？ </strong> 通过大量的细胞生物学实验和生化实验，发现是shoter piRNA使得翻译激活功能受损（图5）。从机制上讲，较长的piRNA为靶mRNA提供了额外的互补性，从而增强了用于翻译激活的MIWI/eIF3f/HuR超级复合物的组装。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图5. MiwiΔIns/shoter piRNA的翻译功能变化
-</div>
-<br><br>
-Ago蛋白家族可分为Piwi和Ago这两个蛋白亚家族，其中Ago参与结合siRNA和miRNA，长度为20-22nt；而Piwi结合的piRNA具有26-32nt。那么 <strong> 为何Piwi蛋白能结合更长的小RNA？为何Piwi蛋白需要更长的小RNA呢？</strong>
-<br><br>
-Piwi蛋白结构中具有一个突起的插入元件，正好位于与之结合的小RNA的轨道中，从而使结合小RNA更长；而piRNA延申的3’端，赋予piRNA翻译激活功能（图6）。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图6. Ago蛋白家族结合小RNA的长短变化
-</div>
-<br><br>
-<strong> PIWIL1R370W突变是否影响MIWI结合piRNA长度？ </strong> 通过构建了MiwiR370W突变小鼠发现，MiwiR370W的确可以影响结合piRNA长度，翻译程度有一定下降（比MiwiΔIns全部去除变化程度小）（图7）。表型分析发现这个MiwiR370W点突变小鼠并没有完全雄性不育，但生育力低下：产仔间隔期变长、育龄提前终止、精子数量和质量显著下调（图8），最终证明piRNA翻译激活作用受损影响男性生育力。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图7. MiwiR370W突变小鼠蛋白表达的变化
+图2. RNA三维结构要如何确定？
 </div>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图8. MiwiR370W突变小鼠生育力的变化
+图3. 计算预测三维结构的三类方法
 </div>
 <br><br>
-piRNA加工酶PNLDC1基因突变致男性不育，从不育症患者中发现了47位的R-G的突变，同样通过建立突变小鼠模型，确认了这个突变将会导致小鼠完全雄性不育，且与患者表型一致（图9）。
+目前来说，从计算上来说有三类方法来预测RNA三维结构。第一类方法叫第一性原理，RNA碱基一共四种(A,U,G,C)，根据序列上碱基的顺序进行拼接折叠即可。但是这种情况的话它自由度太大，如果我们一个原子的话有三个自由度，那么几千个原子就相当于就是几万个自由度，想要正确的结构是很困难的。所以为了解决这个问题，后面就提出了第二种方法，这种情况叫片段组装。我们就依据序列把它简化成片段的形式。举例来说，我把序列分成 10 个片段，那么每个片段的话自由度只有3，那我们只有 30 个自由度，计算数量级就急速地下降。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+目前来说，片段组装的话是现在最主流的预测方法，包括国外的RNAComposer，还有FARFAR都属于这方面。国内肖毅老师的3dRNA也是这方面的一个工作。当然方法也有局限性，把RNA拆成片段，如果没有生成没有结构里面需要的片段，就无法拼出正确的三维结构。
+<br><br>
+那么是不是存在一种方式是万能的，预测的各种情况都可以搞定。理论上是大家还是很期待人工智能在预测方面的表现。近期关于人工智能在预测方面也有几个工作发表，一个是ARES，是斯坦福的工作；trRosettaRNA是山东大学杨建益老师的工作，还有最近的RosettaFoldNA，以及最新的AlphaFold3。可能是因为Alphafold把大部分蛋白质结构解决得很好，好像RNA预测问题也可以借助于AI解决。实际上，现在人工智能属于数据驱动的，所以某种意义上，没有数据，人工智能什么也做不到。
+<br><br>
+所以如果现在没有一种方法能够解决RNA结构预测问题，那么用多模态策略，使用多种方法，把所有的数据都用上，一个信息不够，那么用两个、三个、四个，十个指不定就解决了。所以出现了一个概念，叫做整合策略，或者叫整合建模。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图9. piRNA加工酶PNLDC1基因突变
+图4. 生物大分子结构建模
 </div>
 <br><br>
-piRNA角度来解析男性不育，只是冰山一角，要深入系统性的去了解男性不育，我们必须要认识精子发生的规律，然后精子发生是动物体内最为复杂的发育事件，且目前为止精子发生仍然不能在体外完成，没有合适的研究系统，对于精子发生的分子基础，调控事件的了解非常有限，因此精子发生过程中尚有许多未解之谜。
+一种数据的话只能看到一个方面，整合多种数据就可以得到多个方面信息。第一步，整合实验信息，例如Xray，cryo-EM等；第二步分子表征这些信息，得到通过实验的到的结构方面的约束信息；第三步，采样所需要的结构信息；第四步，筛选出正确的采样策略。实际上现在的AlphaFold3的扩散模型就是这种模式，扩散模型可以挑选出很多预测结构，中间过程设置打分函数挑选出正确的预测结构。这应该也是后续结构建模的一种趋势。
 <br><br>
-刘默芳教授团队的研究主要集中在精子形成阶段，精子形成是一个连续细胞形态变化和染色质重构过程，期间与染色质结合的组蛋白，会被鱼精蛋白取代，导致精子细胞核的压缩与重构（图10）。
+我们聚焦于冷冻电镜方面也是因为我们有比较多这方面的实验信息。在做的过程中发现冷冻电镜信息有一个非常明显的特点，就是它实际上是个高质量数据和低质量数据的完美结合。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图10. 精子形成过程
+图5. 冷冻电镜帮助生物大分子结构解析
 </div>
 <br><br>
-组蛋白被鱼精蛋白取代以后，精子细胞中染色质的致密化，转录在精子发生过程中逐渐被抑制。因此，精子发生的程序依赖于早期转录的基因产物，并储存在翻译惰性的信使核糖核蛋白（mRNPs）中，直到特定的发育阶段，才会被翻译激活，生产出蛋白质，支持精子细胞的发育，这个现象叫作转录-翻译解偶联，即转录和翻译并不同步（图11），是精子发生过程中基因调控的一个独特特征，一直是理解生殖细胞发育程序的主要谜团之一。因而翻译调控成为精子细胞中主要的基因表达调控方式。<strong> 那么精子细胞中大量翻译抑制状态的mRNA是如何被激活的呢？ </strong>
+举例来说，冷冻电镜做得好分辨率可以很高，做得不好也可能很不好；第二，它同一个结构分辨率好的地方可以达到一点几埃，不好的地方可以达到二十几埃，所以某种意义上也是我们的机会。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+我们主要是集中2D图像生成3D density map。就像我们前面说的一样，这个冷冻电镜数据的话是真是高质量和低质量完美结合，它有3埃的时候，原子细节都可以看的比较清楚。比 3埃差的话，差不多5埃就基本上都看不到原子了。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图11. 精子细胞转录和翻译过程
+图6. 整合冷冻电镜数据进行RNA三维结构建模存在的问题
 </div>
 <br><br>
-2019年刘默芳教授团队发现，MIWI /piRNA机制负责激活球形精子细胞中几百个mRNA的翻译，以配合精子的形态转化。这种作用需要piRNA与30个UTR中的靶mRNA的特异性碱基配对相互作用，这通过与顺式作用的富含AU的元件偶联来激活翻译，以发育阶段特异性的方式使MIWI/piRNA/eIF3f/HuR超复合体的形成成核（图12）。这些发现揭示了piRNA系统在翻译激活中的关键作用，对于健康精子的形成非常必要。 
+既然有很多冷冻电镜数据这么难解，我们是不是就可以来做这个事情？以上述图例来说，大家会发现里面信号信噪比很低，质量差距特别大，RNA的信号也比较弱。第一眼看不出来怎么得到右边的RNA结构。所以我们就做了一个人工智能的框架，通过人工智能，提取右边的结构信息。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图12. MIWI /piRNA系统在翻译激活中的机制
+图7. EMRNA基于人工智能的冷冻电镜RNA三维结构建模算法概览
 </div>
 <br><br>
-刘默芳教授团队与杨建华老师团队合作完成的工作发现，在后期精子细胞中PIWI/piRNA与脱腺苷酸酶CAF1相互作用，诱导mRNA转录物的降解，因此在后期精子细胞中，PIWI/piRNA不再参与翻译的激活，即PIWI/piRNA机制也通过生殖细胞中的miRNA-和/或siRNA样机制介导mRNA转录物的降解。<strong> 那么后期精子细胞中的mRNA翻译如何激活呢？ </strong>
+大概流程如下，流程图最左边是冷冻电镜的密度图，右边是结构，我们在中间提出了一个自动化的人工智能的算法框架(EMRNA) , 相当于你给它一个密度图的话，它就给你一个结构。模型核心划成几个模块，第一个步骤相当于RNN 主链原子信号的挖掘；第二步要把它连起来并成链，但主链是有位置没有序列，因此我们要把序列信息添加上去；就是第三步结合二级结构和序列信息，把序列装上去。
 <br><br>
-为了了解翻译惰性mRNA在精子发生晚期是如何被激活的，刘默芳教授团队采用筛选策略，在小鼠晚期精子细胞（late spermatids，LS）中进行了定量蛋白质组学分析（图13），以确定在蛋白质合成中活跃的多聚核糖体（polysomes）中潜在的翻译调节因子。从两个发育时间点的小鼠睾丸中制备了多聚体组分：产后25天，其中含有圆形精子细胞（round spermatids，RS ）但缺乏LS，以及35天，其中含有RS和LS 。发现35天的睾丸多聚体其中12种蛋白质相对于25天的显著升高。TARBP2是精子生成后期精蛋白mRNA的翻译激活剂，在35天睾丸多聚体中更富集，从而验证了这个筛选策略是正确的。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图13. 小鼠晚期精子细胞定量蛋白质组学分析
+图8. EMRNA主链原子预测概览
 </div>
 <br><br>
-实验室将重点放在FXR1上，因为曾有研究记录了其副同源物FMR1/FMRP在调节翻译中的作用。FXR1属于脆性X相关（fragile X–related，FXR）家族，由FMR1/FMRP、FXR1和FXR2组成，它们是包含两个KH结构域和一个RGG盒的经典RBPs（图14）。FXR家族蛋白主要被证明是将靶mRNA转运到不同细胞内区室的翻译抑制剂。特别是，众所周知，FMR1/FMRP也会抑制突触的局部翻译，而这一关键翻译控制步骤中的缺陷是脆性X综合征的病理生理学原因。
+主链原子的挖掘或者预测，我们用简单的四个字描述就是从图到点。我们这个算法能够做到准确地从那些看起来很模糊，好像都没有信息的部分，把原子信息挖掘出来，最核心的就是这个网络。我们做的好有两个方面原因，第一个方面，网络框架很特殊，一个是Transformer，一个是CNN，一个是UNet，三个模块功能的综合应用，可以做到又快又好，在做好短程碱基间作用的同时兼顾RNA远距离相互作用的场景，同时提高算法的整体速度。第二个方面，核心损失函数的创新。我们也用了两个模块，第一个做叫 L1Loss，是负责局部学习的；第二个叫SSIMLoss，负责整体相关性比较。在保证点对点信息还原的同时，兼顾对预测结构整体性的考虑。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+这从图到点的过程相当于我们获取核苷酸的位置，那么只有位置是不够的，我们要把它串起来。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图14. FXR蛋白家族结构
+图9. EMRNA主链原子的串线连接
 </div>
 <br><br>
-FXR1蛋白在产后35天的小鼠的睾丸中的富集，因此假设FXR1参与了LS的翻译调控。研究结果也表示FXR1在成年小鼠睾丸中与多聚体的关系更为密切（图15）：与成年小鼠的其他组织相比，FXR1在睾丸中的表达量要高得多，此外，FXR1在睾丸中的表达随着小鼠年龄的增长而增加， FXR1在LS中的表达量高于精母细胞（spermatocytes，SC）和RS 。接着利用eCLIP - seq鉴定了FXR1的靶mRNA，在35 天小鼠的睾丸中发现了4272个FXR1结合的mRNA；通过基因本体（Gene Ontology，GO）发现其在精子细胞分化和发育过程中特别富集，包括鞭毛形成、染色质重塑和精子运动（图16）。
+核苷酸串起来过程我们称之为从点到线，使用了旅行商的算法。因为其实RNA的实际信号是比较弱的，所以某种意义上说，得到多条，上万条都有可能的，我们需要依据序列信息去判断哪条是对的。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图15. FXR1在成年小鼠睾丸中高度表达
-</div>
-<br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/16.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图16. FXR1与小鼠睾丸中的一大组mRNAs相关
-</div>
-<br><br>
-为了验证FXR1是否与翻译因子互作、结合mRNA在后期精子细胞中翻译，接下来进行了免疫沉淀（IP）与质谱联用，如图17表示共有125种蛋白质在抗FXR1 IP颗粒中显著富集，其中包括真核生物翻译起始因子（EIF4G3）（一种支架蛋白，其组织EIF4F复合物组装到mRNA上以起始帽依赖性翻译）、核糖体亚基等等。同时发现了与FXR1结合的mRNA的翻译主要发生在后期精子细胞中。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/17.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图17. FXR1与翻译因子的关系以及结合mRNA在后期精子细胞中翻译
-</div>
-<br><br>
-<strong> FXR1是否激活其结合的mRNA翻译呢？</strong>实验室又构建了在生殖细胞中特异性敲除FXR1小鼠模型，发现敲除小鼠靶基因的蛋白水平会剧烈下降（图18），且小鼠出现完全雄性不育，附睾无精子（图19）。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图18. FXR1基因缺失小鼠蛋白和翻译水平的变化
+图10. EMRNA中RNA二级结构确定
 </div>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图19. FXR1基因缺失小鼠不育
+图11. EMRNA中RNA全长主链序列的确定
 </div>
 <br><br>
-<strong> FXR1是否激活后期精子细胞翻译？ </strong> FXR1在后期精子细胞中呈颗粒状且附着核糖体，刘默芳教授团队研究了FXR1是否也在小鼠LS中进行相分离以形成缩合物。FXR1通过选择性剪接编码七种异构体，即FXR1a至FXR1g，并且所有这些异构体在C末端都含有IDR（内在无序序列，相分离的标志性元件）。进一步实验证明FXR1蛋白可以进行相分离，并且FXR1缩合物在体外和纤维素中显示出液体状特征。
+增加序列部分的信息需要一个二级结构去帮它去打分。为什么用这个二级结构或加一个二级结构的预测呢？主要是二级结构的预测比较自动化且比较准确，用我们之前已知的一维的序列，还有预测的二级结构这两个信息，装在从图像中捕捉的主链。怎么把序列装对这个事情，可以参考现有的一些算法。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+序列比对或者结构比对的问题，就相当于怎么样把一维的序列和这二维的结构信息匹配到那个三维图像上。这实际上是个动态规划的事情，相当于这里面包含两个打分，一个序列打分，一个二级结构打分。用这两个打分作为评估，进行主链装上序列信息的训练。每一条主链装上的序列后，它的得分是不一样的，我们就挑第一名。基本上第一名如果不对，其他的对的可能性也不是太大。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图20. FXR1在后期精子细胞中的状态
+图12. EMRNA中RNA全原子结构构建与优化
 </div>
 <br><br>
-<strong> 相分离是否对翻译激活重要？ </strong> 将FXR1a的KH2结构域中351位的亮氨酸残基定位为相分离的必需残基。这是一个完美的点突变，FXR1aL351P突变体保持了正常的RNA结合能力，而L351P突变可能通过改变KH2结构域中Y353和Y357的疏水口袋和构象来损害FXR1相分离，回复突变又能够恢复FXR1相分离（图21）。
+到这个地方为止，主链位置也好了，序列信息也好了。最后一步，已经有RNA三维结构的backbone, 主链定了，序列核苷酸信息确定以后，就可以直接构建全原子的三维结构。这一步我们没有创新的算法在里面，用已发表的算法，例如Phenix或者3dRNA都可以搭建全原子模型。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/21.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图21. FXR1及突变体结合mRNA的能力
+图13. EMRNA中RNA建模结果评估
 </div>
 <br><br>
-实验室使用TRICK（通过外壳蛋白敲除翻译RNA成像）报告系统来确定FXR1颗粒是否需要翻译其靶标。NLS-PCP-GFP{与细胞核定位序列(NLS)和绿色荧光蛋白（GFP）融合的PP7外壳蛋白（PCP）}和NLS-MCP-RFP{与NLS和RFP融合的MS2外壳蛋白（MCP）}的共转染导致转染的C2C12细胞中细胞核Gpd2 mRNA的双色标记（图22，I），表明未翻译状态。蓝色荧光蛋白（BFP）标记的FXR1a的共表达产生了一部分Gpd2（FXR1的一个靶基因）进入细胞质中的FXR1a颗（蓝色）（图22，图II和图III）。FXR1a颗粒中的Gpd2 mRNA被RFP标记而不是GFP，而嘌呤霉素处理导致FXR1a颗粒中的mRNA被GFP和RFP标记。这些结果表明FXR1a将靶mRNA招募到FXR1a颗粒中以触发其翻译。
+所以整个流程就是这样，最核心的就是我们前面那个网络框架，怎么从那个很模糊的粒度里面能够准确地定位主链原子位置，后面都是工程学的事情。算法表现方面，我们做的评估图例比较多，RNA结构方面，一个是用RMSD作为评估标准，相当于比较预测结构和PDB真实结构相差有多远。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/22.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+第二个标准叫做TM score，可能RNA方面做Cryo-EM，TM score 不一定适合，但TM score用来比较与真实PDB结构一致性程度，一致性越高越好。第三个是coverage，用过Phenix 都知道以案例有一千个碱基来说，软件可以构建出多少碱基；第四个是序列正确率，sequence match，装序列装得对不对？也是越高越好，除了第一个标准是越低越好之外，其他都是越高越好。最右面的图，一个蓝色的，一个绿色的，一个是解析PDB 结构，一个是预测的RNA结构，总体效果还是不错的。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图22. 相分离对小鼠FXR1在翻译激活和精子发育中的功能至关重要
+图14. EMRNA中RNA二级结构预测的影响
 </div>
 <br><br>
-为了进一步研究阶段分离对FXR1在小鼠精子细胞翻译激活中的功能是否至关重要，构建了FXR1 -内部核糖体进入位点（IRES）-细胞色素氧化酶IVN -末端（Cyto IV）-融合增强型绿色荧光蛋白（EGFP）慢病毒载体，在Fxr1cko睾丸中异位表达野生型FXR1、FXR1L351P或FXR1L351P -IDRFUS（回复突变）。仅有野生型或它们的FXR1L351P-IDRFUS回复突变体，在Fxr1 - null LS中拯救了FXR1颗粒和靶基因的蛋白表达以及精子形成，而FXR1L351P突变体中没有靶基因的蛋白表达以及精子形成（图23）。
+接下来我们看一下，二级结构的影响，因为我们用二级结构去打分，作为一个评分标准。图例上一种颜色代表一种二级结构的准确度，基本上差别不是太大。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/23.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图23. 精子细胞中FXR1靶向表达的蛋白质印迹和RT-qPCR分析
+图15. EMRNA中RNA密度图Mask截断距离的影响
 </div>
 <br><br>
-构建了种系特异性Fxr1L351P敲除（称为Fxr1cki）小鼠，这些突变小鼠的附睾中几乎不存在精子，FXR1相分离对小鼠精子发育和雄性生育是必须的（图24）。
+第三个是 RNA 密度图Mask截断距离的影响，为什么做这个是因为很多结构是个蛋白和RNA的复合物，所以预测要先把 RNA mask 出来。当时存在一个疑问，是mask的大小存在多大的影响，所以我们就做了一下mask在3埃、4埃、 5埃都做了一下，差异不大。每种颜色都代表一种mask的影响，但是mask还是对技术有要求，如果mask 不好，它可能不一定能做出正确的结构。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/24.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/16.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图24. L351P突变破坏了FXR1的相分离能力
+图16. EMRNA与Auto-DRRAFTER效果的比较
 </div>
 <br><br>
-最近的研究表明，生物分子凝聚物广泛存在于真核细胞中，作为非膜结合的亚细胞区室，它们可能富集蛋白质和/或核酸，从而在特定的细胞过程中实现时空控制。RNP颗粒，是RNA结合蛋白（RBPs）结合RNA组成的复合物，被认为自组织成无膜细胞器，这个过程被称为液-液相分离（LLPS），因为RBPs固有无序区域（IDRs）。在发育中的生殖细胞中，RNP颗粒被称为生殖细胞颗粒。它们主要存在于细胞质中，储存非翻译的mRNA中，是RNA调控的主要场所。在翻译惰性mRNP颗粒中也发现了FXR1，FXR1蛋白经历LLPS将mRNP颗粒与翻译机制合并，以激活精子发生过程中储存的mRNA的翻译。
+首先就是与Auto-DRRAFTER的比较，这个是斯坦福那边做的，他们应该是除EMRNA之外，他们唯一一个能够做全长的。左边这个是我们的EMRNA，右边是Auto-DRRAFTER的，我们比他们好不少。同时EMRNA还有一个优势，就是比较快，因为他们估计一周做一个100个核苷酸的，EMRNA使用一个GPU 估计几分钟就好了。
 <br><br>
-除了RNP，刘默芳教授团队还关注到了两种生殖颗粒，Intermitochondrial cement（IMC）和拟染色质体（Chromatoid body，CB），IMC和CB是哺乳动物雄性生殖细胞中最典型的两种生殖颗粒。IMC可见为位于线粒体簇中的电子致密颗粒，首先出现在胎儿前精原细胞（prospermatogonia)，在中粗线期精母细胞（mid-pachytene spermatocytes）中变得明显，然后随着线粒体弥散在晚粗线期精母细胞（late-pachytene spermatocytes）中逐渐解体，并在减数分裂后精子细胞阶段完全消失。相比之下，CB前体细胞在晚粗线期精母细胞中以小颗粒的形式出现，位于靠近核包膜。
-<br><br>
-MIWI蛋白表达在粗线期精母细胞中起始，并通过减数分裂后的精子细胞持续存在。MIWI最初通过与线粒体锚定的Tudor结构域蛋白TDRKH相互作用被募集到IMC，用于中粗线期精母细胞中的piRNA 加工。 piRNA负载促进了MIWI与TDRKH的脱离，促进了其从IMC的释放。这种分离使 MIWI 蛋白为精氨酸甲基化奠定了基础，随后通过其甲基化的精氨酸残基促进了其与TDRD6的结合，从而最终将其整合到CB中。 通过构建piRNA加载缺陷的 Miwi突变小鼠，该研究证明了MIWI中piRNA 加载能力的丧失阻碍了其在精子发生过程中从 IMC 到 CB 的易位。这种阻塞严重破坏了发育中的雄性生殖细胞中的MIWI稳定性，并导致小鼠的精子发生缺陷和雄性不育（图25）。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/25.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/17.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图25. 小鼠精子发生中MIWI蛋白从IMC转运到CB的精细途径模型
+图17. EMRNA与Phenix以及CryoREAD的比较
 </div>
 <br><br>
-最后刘默芳教师总结，对于证明RNA调控对精子形成和男性生殖至关重要，主要集中在研究精子形成的4个方面：<strong> （1）精子细胞中存储mRNA如何被激活翻译？</strong>（2）精子细胞的可变剪接调控机制？（3）组蛋白-鱼精蛋白交换如何启动？（4）精子形成前大量mRNA如何被清除？piRNA机制通路调控异常是男性不育的新病因。这一系列的研究，解答了精子发生中多个难点问题。促进了对雄性生殖规律和男性不育病因的认识。
+还要与领域里面表现比较好的算法都进行比较，例如Phenix还有CryoREAD（去年12月份发在nature methods）。结果部分，中间是 Phenix ，右边是CryoREAD，EMRNA都好不少。
 <br><br>
-未来的研究方向将会是在精子发生过程中的前两个阶段有丝分裂和减数分裂过程中的RNA 调控在精子发生中的新功能机制、RNA调控与精子功能及代际遗传以及RNA调控与男性生殖健康。
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图18. EMRNA产生的RNA模型质量评估
+</div>
+<br><br>
+结构建模里面还有一个非常重要一个方面，就是预测结构的可靠性。所以进行了RNA 模型的质量评估，我们专门设计一个参数叫M-score，M-score和结构的 TM-score就是预测的结构，好不好的标准。两个score之间也有很好的相关性，所以M-score可以告诉实验学家这个结构到底好不好。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图19. 其他工作之EM2NA
+</div>
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图20. 其他工作之EM2NA精度比较
+</div>
+<br><br>
+我们想再跟大家分享两个相关的工作，一个叫做 EM2NA，相当于EMRNA的一个 2.0 版本。因为前面只能够做RNA，但是还有很多DNA的结构。所以我们把它做成一个统一框架，不管 RNA或DNA都可以做，所以叫做EM2NA。框架和EMRNA差不多，功能上既能够处理DNA，也能够处理RNA，能够自动地从那个密度图里面探测DNA来帮你建模，也可以直接直接从那个准确的模型进行建模。精度层面，EM2NA与CryoREAD, ModelAngle, 还有Phenix，比较的结果都是EM2NA还不错。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/21.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图21. 其他工作之EMReady
+</div>
+<br><br>
+第二个我们想分享的工作是EMReady。实际上是针对于自动优化那个冷冻电镜密度图的工作。
+<br><br>
+这个工作比较好的地方是我们可以把这个密度图优化得挺好。左边是个蛋白和RNA的一个复合物，这个信号实际上是很模糊的，经过我们模型网络优化以后，RNA的双螺旋会变得非常清楚，如果分辨率可以更好一点，它可以把碱基配对的看得非常清楚，可以看到有原子细节在里面。
+<br><br>
+如果大家不需要一步到位获得电镜解析的RNA结构，可以用这个模型优化冷冻jian j就可以了，这个网络框架实际上和我们前面基本上是一样的。我们这个工作方法能力更好，鲁棒性更好。
+<br><br>
+<strong> 精彩问答 </strong>
+<br><br>
+问题1：您这个主要工作是对 DNA以及RNA的结构优化，那么如果是一些蛋白质的结构，您这个模型能不能也进行优化？
+<br><br>
+答：我们这个算法实际上对DNA/RNA/蛋白都是可以做的。实际上的话，我们EMReady就是专门优化密度图的，就是刚开始说CryoEM实验很模糊或者看不到原子，我们可以优化以后蛋白和 RNA/DNA都可以同时优化得挺好。拿到这个优化好的图去解结构，就会感觉比较容易。
+<br><br>
+问题2: 如果是有一个大概 4A 的 RNA结构，您这个 EMRNA 算出来的它的准确率大概是多少。
+<br><br>
+答：这个问题很好，这种情况的话， 4A的话，它可以从两个方面来看它的准确率多好，一是你的mask的水平，你mask不好的话它可能准确率没那么高；如果你用通用的序列准确率估计，如果你 mask 好，它序列准确率可以达100%。mask 不好的序列准确率大概只有 50%～60%左右。第二个，如果你从准确率来说，你只是说我那个主链有，不管它序列的话，不管它侧链的话，那么它的准确率是挺高的，应该百分之八九十，问题不大。所以这两个问题，第一个是你是不是把那个主链建好了？这个准确率在百分之八九十没有问题。如果你是说是不是把那序列组装对了，这个里面就因你的 mask水平，还有整个的分辨率有关。
 <br><br>
 <br><br>
 <strong>
-  Matthias W. Hentze教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1K64y1T7Jp/?spm_id_from=333.999.0.0)
+黄胜友教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1js421w7mp/?spm_id_from=333.999.0.0)
 <br><br>
 欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
 </strong>
