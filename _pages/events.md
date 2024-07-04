@@ -184,6 +184,21 @@ permalink: /events/
 <div class="item">
   <div class="image">
     <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231025_Matthias_Hentze.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231025_Matthias_Hentze/20231025_Matthias_Hentze.png" /></a>
+      <span> 2023.10.25</span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Matthias W. Hentze - Riboregulation: Biology, Mechanisms and Scope </h1>
+      <p id="p1"> Until system-wide, unbiased analyses increased the number of recognized RNA-binding proteins (RBPs) well into the four-digit range, fewer than half of all RPs were known. This surprising outcome delivered new challenges for exploration: from the prevalence of structurally disordered RNA-binding regions with roles in the formation of RNA-protein condensates  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231025_Matthias_Hentze.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
       <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20231106_Zhipeng_Lu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20231106_Zhipeng_Lu/20231106_Zhipeng_Lu.png" /></a>
       <span> 2023.11.06</span>
     </div>
