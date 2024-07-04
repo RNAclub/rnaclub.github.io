@@ -84,12 +84,15 @@ permalink:
 问题：做RNA 3D结构需要一些先验的结构作为支撑吗？<br>
 鲁志鹏教授回答道他们尝试过很多不同的计算模型的策略，但是最终还是需要先进行2D结构的计算，然后再加上特定的不同的组合，从而大大提高计算的精度。<br><br>
 3D模型结构的计算目前仍然处于初步阶段，需要很大的计算量，需要负责构建算法的研究人员能够发展出一些新的更快的方法，然后配合实验方法的进展可能会有一些较大的进步。此外RNA结构的自由度也远高于蛋白质结构的自由度，这也急剧加大了计算量，以目前的算力来说是远远不够的。
-
-<br><br><br><br>
+<br><br>
+<br><br>
 <strong>
-<strong>鲁教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站（https://www.bilibili.com/video/BV1AN4y1D7CK/?spm_id_from=333.999.0.0）<br><br>
-欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。</strong><br><br><br><br><br><br>
-
-
-
+鲁教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1AN4y1D7CK/?spm_id_from=333.999.0.0)
+<br><br>
+欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
+</strong>
+<br><br>
+<br><br>
+<br><br>
 <html>
+

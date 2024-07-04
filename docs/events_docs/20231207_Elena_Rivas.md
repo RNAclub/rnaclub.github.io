@@ -82,8 +82,14 @@ Elena Rivas 研究员回答道：你可以使用hammer。如果你正在寻找�
 问题2：lncRNA 没有好的三级结构是么？
 <br><br>
 答：我们现在没有观察到很多多样性，所以我们很难找到共进化的信息来确定保守的结构，我们可能需要更好的工具。
-<br><br><br><br>
+<br><br>
+<br><br>
 <strong>
-<strong>Elena Rivas 研究员此次会议报告已收录于Guangzhou RNA club bilibili视频网站（https://www.bilibili.com/video/BV1HT4y187b8/?spm_id_from=333.999.0.0）<br><br>
-欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。</strong><br><br><br><br><br><br>
+Elena Rivas 研究员此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1HT4y187b8/?spm_id_from=333.999.0.0)
+<br><br>
+欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
+</strong>
+<br><br>
+<br><br>
+<br><br>
 <html>
