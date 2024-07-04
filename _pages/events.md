@@ -245,7 +245,7 @@ permalink: /events/
   <div class="image">
     <div>
       <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240110_Mofang_Liu.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240110_Mofang_Liu/20240110_Mofang_Liu.jpeg" /></a>
-      <span> 2024.01.10</span>
+      <span> 2024.01.10 </span>
     </div>
   </div>
   <div class="details">
