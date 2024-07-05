@@ -87,19 +87,19 @@ permalink: /
         </article>
       </li>
       <li class="one_half">
-        <article>
+                <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Dali Han</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">Chinese Academy of Sciences, China</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Alastair Murchie</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">Fudan University, China</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Multi-omics analysis of the tumor immune microenvironment
+            <h6 class="heading" style="padding-top:10px">Cofactor Binding Triggers Rapid Conformational Remodelling of the Active Site of a Methyltransferase Ribozyme
             </h6>
-            <p style="padding-top:10px"> Dr. Dali Han applies epigenetic techniques, chemical biology tools, and bioinformatics methods to study the regulatory mechanisms of RNA modification. He has gradually formed a characteristic research system that combines RNA epigenomics, single-cell transcriptomics, and spatial transcriptomics, achieving a series of cutting-edge progresses: In terms of regulatory theory, he has revealed new transcriptional regulatory mechanisms of chromatin structure and histone modifications directly affected by caRNA m6A modification; In terms of pathogenic mechanisms, he has systematically analyzed the functional dysregulation and RNA modification abnormalities in the tumor microenvironment, including tumor cells, dendritic cells, macrophages, and T cells, identified multiple new targets for immunotherapy and developed small molecule inhibitors
-            [<a href="https://www.big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jbylsys/202312/t20231227_6930916.html">&hellip;</a>]</p>
+            <p style="padding-top:10px"> Professor Alastair Murchie, Professor and PhD Supervisor of the Institute of Biomedical Sciences, Fudan University, graduated from the Department of Biochemistry and Molecular Biology, University of Dundee, UK, in 1994, and worked as a postdoctoral fellow and senior researcher at the Department of Biochemistry, University of Dundee, UK, in 1994-1998, and as Chief R&D Officer of Ribotargets, a new drug development company in Cambridge, UK, in 1998-2003. Professor Murchie's main research interests are (1) Advanced structure and biological function of nucleic acids, including the discovery of novel riboswitches
+            [<a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>20</strong> <em>JUN</em><em>2024</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>JUN</em><em>2024</em></time>
         </article>
       </li>
       
@@ -210,8 +210,9 @@ permalink: /
       <h6 class="heading">Latest Academic Events schedule </h6>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
+    <!--
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240627_Alastair_Murchie.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024_LLF_V5.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
@@ -224,33 +225,30 @@ permalink: /
             For more information about her outstanding work, please visit her profile at
             <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm
             </a>
-            <br><br>
-            <!--Tencent Meeting ID: 412-116-964.<br>-->
-            Time(China): 2024-6-27 19:00<br>
-            Time(UK): 2024-6-27 12:00<br>
-            Tencent Meeting：284-568-908<br>
-            <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
-            <!--Meeting Password: 123456<br>-->
-            bilibili live link:
-            <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894
-            </a>,
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 23rd 2024!  <br><br>
-            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, and 厚泽生物 for their sponsorship support!<br><br><br>
-            </p>
-    <!--<li class="two_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230714-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/event230714-2.png" style="max-width: 46%;padding-left:0px;padding-right:5px;">
+    -->
+
+    <li class="two_third first" >
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 46%;padding-left:0px;padding-right:5px;">
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> We are thrilled to present the yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. <br><br>
-            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82283798518?pwd=d
-k1NZlkvY2tLNWdueHI2VmdONjV2Zz09">https://us06web.zoom.us/j/82283798518?pwd=d
-k1NZlkvY2tLNWdueHI2VmdONjV2Zz09</a>, Passcode: 666666<br>
-            bilibili live link: <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a>,<br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 14!  <br><br>
-            Thanks to the International RNA Society, 表观生物, BENAGEN, and 德先生物 for their sponsorship support!<br><br><br>
-            </p>-->
+            <p style="padding-top:10px"> We are thrilled to present the 2024 yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
+            
+            <br><br>
+            Time: 2024-07-10 <br>
+            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
+            Passcode: 123456<br> 
+            <!--Tencent Meeting：284-568-908<br>-->
+            <!--Meeting Password: 123456<br>-->
+            <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
+            bilibili live link:
+            <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 10th 2024!
+            <br><br>
+            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, and 厚泽生物 for their sponsorship support!
+            <br><br>
+            </p>
         </article>
     </li> 
     </ul>
