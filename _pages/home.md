@@ -74,16 +74,16 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Alastair Murchie</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">Fudan University, China</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Guangzhou RNAclub</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Guangzhou, China</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Cofactor Binding Triggers Rapid Conformational Remodelling of the Active Site of a Methyltransferase Ribozyme
+            <h6 class="heading" style="padding-top:10px"> 2024 online symposium
             </h6>
-            <p style="padding-top:10px"> Professor Alastair Murchie, Professor and PhD Supervisor of the Institute of Biomedical Sciences, Fudan University, graduated from the Department of Biochemistry and Molecular Biology, University of Dundee, UK, in 1994, and worked as a postdoctoral fellow and senior researcher at the Department of Biochemistry, University of Dundee, UK, in 1994-1998, and as Chief R&D Officer of Ribotargets, a new drug development company in Cambridge, UK, in 1998-2003. Professor Murchie's main research interests are (1) Advanced structure and biological function of nucleic acids, including the discovery of novel riboswitches
-            [<a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">&hellip;</a>]</p>
+            <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
+            [<a href="#">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>JUN</em><em>2024</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>10</strong> <em>JUL</em><em>2024</em></time>
         </article>
       </li>
       <li class="one_half">
@@ -229,12 +229,11 @@ permalink: /
 
     <li class="two_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:10px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:5px;">
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> We are thrilled to present the 2024 yearly symposium program organized by Guangzhou RNAclub. This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
-            
+            <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
             Time: 2024-07-10 <br>
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
