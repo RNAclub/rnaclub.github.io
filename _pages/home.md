@@ -229,7 +229,7 @@ permalink: /
 
     <li class="two_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:5px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:10px;">
     </li>
     <li class="one_third" style="border-left:1px solid #f0f0f0">
         <article>   
