@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Jin Billy Li</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://profiles.stanford.edu/jin-li?tab=bio">Stanford University, USA</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">RNA Editing: Innate Immunity and Autoinflammatory Disease
+            </h6>
+            <p style="padding-top:10px"> Adenosine-to-Inosine (A-to-I) RNA editing, catalyzed by ADAR enzymes, is prevalent in metazoans. Previous research, including our own, has revealed that the primary function of RNA editing by ADAR1 is to ensure sufficient editing of cellular double-stranded RNA (dsRNA), thereby preventing erroneous cytosolic MDA5-mediated dsRNA sensing. Mice lacking RNA editing by ADAR1 experience embryonic lethality but can live their full lifespan upon removal of MDA5. In humans, loss-of-function mutations in ADAR1 and gain-of-function mutations in MDA5 result in rare autoimmune diseases. Our recent work, through human genetics studies, reveals that RNA editing plays a central role in common autoimmune and immune-related diseases. This well-established ADAR1-dsRNA-MDA5 axis serves as the foundation for therapeutic development in the treatment of cancer and autoinflammatory diseases.
+            [<a href="https://profiles.stanford.edu/jin-li?tab=bio">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>29</strong> <em>AUG</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Guangzhou RNAclub</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="#">Guangzhou, China</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>10</strong> <em>JUL</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-                <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Alastair Murchie</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">Fudan University, China</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Cofactor Binding Triggers Rapid Conformational Remodelling of the Active Site of a Methyltransferase Ribozyme
-            </h6>
-            <p style="padding-top:10px"> Professor Alastair Murchie, Professor and PhD Supervisor of the Institute of Biomedical Sciences, Fudan University, graduated from the Department of Biochemistry and Molecular Biology, University of Dundee, UK, in 1994, and worked as a postdoctoral fellow and senior researcher at the Department of Biochemistry, University of Dundee, UK, in 1994-1998, and as Chief R&D Officer of Ribotargets, a new drug development company in Cambridge, UK, in 1998-2003. Professor Murchie's main research interests are (1) Advanced structure and biological function of nucleic acids, including the discovery of novel riboswitches
-            [<a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>JUN</em><em>2024</em></time>
         </article>
       </li>
       
@@ -210,24 +210,24 @@ permalink: /
       <h6 class="heading">Latest Academic Events schedule </h6>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
-    <!--
+
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024_LLF_V5.png" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20240829_Jin_Billy_Li.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Dr. Alastair Murchie</strong>, Fudan University, China, will give a talk on <strong>Cofactor Binding Triggers Rapid Conformational Remodelling of the Active Site of a Methyltransferase Ribozyme</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Jin Billy Li</strong>, Stanford University, USA, will give a talk on <strong>RNA Editing: Innate Immunity and Autoinflammatory Disease</strong>.
             <br><br>
-                Professor Alastair Murchie, Professor and PhD Supervisor of the Institute of Biomedical Sciences, Fudan University, graduated from the Department of Biochemistry and Molecular Biology, University of Dundee, UK, in 1994, and worked as a postdoctoral fellow and senior researcher at the Department of Biochemistry, University of Dundee, UK, in 1994-1998, and as Chief R&D Officer of Ribotargets, a new drug development company in Cambridge, UK, in 1998-2003. Professor Murchie's main research interests are (1) Advanced structure and biological function of nucleic acids, including the discovery of novel riboswitches and ribozymes, their structure and function, and their impact on gene expression and regulation, effects on gene expression and regulation, RNA modification and its biological functions, RNA epigenetics in disease and stem cells. (2) Interaction between non-coding RNAs and small molecules regulates the expression of antibiotic resistance genes. He was awarded the 2015 Shanghai Magnolia Memorial Prize.
+                Adenosine-to-Inosine (A-to-I) RNA editing, catalyzed by ADAR enzymes, is prevalent in metazoans. Previous research, including our own, has revealed that the primary function of RNA editing by ADAR1 is to ensure sufficient editing of cellular double-stranded RNA (dsRNA), thereby preventing erroneous cytosolic MDA5-mediated dsRNA sensing. Mice lacking RNA editing by ADAR1 experience embryonic lethality but can live their full lifespan upon removal of MDA5. In humans, loss-of-function mutations in ADAR1 and gain-of-function mutations in MDA5 result in rare autoimmune diseases. Our recent work, through human genetics studies, reveals that RNA editing plays a central role in common autoimmune and immune-related diseases. This well-established ADAR1-dsRNA-MDA5 axis serves as the foundation for therapeutic development in the treatment of cancer and autoinflammatory diseases.
 
 
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm">https://ibs.fudan.edu.cn/ibsen/05/99/c39095a460185/page.htm
+            <a href="https://profiles.stanford.edu/jin-li?tab=bio">https://profiles.stanford.edu/jin-li?tab=bio
             </a>
-    -->
 
-    <li class="two_third first" >
+    <!--
+    <li class="_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:5px;">
     </li>
@@ -235,21 +235,24 @@ permalink: /
         <article>   
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
-            Time: 2024-07-10 <br>
+    -->
+            Time(China): 2024-8-29 10:00-11:00AM <br>
+            <!--
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
             Passcode: 123456<br> 
-            <!--Tencent Meeting：284-568-908<br>-->
-            <!--Meeting Password: 123456<br>-->
+            -->
+            Tencent Meeting：668 512 359<br>
+            <!--Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
             Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 10th 2024!
             <br><br>
-            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, and 厚泽生物 for their sponsorship support!
+            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
             <br><br>
             </p>
         </article>
-    </li> 
+    </li>
     </ul>
   </section>
 </div>
