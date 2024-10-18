@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Guifang Jia</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">Peking University, China</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Detection, regulation, and functions of RNA methylation in animals and plants
+            </h6>
+            <p style="padding-top:10px"> Prof. Guifang Jia is a doctoral supervisor at the College of Chemistry and Molecular Engineering, Peking University. She is also a Principal Investigator (PI) at the Peking-Tsinghua Center for Life Sciences (CLS) and the Beijing RNA Research Center. Jia obtained her Bachelor's degree in Chemistry (2012) and her Ph.D. in Pesticide Science (2009) from China Agricultural University. From 2007 to 2012, she was a joint training graduate student and postdoctoral researcher in the Department of Chemistry at the University of Chicago.
+            [<a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>18</strong> <em>Oct.</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+                <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Falong Lu</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://genetics.cas.cn/edu/dsdw_187548/fyswxyjzx_187551/202201/t20220113_6340946.html">Institute of Genetics and Developmental Biology, CAS</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>SEP</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Jin Billy Li</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://profiles.stanford.edu/jin-li?tab=bio">Stanford University, USA</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">RNA Editing: Innate Immunity and Autoinflammatory Disease
-            </h6>
-            <p style="padding-top:10px"> Adenosine-to-Inosine (A-to-I) RNA editing, catalyzed by ADAR enzymes, is prevalent in metazoans. Previous research, including our own, has revealed that the primary function of RNA editing by ADAR1 is to ensure sufficient editing of cellular double-stranded RNA (dsRNA), thereby preventing erroneous cytosolic MDA5-mediated dsRNA sensing. Mice lacking RNA editing by ADAR1 experience embryonic lethality but can live their full lifespan upon removal of MDA5. In humans, loss-of-function mutations in ADAR1 and gain-of-function mutations in MDA5 result in rare autoimmune diseases. Our recent work, through human genetics studies, reveals that RNA editing plays a central role in common autoimmune and immune-related diseases. This well-established ADAR1-dsRNA-MDA5 axis serves as the foundation for therapeutic development in the treatment of cancer and autoinflammatory diseases.
-            [<a href="https://profiles.stanford.edu/jin-li?tab=bio">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>29</strong> <em>AUG</em><em>2024</em></time>
         </article>
       </li>
       
@@ -212,16 +212,16 @@ permalink: /
     <ul class="nospace group latest" style="padding-right:0px;">
 
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20240923_Falong_Lu.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241018_Guifang_Jia.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Dr. Falong Lu</strong>, Institute of Genetics and Developmental Biology, CAS, will give a talk on <strong>Epigenetic Programming and Reprogramming in Mammals at the Beginning of Life</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Guifang Jia</strong>, Peking University, China, will give a talk on <strong>Detection, regulation, and functions of RNA methylation in animals and plants</strong>.
             <br><br>
-            Extensive epigenetic programming and reprogramming take place in the mammalian early embryos after fertilization to start the life program of new individuals, at both the chromatin level and the RNA level. At the chromatin level, we reveal the dynamics and regulation of chromatin accessibility during early embryonic development and identify a new type of non-canonically imprinted genes in the pre-implantation embryo that are regulated by tri-methylation at the lysine 27 of histone H3 (H3K27me3). We reveal that the non-canonical imprinting plays an important role in post-implantation embryonic development. At the RNA level, we reveal the presence of widespread non-A residues within the body of RNA poly(A) tails which may encode a new layer of RNA epigenetic regulatory information. We reveal mRNA poly(A) tail-mediated maternal mRNA remodeling in the human early embryos, and its critical role for the first cell division of the human embryos. These findings not only reveal novel epigenetic regulatory mechanisms, but also shed lights on our understanding of the regulatory mechanisms underlying the start of a mammalian individual.
+            Pof. Jia's research group has long focused on "Plant RNA Epigenetics," pioneering the exploration of RNA chemical modifications for crop breeding applications and advancing research in the field of plant RNA chemical modifications. Her research findings have been published in prominent international journals such as Nature Biotechnology, Nature Chemical Biology, Nature Communications, PNAS, Plant Cell, and Molecular Plant. She serves as an advisory editor for RSC Chemical Biology and ChemBioChem. She has received several prestigious awards, including the 19th China Young Women Scientists Award (2023), the National Science Fund for Distinguished Young Scholars (2022), and the National Science Fund for Excellent Young Scholars (2018).
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://genetics.cas.cn/edu/dsdw_187548/fyswxyjzx_187551/202201/t20220113_6340946.html">https://genetics.cas.cn/edu/dsdw_187548/fyswxyjzx_187551/202201/t20220113_6340946.html
+            <a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm
             </a>
 
     <!--
@@ -234,18 +234,18 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time(China): 2024-09-27 09:30 AM <br>
+            Time(China): 2024-10-18 10:00-11:30 AM <br>
             <!--
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
             Passcode: 123456<br> 
             -->
-            Tencent Meeting：959-378-696<br>
+            Tencent Meeting：https://meeting.tencent.com/dm/81A1lV82EKcJ<br>
             <!--Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
-            Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>
+            <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on July 10th 2024!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Oct 18th 2024!
             <br><br>
             Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
             <br><br>
