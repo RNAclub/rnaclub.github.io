@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Franck MARTIN</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/annuaire/franck-martin/"> University of Strasbourg, France</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Translation initiation in eukaryotes: from viruses to human pathological cases
+            </h6>
+            <p style="padding-top:10px"> Franck Martin is a Research Director from CNRS at the University of Strasbourg, France. He is principal investigator at the ‘Institut de Biologie Moléculaire et Cellulaire’ in the department ‘Architecture et Réactivité de l’ARN’ (RNA architecture and reactivity). In eukaryotes, translation initiation is a highly regulated process involving cis-regulatory sequences on messenger RNA and eukaryotic initiation factors (eIF). Canonical translation is cap-dependent, leading to the assembly of an elongation-competent ribosome at the start codon. However, alternative cap-independent translation initiation mechanisms are activated in response to stimuli such as viral infections and cellular stresses.
+            [<a href="https://sciprofiles.com/profile/711119">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>26</strong> <em>Oct.</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Guifang Jia</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">Peking University, China</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>18</strong> <em>Oct.</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-                <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Falong Lu</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://genetics.cas.cn/edu/dsdw_187548/fyswxyjzx_187551/202201/t20220113_6340946.html">Institute of Genetics and Developmental Biology, CAS</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Epigenetic Programming and Reprogramming in Mammals at the Beginning of Life
-            </h6>
-            <p style="padding-top:10px"> Extensive epigenetic programming and reprogramming take place in the mammalian early embryos after fertilization to start the life program of new individuals, at both the chromatin level and the RNA level. At the chromatin level, we reveal the dynamics and regulation of chromatin accessibility during early embryonic development and identify a new type of non-canonically imprinted genes in the pre-implantation embryo that are regulated by tri-methylation at the lysine 27 of histone H3 (H3K27me3). We reveal that the non-canonical imprinting plays an important role in post-implantation embryonic development.
-            [<a href="https://genetics.cas.cn/edu/dsdw_187548/fyswxyjzx_187551/202201/t20220113_6340946.html">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>SEP</em><em>2024</em></time>
         </article>
       </li>
       
@@ -212,16 +212,16 @@ permalink: /
     <ul class="nospace group latest" style="padding-right:0px;">
 
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241018_Guifang_Jia.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241026_Franck_Martin.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Guifang Jia</strong>, Peking University, China, will give a talk on <strong>Detection, regulation, and functions of RNA methylation in animals and plants</strong>.
+            <p style="padding-top:10px"> <strong>Dr. Franck MARTIN</strong>, Research Director from CNRS at the University of Strasbourg, France, will give a talk on <strong>Translation initiation in eukaryotes: from viruses to human pathological cases</strong>.
             <br><br>
-            Pof. Jia's research group has long focused on "Plant RNA Epigenetics," pioneering the exploration of RNA chemical modifications for crop breeding applications and advancing research in the field of plant RNA chemical modifications. Her research findings have been published in prominent international journals such as Nature Biotechnology, Nature Chemical Biology, Nature Communications, PNAS, Plant Cell, and Molecular Plant. She serves as an advisory editor for RSC Chemical Biology and ChemBioChem. She has received several prestigious awards, including the 19th China Young Women Scientists Award (2023), the National Science Fund for Distinguished Young Scholars (2022), and the National Science Fund for Excellent Young Scholars (2018).
+            In eukaryotes, translation initiation is a highly regulated process involving cis-regulatory sequences on messenger RNA and eukaryotic initiation factors (eIF). Canonical translation is cap-dependent, leading to the assembly of an elongation-competent ribosome at the start codon. However, alternative cap-independent translation initiation mechanisms are activated in response to stimuli such as viral infections and cellular stresses.We studied translation mechanisms during SARS-CoV-2 infection. The viral protein NSP1 binds to host ribosomes, inhibiting cellular translation to favor viral translation, while also acting as an RNA endonuclease that cleaves host mRNAs. Dysregulation of translation initiation can lead to human pathologies. For instance, in Amyotrophic Lateral Sclerosis, Repeat-Associated Non AUG (RAN) translation produces toxic polypeptides that damage motor neurons. In Alzheimer’s disease, alternative translation initiation of Tau mRNAs results in a truncated, aggregation-prone form of the Tau protein.
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm
+            <a href="https://sciprofiles.com/profile/711119">https://sciprofiles.com/profile/711119
             </a>
 
     <!--
@@ -234,12 +234,17 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time(China): 2024-10-18 10:00-11:30 AM <br>
+            Time (China):   2024-11-5 09:00 AM <br>
+            Time (EST):     2024-11-4 08:00 PM <br>
+            Zoom ID: 811 0745 9920 <br>
+            Passcode: 123456 <br>
+            Zoom meeting link: https://us06web.zoom.us/j/81107459920?pwd=FywefBaBGMOfR3vdauiXHWF7sTU9ua.1 <br>
+
             <!--
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
             Passcode: 123456<br> 
-            -->
             Tencent Meeting：https://meeting.tencent.com/dm/81A1lV82EKcJ<br>
+            -->
             <!--Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
