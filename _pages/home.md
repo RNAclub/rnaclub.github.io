@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Redmond Smyth</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">Helmholtz Institute, France</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Probing the role of RNA structural heterogeneity in viral RNAs
+            </h6>
+            <p style="padding-top:10px"> Redmond Smyth carried out his undergraduate degree in Natural Sciences at the University of Cambridge (UK), specializing in Virology and Immunology. He then moved to the Burnet Institute, Melbourne (Australia) for his PhD, where he investigated the mechanisms of HIV-1 genetic diversity in its natural target cells. His PhD research pointed to the importance of RNA structure in regulating viral infection processes, which is why he then moved to Strasbourg (France) for his post-doctoral research to train as an RNA biochemist. he worked on understanding the mechanisms leading to the incorporation of the HIV-1 genomic RNA into viral particles. In 2015, he was recruited to the CNRS as a chargé de recherché (CR2), and in 2018, with support from the Helmholtz Association, he started his own research group at the Helmholtz Institute for RNA-based Infection Research (HIRI).
+            [<a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>06</strong> <em>Nov.</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Franck MARTIN</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/annuaire/franck-martin/"> University of Strasbourg, France</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>26</strong> <em>Oct.</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Guifang Jia</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">Peking University, China</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Detection, regulation, and functions of RNA methylation in animals and plants
-            </h6>
-            <p style="padding-top:10px"> Prof. Guifang Jia is a doctoral supervisor at the College of Chemistry and Molecular Engineering, Peking University. She is also a Principal Investigator (PI) at the Peking-Tsinghua Center for Life Sciences (CLS) and the Beijing RNA Research Center. Jia obtained her Bachelor's degree in Chemistry (2012) and her Ph.D. in Pesticide Science (2009) from China Agricultural University. From 2007 to 2012, she was a joint training graduate student and postdoctoral researcher in the Department of Chemistry at the University of Chicago.
-            [<a href="https://www.chem.pku.edu.cn/ktz2/hxswxktzz/112306.htm">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>18</strong> <em>Oct.</em><em>2024</em></time>
         </article>
       </li>
       
@@ -210,9 +210,8 @@ permalink: /
       <h6 class="heading">Latest Academic Events schedule </h6>
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
-
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241026_Franck_Martin.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241106_Redmond_Smyth.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
@@ -239,6 +238,52 @@ permalink: /
             Zoom ID: 811 0745 9920 <br>
             Passcode: 123456 <br>
             Zoom meeting link: https://us06web.zoom.us/j/81107459920?pwd=FywefBaBGMOfR3vdauiXHWF7sTU9ua.1 <br>
+
+            <!--
+            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
+            Passcode: 123456<br> 
+            Tencent Meeting：https://meeting.tencent.com/dm/81A1lV82EKcJ<br>
+            -->
+            <!--Meeting Password: 123456<br> -->
+            <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
+            <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
+            bilibili live link:
+            <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Oct 18th 2024!
+            <br><br>
+            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
+            <br><br>
+            </p>
+        </article>
+    </li>
+    <li class="one_half first" >
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241026_Franck_Martin.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+    </li>
+    <li class="one_half" style="border-left:1px solid #f0f0f0">
+        <article>   
+            <p style="padding-top:10px"> <strong>Dr. Redmond Smyth</strong>, Helmholtz Institute for RNA-based Infection Research (HIRI), France, will give a talk on <strong>Probing the role of RNA structural heterogeneity in viral RNAs</strong>.
+            <br><br>
+            RNA is a dynamic molecule capable of adopting multiple structures that can interconvert to fulfill its functional roles. The emerging understanding of RNA structural heterogeneity highlights the significance of these conformational changes in regulating processes within viral life cycles. Traditional in-solution chemical probing has been invaluable in studying RNA structure within cells but is limited by its ensemble nature, which averages structural information across all conformations. To overcome this limitation, we developed and applied two complementary strategies. FARS-seq combines physical separation of RNA conformations with high-throughput functional profiling, revealing key motifs in the HIV-1 5′ untranslated region (UTR) that impact dimerization and Pr55Gag binding. Meanwhile, Nano-DMS-MaP leverages long-read sequencing to provide isoform-resolved structural insights, identifying distinct structural differences between unspliced and spliced HIV-1 RNAs at the packaging site. These differences likely account for the selective packaging of unspliced RNAs into viral particles. Together, FARS-seq and Nano-DMS-MaP offer new approaches to elucidate the role of RNA structural heterogeneity in viral genome regulation.
+            <br><br>
+            For more information about her outstanding work, please visit her profile at
+            <a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/
+            </a>
+
+    <!--
+    <li class="_third first" >
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:5px;">
+    </li>
+    <li class="one_third" style="border-left:-5px solid #f0f0f0">
+        <article>   
+            <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
+            <br><br>
+    -->
+            Time (China):   2024-11-06 20:00<br>
+            Time (EST):     2024-11-06 13:00<br>
+            Zoom ID: 833 7115 9253 <br>
+            Passcode: 123456 <br>
+            Zoom meeting link: https://us06web.zoom.us/j/83371159253?pwd=vKbGPpYr7OmbKhIPhLDzTmSWqwrCUm.1 <br>
 
             <!--
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
