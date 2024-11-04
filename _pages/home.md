@@ -99,7 +99,7 @@ permalink: /
             [<a href="https://sciprofiles.com/profile/711119">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>26</strong> <em>Oct.</em><em>2024</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>05</strong> <em>Nov.</em><em>2024</em></time>
         </article>
       </li>
       
