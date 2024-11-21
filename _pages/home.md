@@ -74,6 +74,23 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Horacio V. Guzman</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://sites.google.com/view/guzmanresearch/home">Universidad Autónoma de Madrid, Spain</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Multiscale models of RNA/RNA-proteins: representing physical properties towards interpretable structure prediction
+
+            </h6>
+            <p style="padding-top:10px"> Electrostatic and nanomechanical interactions are crucial for the assembly, disassembly and stability of highly-charged biopolymers like RNA and some IDPs. At the molecular scale, elucidating the organization, energetic rules and structure of e.g. RNA-Protein interactions in viruses is a major challenge in biomacromolecular research. Numerous coarse-grained (CG) and enhance-sampling models have been introduced to alleviate those issues. Those methods are generally known as  ̈multiscale ̈, which can be useful to represent biological and bio-material systems with less degrees-of-freedom, and hence tackle particular questions about diverse biophysical phenomenologies, like adsorption, electrostatic interactions in variational environments (different salinities and pH gradients), mechanical deformation, among many others. In this talk, I will present recent in-house developments of multiscale methods for the interfaces between RNA-proteins and RNA-membranes.
+            [<a href="https://sites.google.com/view/guzmanresearch/home">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>25</strong> <em>Nov</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Redmond Smyth</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">Helmholtz Institute, France</a></li>
             </ul>
@@ -83,23 +100,7 @@ permalink: /
             [<a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>06</strong> <em>Nov.</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Franck MARTIN</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibmc.cnrs.fr/annuaire/franck-martin/"> University of Strasbourg, France</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Translation initiation in eukaryotes: from viruses to human pathological cases
-            </h6>
-            <p style="padding-top:10px"> Franck Martin is a Research Director from CNRS at the University of Strasbourg, France. He is principal investigator at the ‘Institut de Biologie Moléculaire et Cellulaire’ in the department ‘Architecture et Réactivité de l’ARN’ (RNA architecture and reactivity). In eukaryotes, translation initiation is a highly regulated process involving cis-regulatory sequences on messenger RNA and eukaryotic initiation factors (eIF). Canonical translation is cap-dependent, leading to the assembly of an elongation-competent ribosome at the start codon. However, alternative cap-independent translation initiation mechanisms are activated in response to stimuli such as viral infections and cellular stresses.
-            [<a href="https://sciprofiles.com/profile/711119">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>05</strong> <em>Nov.</em><em>2024</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>06</strong> <em>Nov</em><em>2024</em></time>
         </article>
       </li>
       
@@ -211,16 +212,19 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241026_Franck_Martin.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241125_Guzman.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Dr. Franck MARTIN</strong>, Research Director from CNRS at the University of Strasbourg, France, will give a talk on <strong>Translation initiation in eukaryotes: from viruses to human pathological cases</strong>.
+            <p style="padding-top:10px"> <strong>Dr. Horacio V. Guzman</strong>, Universidad Autónoma de Madrid, Spain, will give a talk on <strong>Multiscale models of RNA/RNA-proteins: representing physical properties towards interpretable structure prediction</strong>.
             <br><br>
-            In eukaryotes, translation initiation is a highly regulated process involving cis-regulatory sequences on messenger RNA and eukaryotic initiation factors (eIF). Canonical translation is cap-dependent, leading to the assembly of an elongation-competent ribosome at the start codon. However, alternative cap-independent translation initiation mechanisms are activated in response to stimuli such as viral infections and cellular stresses.We studied translation mechanisms during SARS-CoV-2 infection. The viral protein NSP1 binds to host ribosomes, inhibiting cellular translation to favor viral translation, while also acting as an RNA endonuclease that cleaves host mRNAs. Dysregulation of translation initiation can lead to human pathologies. For instance, in Amyotrophic Lateral Sclerosis, Repeat-Associated Non AUG (RAN) translation produces toxic polypeptides that damage motor neurons. In Alzheimer’s disease, alternative translation initiation of Tau mRNAs results in a truncated, aggregation-prone form of the Tau protein.
+            Electrostatic and nanomechanical interactions are crucial for the assembly, disassembly and stability of highly-charged biopolymers like RNA and some IDPs. At the molecular scale, elucidating the organization, energetic rules and structure of e.g. RNA-Protein interactions in viruses is a major challenge in biomacromolecular research. Numerous coarse-grained (CG) and enhance-sampling models have been introduced to alleviate those issues. Those methods are generally known as  ̈multiscale ̈, which can be useful to represent biological and bio-material systems with less degrees-of-freedom, and hence tackle particular questions about diverse biophysical phenomenologies, like adsorption, electrostatic interactions in variational environments (different salinities and pH gradients), mechanical deformation, among many others. In this talk, I will present recent in-house developments of multiscale methods for the interfaces between RNA-proteins and RNA-membranes.
+            <br><br>
+            The first part of this talk focuses on models that provide deeper electrostatic and mechanical insights of the RNA-protein/membrane shell interaction and viral assembly process. Aiming to learn from those viruses and use them as guidelines for laying-out functional context-dependent nanocarriers. Finally, the speaker will briefly present their structure prediction pipelines for RNA used during CASP15 & some RNA puzzles, and discuss perspectives on what is next and where AI can boost predictions.
+            
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://sciprofiles.com/profile/711119">https://sciprofiles.com/profile/711119
+            <a href="https://sites.google.com/view/guzmanresearch/home">https://sites.google.com/view/guzmanresearch/home
             </a>
 
     <!--
@@ -233,11 +237,11 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China):   2024-11-5 09:00 AM <br>
-            Time (EST):     2024-11-4 08:00 PM <br>
-            Zoom ID: 811 0745 9920 <br>
+            Time (China):   2024-11-25 16:00 PM <br>
+            Time (CET):     2024-11-25 09:00 AM <br>
+            Zoom ID: 858 5934 5873 <br>
             Passcode: 123456 <br>
-            Zoom meeting link: https://us06web.zoom.us/j/81107459920?pwd=FywefBaBGMOfR3vdauiXHWF7sTU9ua.1 <br>
+            Zoom meeting link: https://us06web.zoom.us/j/85859345873?pwd=amxPPBu7EPzCvHf7iZO5HW72TuQaLB.1 <br>
 
             <!--
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
@@ -249,53 +253,7 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Oct 18th 2024!
-            <br><br>
-            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
-            <br><br>
-            </p>
-        </article>
-    </li>
-    <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241106_Redmond_Smyth.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
-    </li>
-    <li class="one_half" style="border-left:1px solid #f0f0f0">
-        <article>   
-            <p style="padding-top:10px"> <strong>Dr. Redmond Smyth</strong>, Helmholtz Institute for RNA-based Infection Research (HIRI), France, will give a talk on <strong>Probing the role of RNA structural heterogeneity in viral RNAs</strong>.
-            <br><br>
-            RNA is a dynamic molecule capable of adopting multiple structures that can interconvert to fulfill its functional roles. The emerging understanding of RNA structural heterogeneity highlights the significance of these conformational changes in regulating processes within viral life cycles. Traditional in-solution chemical probing has been invaluable in studying RNA structure within cells but is limited by its ensemble nature, which averages structural information across all conformations. To overcome this limitation, we developed and applied two complementary strategies. FARS-seq combines physical separation of RNA conformations with high-throughput functional profiling, revealing key motifs in the HIV-1 5′ untranslated region (UTR) that impact dimerization and Pr55Gag binding. Meanwhile, Nano-DMS-MaP leverages long-read sequencing to provide isoform-resolved structural insights, identifying distinct structural differences between unspliced and spliced HIV-1 RNAs at the packaging site. These differences likely account for the selective packaging of unspliced RNAs into viral particles. Together, FARS-seq and Nano-DMS-MaP offer new approaches to elucidate the role of RNA structural heterogeneity in viral genome regulation.
-            <br><br>
-            For more information about her outstanding work, please visit her profile at
-            <a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/
-            </a>
-
-    <!--
-    <li class="_third first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:5px;">
-    </li>
-    <li class="one_third" style="border-left:-5px solid #f0f0f0">
-        <article>   
-            <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
-            <br><br>
-    -->
-            Time (China):   2024-11-06 20:00<br>
-            Time (EST):     2024-11-06 13:00<br>
-            Zoom ID: 833 7115 9253 <br>
-            Passcode: 123456 <br>
-            Zoom meeting link: https://us06web.zoom.us/j/83371159253?pwd=vKbGPpYr7OmbKhIPhLDzTmSWqwrCUm.1 <br>
-
-            <!--
-            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
-            Passcode: 123456<br> 
-            Tencent Meeting：https://meeting.tencent.com/dm/81A1lV82EKcJ<br>
-            -->
-            <!--Meeting Password: 123456<br> -->
-            <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
-            <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
-            bilibili live link:
-            <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Oct 18th 2024!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Nov. 25th 2024!
             <br><br>
             Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
             <br><br>
