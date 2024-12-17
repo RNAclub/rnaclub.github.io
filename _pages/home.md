@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Ryan A. Flynn</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">Harvard University,US</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">GlycoRNA Biology on the Cell Surface
+            </h6>
+            <p style="padding-top:10px"> Glycans modify lipids and proteins to mediate inter- and intramolecular interactions across all domains of life. RNA is not thought to be a major target of glycosylation. Here, we challenge this view with evidence that mammals use RNA as a third scaffold for glycosylation. Using chemical and biochemical approaches, we found that conserved small noncoding RNAs bear sialylated glycans. These ‘‘glycoRNAs’’ were present in multiple cell types and mammalian species, in cultured cells, and in vivo. GlycoRNA assembly depends on canonical N-glycan biosynthetic machinery and results in structures enriched in sialic acid and fucose. Analysis of living cells revealed that the majority of glycoRNAs were present on the cell surface and can interact with anti-dsRNA antibodies and members of the Siglec receptor family. 
+            [<a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Dec</em><em>2024</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Horacio V. Guzman</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://sites.google.com/view/guzmanresearch/home">Universidad Autónoma de Madrid, Spain</a></li>
             </ul>
@@ -85,22 +101,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>25</strong> <em>Nov</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Redmond Smyth</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">Helmholtz Institute, France</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Probing the role of RNA structural heterogeneity in viral RNAs
-            </h6>
-            <p style="padding-top:10px"> Redmond Smyth carried out his undergraduate degree in Natural Sciences at the University of Cambridge (UK), specializing in Virology and Immunology. He then moved to the Burnet Institute, Melbourne (Australia) for his PhD, where he investigated the mechanisms of HIV-1 genetic diversity in its natural target cells. His PhD research pointed to the importance of RNA structure in regulating viral infection processes, which is why he then moved to Strasbourg (France) for his post-doctoral research to train as an RNA biochemist. he worked on understanding the mechanisms leading to the incorporation of the HIV-1 genomic RNA into viral particles. In 2015, he was recruited to the CNRS as a chargé de recherché (CR2), and in 2018, with support from the Helmholtz Association, he started his own research group at the Helmholtz Institute for RNA-based Infection Research (HIRI).
-            [<a href="https://www.helmholtz-hzi.de/en/persons/dr-redmond-smyth/">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>06</strong> <em>Nov</em><em>2024</em></time>
         </article>
       </li>
       
@@ -212,19 +212,16 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241125_Guzman.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241217_Ryan_Flynn.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Dr. Horacio V. Guzman</strong>, Universidad Autónoma de Madrid, Spain, will give a talk on <strong>Multiscale models of RNA/RNA-proteins: representing physical properties towards interpretable structure prediction</strong>.
+            <p style="padding-top:10px"> <strong>Dr. Ryan A. Flynn</strong>, Department of Stem Cell and Regenerative Biology Harvard University | Boston Children's Hospital, US, will give a talk on <strong>GlycoRNA Biology on the Cell Surface</strong>.
             <br><br>
-            Electrostatic and nanomechanical interactions are crucial for the assembly, disassembly and stability of highly-charged biopolymers like RNA and some IDPs. At the molecular scale, elucidating the organization, energetic rules and structure of e.g. RNA-Protein interactions in viruses is a major challenge in biomacromolecular research. Numerous coarse-grained (CG) and enhance-sampling models have been introduced to alleviate those issues. Those methods are generally known as  ̈multiscale ̈, which can be useful to represent biological and bio-material systems with less degrees-of-freedom, and hence tackle particular questions about diverse biophysical phenomenologies, like adsorption, electrostatic interactions in variational environments (different salinities and pH gradients), mechanical deformation, among many others. In this talk, I will present recent in-house developments of multiscale methods for the interfaces between RNA-proteins and RNA-membranes.
-            <br><br>
-            The first part of this talk focuses on models that provide deeper electrostatic and mechanical insights of the RNA-protein/membrane shell interaction and viral assembly process. Aiming to learn from those viruses and use them as guidelines for laying-out functional context-dependent nanocarriers. Finally, the speaker will briefly present their structure prediction pipelines for RNA used during CASP15 & some RNA puzzles, and discuss perspectives on what is next and where AI can boost predictions.
-            
+            Glycans modify lipids and proteins to mediate inter- and intramolecular interactions across all domains of life. RNA is not thought to be a major target of glycosylation. Here, we challenge this view with evidence that mammals use RNA as a third scaffold for glycosylation. Using chemical and biochemical approaches, we found that conserved small noncoding RNAs bear sialylated glycans. These ‘‘glycoRNAs’’ were present in multiple cell types and mammalian species, in cultured cells, and in vivo. GlycoRNA assembly depends on canonical N-glycan biosynthetic machinery and results in structures enriched in sialic acid and fucose. Analysis of living cells revealed that the majority of glycoRNAs were present on the cell surface and can interact with anti-dsRNA antibodies and members of the Siglec receptor family. New chemical tools and insights into the molecular nature of glycoRNAs will be presented, which help to solidify the existence of a direct interface between RNA biology and glycobiology, and an expanded role for RNA in extracellular biology.
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://sites.google.com/view/guzmanresearch/home">https://sites.google.com/view/guzmanresearch/home
+            <a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">https://hsci.harvard.edu/people/ryan-flynn-md-phd
             </a>
 
     <!--
@@ -237,12 +234,12 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China):   2024-11-25 16:00 PM <br>
-            Time (CET):     2024-11-25 09:00 AM <br>
-            Zoom ID: 858 5934 5873 <br>
+            Time (China): 2024-12-17  9:30 PM <br>
+            Time (ET): 2024-12-17  8:30 AM <br>
+            Zoom ID: 859 6505 9477 <br>
             Passcode: 123456 <br>
-            Zoom meeting link: https://us06web.zoom.us/j/85859345873?pwd=amxPPBu7EPzCvHf7iZO5HW72TuQaLB.1 <br>
-
+            Zoom meeting link: https://us06web.zoom.us/j/85965059477?pwd=eV8b06lLV4vQgf1vNkaI57VsXoHB5R.1 <br>
+            
             <!--
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
             Passcode: 123456<br> 
@@ -253,7 +250,7 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Nov. 25th 2024!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Dec. 17th 2024!
             <br><br>
             Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
             <br><br>
