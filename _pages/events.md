@@ -146,7 +146,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Chun Kit KWOK - Identification, characterization and targeting of RNA G-quadruplex structures </h1>
-      <p id="p1">On June 16, 2023, Professor Chun Kit KWOK to give an online academic report "Identification, characterization and targeting of RNA G-quadruplex structures". Professor Chun Kit KWOK is an associate professor in the Department of Chemistry, City University of Hong Kong. He has long been engaged in nucleic acid chemistry and biology research.<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html">(More...) </a></p>
+      <p id="p1">RNA G-quadruplexes (rG4s) have key roles in almost every biological process, including but not limited to transcription, RNA processing, and translation. In this invited talk, we will highlight RNA G-quadruplexes examples we found in the coding and non-coding RNAs and showcase their protein interacting partners and diverse functions in mammalian Besides understanding their regulatory roles in fundamental<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20230616_Chun_Kitkwok.html">(More...) </a></p>
     </div>
   </div>
 </div>
@@ -311,7 +311,7 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Robert T. Batey - A mechanistic perspective on how small molecules drive mRNA expression by riboswitches </h1>
-      <p id="p1"> Riboswitch is a regulatory element in mRNA that binds to a specific ligand, mainly located in the 5'-untranslated region (5'-UTR) of bacterial mRNA. The binding of small molecules is usually combined with the regulation of gene expression by controlling transcription or translation. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240710_Robert_Batey.html">(More...) </a> </p>
+      <p id="p1"> Riboswitch is a regulatory element in mRNA that binds to a specific ligand, mainly located in the 5'-untranslated region (5'-UTR) of bacterial mRNA. The binding of small molecules is usually combined with the regulation of gene expression by controlling transcription or translation. Riboswitch has two regions, including the aptamer domain and the expression platform. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240710_Robert_Batey.html">(More...) </a> </p>
     </div>
   </div>
 </div>
