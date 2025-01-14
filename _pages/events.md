@@ -296,11 +296,55 @@ permalink: /events/
   <div class="details">
     <div>
       <h1 id="time1">Shengyou Huang - 3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence </h1>
-      <p id="p1"> RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. . However, RNA structure is more complex and more  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240517_Shengyou_Huang.html">(More...) </a> </p>
+      <p id="p1"> RNA, as a carrier of genetic information, plays an important role in protein synthesis, gene regulation, immune regulation and many other life activities. "Structure determines function", therefore, determining the three-dimensional structure of RNA is crucial for understanding its function and related drug development. However, RNA structure is more complex and more  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240517_Shengyou_Huang.html">(More...) </a> </p>
     </div>
   </div>
 </div>
 
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240710_Robert_Batey.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/20240710_Robert_Batey.jpeg" /></a>
+      <span> 2024.07.10 </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Robert T. Batey - A mechanistic perspective on how small molecules drive mRNA expression by riboswitches </h1>
+      <p id="p1"> Riboswitch is a regulatory element in mRNA that binds to a specific ligand, mainly located in the 5'-untranslated region (5'-UTR) of bacterial mRNA. The binding of small molecules is usually combined with the regulation of gene expression by controlling transcription or translation. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240710_Robert_Batey.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240710_Olga_Soutourina.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Olga_Soutourina/20240710_Olga_Soutourina.jpeg" /></a>
+      <span> 2024.07.10 </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Olga Soutourina - RNomics during C. difficile infection cycle: from identification to function </h1>
+      <p id="p1"> Professor Soutourina first introduced to us the power of multi-omics technology, and this technology is widely used in different fields. In addition to classic genomics and metabolomics, there are also a series of new omics, such as ionomics, fluxomics, RNomics, etc., as shown in the figure below. This has made a great contribution to understanding the biological significance of RNA. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240710_Olga_Soutourina.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240829_Jin_Billy_Li.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240829_Jin_Billy_Li/20240829_Jin_Billy_Li.jpeg" /></a>
+      <span> 2024.08.29 </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Jin Billy Li - RNA Editing: Innate Immunity and Antoinflammatory Disease </h1>
+      <p id="p1"> Adenosine-to-Inosine (A-to-I) RNA editing, catalyzed by ADAR enzymes, is prevalent in metazoans. Previous research, including our own, has revealed that the primary function of RNA editing by ADAR1 is to ensure sufficient editing of cellular double-stranded RNA (dsRNA), thereby preventing erroneous cytosolic MDA5-mediated dsRNA sensing. <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20240829_Jin_Billy_Li.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
 
 
  <!--<div class="item">
