@@ -31,7 +31,7 @@ permalink: /
           <div class="block clear"><a href="#"><i class="fa fa-wechat" style="font-size:20px;"></i></a> <span><strong>Found more:</strong> wechat :GzRNA </span></div>
         </li>
         <li class="one_third">
-          <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> huanglin36@mail.sysu.edu.cn</span></div>
+          <div class="block clear"><a href="#"><i class="fa fa-envelope" style="font-size:20px;"></i></a> <span><strong>Send us a mail:</strong> miao_zhichao@gzlab.ac.cn</span></div>
         </li>
         <!--<li class="one_third">
           <div class="block clear"><a href="#"><i class="fa fa-clock" style="font-size:25px;"></i></a> <span><strong> Mon. - Sat.:</strong> 08.00am - 18.00pm</span></div>
@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Yanli Wang</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">Key Laboratory of RNA Science and Engineering, Institute of Biophysics in CAS, China</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">The RNA-guided arms race between bacteria and phage
+            </h6>
+            <p style="padding-top:10px"> CRISPR-Cas systems are adaptive immune systems found in bacteria or archaea that protect against the invading of mobile genetic elements (MGEs), such as phages and plasmids. To defend against foreign nucleic acids, CRISPR-Cas systems capture short DNA segments from invaders and insert them into the CRISPR array, thus recording a genetic snapshot of potential threats. The CRISPR locus is then transcribed and processed to generate CRISPR RNA (crRNA) that binds and guides the Cas protein effector complex to cleave the genome of the invader when it returns. To counteract CRISPR-Cas systems,
+            [<a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Jan</em><em>2025</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Ryan A. Flynn</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">Harvard University,US</a></li>
             </ul>
@@ -84,23 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Dec</em><em>2024</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Horacio V. Guzman</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://sites.google.com/view/guzmanresearch/home">Universidad Autónoma de Madrid, Spain</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">Multiscale models of RNA/RNA-proteins: representing physical properties towards interpretable structure prediction
-
-            </h6>
-            <p style="padding-top:10px"> Electrostatic and nanomechanical interactions are crucial for the assembly, disassembly and stability of highly-charged biopolymers like RNA and some IDPs. At the molecular scale, elucidating the organization, energetic rules and structure of e.g. RNA-Protein interactions in viruses is a major challenge in biomacromolecular research. Numerous coarse-grained (CG) and enhance-sampling models have been introduced to alleviate those issues. Those methods are generally known as  ̈multiscale ̈, which can be useful to represent biological and bio-material systems with less degrees-of-freedom, and hence tackle particular questions about diverse biophysical phenomenologies, like adsorption, electrostatic interactions in variational environments (different salinities and pH gradients), mechanical deformation, among many others. In this talk, I will present recent in-house developments of multiscale methods for the interfaces between RNA-proteins and RNA-membranes.
-            [<a href="https://sites.google.com/view/guzmanresearch/home">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>25</strong> <em>Nov</em><em>2024</em></time>
         </article>
       </li>
       
@@ -212,16 +211,16 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024/20241217_Ryan_Flynn.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250117_Yanli_Wang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Dr. Ryan A. Flynn</strong>, Department of Stem Cell and Regenerative Biology Harvard University | Boston Children's Hospital, US, will give a talk on <strong>GlycoRNA Biology on the Cell Surface</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Yanli Wang</strong>, Key Laboratory of RNA Science and Engineering, Institute of Biophysics in CAS, China, will give a talk on <strong>The RNA-guided arms race between bacteria and phage</strong>.
             <br><br>
-            Glycans modify lipids and proteins to mediate inter- and intramolecular interactions across all domains of life. RNA is not thought to be a major target of glycosylation. Here, we challenge this view with evidence that mammals use RNA as a third scaffold for glycosylation. Using chemical and biochemical approaches, we found that conserved small noncoding RNAs bear sialylated glycans. These ‘‘glycoRNAs’’ were present in multiple cell types and mammalian species, in cultured cells, and in vivo. GlycoRNA assembly depends on canonical N-glycan biosynthetic machinery and results in structures enriched in sialic acid and fucose. Analysis of living cells revealed that the majority of glycoRNAs were present on the cell surface and can interact with anti-dsRNA antibodies and members of the Siglec receptor family. New chemical tools and insights into the molecular nature of glycoRNAs will be presented, which help to solidify the existence of a direct interface between RNA biology and glycobiology, and an expanded role for RNA in extracellular biology.
+            CRISPR-Cas systems are adaptive immune systems found in bacteria or archaea that protect against the invading of mobile genetic elements (MGEs), such as phages and plasmids. To defend against foreign nucleic acids, CRISPR-Cas systems capture short DNA segments from invaders and insert them into the CRISPR array, thus recording a genetic snapshot of potential threats. The CRISPR locus is then transcribed and processed to generate CRISPR RNA (crRNA) that binds and guides the Cas protein effector complex to cleave the genome of the invader when it returns. To counteract CRISPR-Cas systems, phages have evolved numerous small anti-CRISPR proteins to antagonize the CRISPR-Cas system. Here, we demonstrate how the CRISPR-Cas system captures DNA from phages and cleaves the DNA or RNA under the guidance of crRNA. 
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">https://hsci.harvard.edu/people/ryan-flynn-md-phd
+            <a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html
             </a>
 
     <!--
@@ -234,13 +233,13 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China): 2024-12-17  9:30 PM <br>
-            Time (ET): 2024-12-17  8:30 AM <br>
-            Zoom ID: 859 6505 9477 <br>
-            Passcode: 123456 <br>
-            Zoom meeting link: https://us06web.zoom.us/j/85965059477?pwd=eV8b06lLV4vQgf1vNkaI57VsXoHB5R.1 <br>
-            
+            Time (China): 2024-1-17 14:00 <br>
+            Tencent meeting: 660-264-694 <br>
+            Tencent meeting link: 
+            <a href="https://meeting.tencent.com/dm/NJfaxMuQf5Pr">https://meeting.tencent.com/dm/NJfaxMuQf5Pr</a> <br>
+        
             <!--
+            Time (ET): 2024-12-17  8:30 AM <br>
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
             Passcode: 123456<br> 
             Tencent Meeting：https://meeting.tencent.com/dm/81A1lV82EKcJ<br>
@@ -250,9 +249,9 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Dec. 17th 2024!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Jan. 17th 2025!
             <br><br>
-            Thanks to the International RNA Society, 博奥龙, 表观生物, 擎科生物, 厚泽生物 and LEXOGEN for their sponsorship support!
+            Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
             </p>
         </article>
@@ -276,7 +275,7 @@ permalink: /
         </article>
     <footer class="center">
     <p><br>
-    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;huanglin36@mail.sysu.edu.cn <br>
+    For more feedback, please send an <i class="fa fa-envelope" style="font-size:25px;color: #719B67;"></i> to:&nbsp;&nbsp;miao_zhichao@gzlab.ac.cn <br>
     </p>
     </footer><br><br><br><br><br> 
 </div>
@@ -498,14 +497,3 @@ permalink: /
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
