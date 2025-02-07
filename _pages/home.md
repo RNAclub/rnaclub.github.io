@@ -211,16 +211,17 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250117_Yanli_Wang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250217_Mordechai_Choder.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Yanli Wang</strong>, Key Laboratory of RNA Science and Engineering, Institute of Biophysics in CAS, China, will give a talk on <strong>The RNA-guided arms race between bacteria and phage</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Mordechai (Motti) Choder</strong>, Technion – Israel Institute of Technology, Israel, will give a talk on <strong>A system view of gene expression: cross talks among all stages of the mRNA life</strong>.
             <br><br>
-            CRISPR-Cas systems are adaptive immune systems found in bacteria or archaea that protect against the invading of mobile genetic elements (MGEs), such as phages and plasmids. To defend against foreign nucleic acids, CRISPR-Cas systems capture short DNA segments from invaders and insert them into the CRISPR array, thus recording a genetic snapshot of potential threats. The CRISPR locus is then transcribed and processed to generate CRISPR RNA (crRNA) that binds and guides the Cas protein effector complex to cleave the genome of the invader when it returns. To counteract CRISPR-Cas systems, phages have evolved numerous small anti-CRISPR proteins to antagonize the CRISPR-Cas system. Here, we demonstrate how the CRISPR-Cas system captures DNA from phages and cleaves the DNA or RNA under the guidance of crRNA. 
+            Gene expression is traditionally viewed as a linear process divided into distinct stages. We have shown that this view is oversimplified. First, RNA polymerase II controls mRNA translation and decay via a mediator, Rpb4/7. Second, many transcripts are "tagged" with factors co-transcriptionally, one of these tags being Rpb4/7, which later regulate mRNA localization, translatability, and decay. We term this tagging "mRNA imprinting." Recently, we discovered that ~50 proteins bind Pol II transcripts co-transcriptionally, many of which likely affect mRNA fate. Remarkably, promoters, DNA elements known to control transcription, also regulate "mRNA imprinting," thereby influencing mRNA fate in the cytoplasm. Third, we found that the major mRNA 'decaysome', known for degrading mRNAs in the cytoplasm, also functions as a transcription activator by physically associating with chromatin. Significantly, the decaysome's ability to function in the synthesis of a particular mRNA in the nucleus depends on its capacity to complete degrading this mRNA in the cytoplasm. The underlying mechanism will be discussed in my talk. I will propose that some mRNA synthesis and decay factors represent a novel class of factors, "mRNA coordinators," which shuttle between all complexes controlling the mRNA lifecycle, integrating them into a system. I will show that Rpb4/7 carries >100 combinations of temporal post-translational modifications, which respond to the stage of the mRNA/Rpb4/7 complex (e.g., mRNA synthesis, translation, decay) and to the environment. We propose that these modifications are components of the language by which the various stages communicate and function as a system. 
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html
+            <a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">            <a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf
+
             </a>
 
     <!--
@@ -233,10 +234,11 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China): 2024-1-17 14:00 <br>
-            Tencent meeting: 660-264-694 <br>
-            Tencent meeting link: 
-            <a href="https://meeting.tencent.com/dm/NJfaxMuQf5Pr">https://meeting.tencent.com/dm/NJfaxMuQf5Pr</a> <br>
+            Time (China): 2025-2-17 16:00 <br>
+            Zoom meeting: 893 0005 4861 <br>
+            Passcode: 123456 <br>
+            Zoom meeting link: 
+            <a href="https://us06web.zoom.us/j/89300054861?pwd=TZbjJuSwrz4lTdg8yKCwDKKDDzqwNe.1 ">https://us06web.zoom.us/j/89300054861?pwd=TZbjJuSwrz4lTdg8yKCwDKKDDzqwNe.1 </a> <br>
         
             <!--
             Time (ET): 2024-12-17  8:30 AM <br>
@@ -249,7 +251,7 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Jan. 17th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Feb. 17th 2025!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
