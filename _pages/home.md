@@ -250,7 +250,7 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Jan. 17th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Feb. 17th 2025!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
