@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Mordechai (Motti) Choder</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">Professor of biology, Technion – Israel Institute of Technology, Israel</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">A system view of gene expression: cross talks among all stages of the mRNA life
+            </h6>
+            <p style="padding-top:10px"> Gene expression is traditionally viewed as a linear process divided into distinct stages. We have shown that this view is oversimplified. First, RNA polymerase II controls mRNA translation and decay via a mediator, Rpb4/7. Second, many transcripts are "tagged" with factors co-transcriptionally, one of these tags being Rpb4/7, which later regulate mRNA localization, translatability, and decay. We term this tagging "mRNA imprinting." Recently, we discovered that ~50 proteins bind Pol II transcripts co-transcriptionally, many of which likely affect mRNA fate. Remarkably, promoters, DNA elements known to control transcription, also regulate "mRNA imprinting," thereby influencing mRNA fate in the cytoplasm. Third, we found that the major mRNA 'decaysome', known for degrading mRNAs in the cytoplasm, also functions as a transcription activator by physically associating with chromatin. Significantly,
+            [<a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Feb</em><em>2025</em></time>
+        </article>
+      </li>
+      <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Yanli Wang</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">Key Laboratory of RNA Science and Engineering, Institute of Biophysics in CAS, China</a></li>
             </ul>
@@ -84,22 +100,6 @@ permalink: /
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Jan</em><em>2025</em></time>
-        </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Dr. Ryan A. Flynn</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">Harvard University,US</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">GlycoRNA Biology on the Cell Surface
-            </h6>
-            <p style="padding-top:10px"> Glycans modify lipids and proteins to mediate inter- and intramolecular interactions across all domains of life. RNA is not thought to be a major target of glycosylation. Here, we challenge this view with evidence that mammals use RNA as a third scaffold for glycosylation. Using chemical and biochemical approaches, we found that conserved small noncoding RNAs bear sialylated glycans. These ‘‘glycoRNAs’’ were present in multiple cell types and mammalian species, in cultured cells, and in vivo. GlycoRNA assembly depends on canonical N-glycan biosynthetic machinery and results in structures enriched in sialic acid and fucose. Analysis of living cells revealed that the majority of glycoRNAs were present on the cell surface and can interact with anti-dsRNA antibodies and members of the Siglec receptor family. 
-            [<a href="https://hsci.harvard.edu/people/ryan-flynn-md-phd">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Dec</em><em>2024</em></time>
         </article>
       </li>
       
