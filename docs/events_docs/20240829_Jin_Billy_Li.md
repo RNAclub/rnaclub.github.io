@@ -21,7 +21,6 @@ permalink:
     </div>
   <div class="details">
     <div>
-<br><br>
 <strong>会议回顾 </strong>
 <br><br>
   2024年8月29日，美国斯坦福大学的李进（Jin Billy Li）教授受邀在Guangzhou RNA club进行了题为“RNA Editing: Innate Immunity and Antoinflammatory Disease”的线上学术报告。Billy教授于2010年起加入斯坦福大学建立实验室，实验室研究重点是ADAR酶介导的RNA编辑，实验室发现RNA编辑在避免双链RNA介导的自身免疫中的重要生物学作用，这一发现为癌症和自身免疫性疾病治疗的创新方法铺平了道路。实验室的另一个主要方向是利用内源性ADAR酶开发定点RNA碱基编辑技术，该方法克服了CRISPR/Cas DNA编辑相关的挑战，为解决罕见和常见疾病带来了新的希望。Billy教授近年来在Nature，Science，Nature Biotechnology、Nature Methods等期刊发表了多篇高水平论文。

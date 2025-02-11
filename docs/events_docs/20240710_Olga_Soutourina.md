@@ -21,7 +21,6 @@ permalink:
     </div>
   <div class="details">
     <div>
-<br><br>
 <strong>会议回顾 </strong>
 <br><br>
 2024年7月10日，<strong>中山大学孙逸仙纪念医院黄林研究员</strong>在Guangzhou RNA Club annual online symposium上邀请了<strong>Olga Soutourina教授</strong>进行了<strong>《RNomics during C. difficile infection cycle:from identification to function》</strong>的线上报告，Olga Soutourina是一位在微生物学和基因组学领域具有重要影响力的教授，目前在巴黎萨克雷大学的综合生物学研究所（I2BC）担任研究组负责人。她的研究重点是调节RNA在主要人类肠道病原体中的作用，特别是在病理生理学方面的影响。

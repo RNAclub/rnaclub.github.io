@@ -21,7 +21,6 @@ permalink:
     </div>
   <div class="details">
     <div>
-<br><br>
 <strong>会议回顾 </strong>
 <br><br>
   2024年7月10日，Robert T. Batey教授受中山大学孙逸仙纪念医院黄林研究员邀在Guangzhou RNA club进行题为“A mechanistic perspective on how small molecules drive mRNA expression by riboswitches”的线上学术报告。Robert T. Batey教授是著名结构生物学家，就职于美国科罗拉多大学化学与生物化学系。他长期从事于RNA调控基因表达的结构与机制研究，对相关领域做出了许多突出的贡献。值得一提的是Robert T. Batey教授在过去的二十多年时间中深耕于riboswitch领域，不仅参与解析了如SAM、purine family等多种重要的riboswitches，还深入探究如何借鉴已有的经验进一步将riboswitch运用到更加广阔的范围，如在天然riboswitch适体域的结构基础上建立文库从而筛选得到既有小分子结合位点又保留了骨架结构的重组适配体，在体内外均可发挥较好的作用。
