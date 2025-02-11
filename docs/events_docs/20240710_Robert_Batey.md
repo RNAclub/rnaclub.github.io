@@ -1,5 +1,5 @@
 ---
-title: "20240710 Robert Batey"
+title: "20240710 Robert T. Batey"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false
@@ -16,196 +16,143 @@ permalink:
   <section class="hoc container clear"  > 
 
   <div class="sectiontitle">
-      <h6 class="heading"> 3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence </h6>
-      <p class="nospace font-xs">Shengyou Huang 2024-05-17</p>
+      <h6 class="heading"> A mechanistic perspective on how small molecules drive mRNA expression by riboswitches </h6>
+      <p class="nospace font-xs">Robert T. Batey 2024-07-10</p>
     </div>
   <div class="details">
     <div>
-<strong> 关键词 </strong>
-结构 序列 算法  分辨率 建模 人工智能 图像处理 深度学习
 <br><br>
 <strong>会议回顾 </strong>
 <br><br>
-  2024年5月17日，广州实验室苗智超研究员邀请了华中科技大学的黄胜友教授进行了线下及线上转播的学术报告“基于人工智能的冷冻电镜RNA三维结构建模”。黄胜友教授长期从事计算生物物理和生物信息学方面的研究，在Nature Protocols, Proceedings of the National Academy of Sciences，Nucleic Acids Research， Bioinformatics，Drug Discovery Today，Physical Review Letters等国际一流期刊上发表SCI论文80余篇，其中第一和通讯作者50余篇，文章累计他引2000余次。所提出的集合分子对接算法和迭代打分函数模型被国际同行广泛采用，发展的蛋白质分子对接算法和打分函数模型在称为国际蛋白质相互作用预测的“奥林匹克竞赛”CAPRI评估中多次排名第一。
+  2024年7月10日，Robert T. Batey教授受中山大学孙逸仙纪念医院黄林研究员邀在Guangzhou RNA club进行题为“A mechanistic perspective on how small molecules drive mRNA expression by riboswitches”的线上学术报告。Robert T. Batey教授是著名结构生物学家，就职于美国科罗拉多大学化学与生物化学系。他长期从事于RNA调控基因表达的结构与机制研究，对相关领域做出了许多突出的贡献。值得一提的是Robert T. Batey教授在过去的二十多年时间中深耕于riboswitch领域，不仅参与解析了如SAM、purine family等多种重要的riboswitches，还深入探究如何借鉴已有的经验进一步将riboswitch运用到更加广阔的范围，如在天然riboswitch适体域的结构基础上建立文库从而筛选得到既有小分子结合位点又保留了骨架结构的重组适配体，在体内外均可发挥较好的作用。
+<br><br>
+在已有的研究中，riboswitch适体域与小分子结合形成的复合物结构已经成为该领域的重要研究模型，但对于小分子结合后具体是如何调控下游基因表达的机制探究相对较少，Robert T. Batey教授将通过此次讲座阐述小分子结合后如何介导下游mRNA的相关表达过程。
 <br><br>
 <strong> 会议内容 </strong>
 <br><br>
-继中心法则发现以后，我们认为DNA是遗传物质，蛋白质是生命活动的执行者，对RNA有所理解过后，再返回看中心法则，会发现RNA才位于生命活动中承上启下的中心位置。实际上，从某种意义上来说，RNA也是最复杂的。因为蛋白质的结构是相对比较稳定的，当然这也是Alphafold可以一定程度将蛋白质结构预测的很好的重要原因。
+Riboswitch是mRNA中结合特定配体的调控元件，主要位于细菌mRNA 5'-untranslated region (5'-UTR)区。通常通过控制转录或翻译将小分子的结合与基因表达调节相结合。核糖开关具有两部分区域，包括适体域(aptamer domain)和表达平台(expression platform)。适体域充当特异性结合配体的受体。表达平台通过其在响应配体结合时产生的构象变化进而调控基因的转录、翻译等重要表达过程。2007年Wachter等人的研究发现并非所有核糖开关都位于原核生物的 5'-UTR部分，某些真核生物mRNA中，硫胺素焦磷酸 (TPP) 核糖开关调节3'端的剪接。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图1. RNA处于生命体遗传信息流的中心
+图1. mRNA的简要结构
 </div>
 <br><br>
-DNA的双螺旋结构相对RNA来说也是是非常稳定的。RNA既存在transcriptomes也存在ribonucleomes，情况相对更复杂，也是我认为Alphafold在RNA结构预测上表现欠佳的可能原因。RNA的三维结构要怎么确定呢，一般来说做实验得到的三维结构更准，但往往也伴随成本高难度大的问题，相对来说，通过计算得到三维结构的成本更低，速度或周期更短。在此基础上，我们进一步对RNA三维结构预测问题进行简化，就是在给定的一段RNA序列，要怎么得到它的三维结构。
+以图2中调节转录的riboswitch为例，当配体未结合时，处于适体域和表达平台间的switching sequence（红色序列）位于抗终止子茎环中，此时转录可以正常进行。但当配体结合时，switching sequence会整合到适体域中，表达平台的构象也随之改变，折叠成终止子茎环的形态，导致转录终止。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图2. RNA三维结构要如何确定？
-</div>
-<br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图3. 计算预测三维结构的三类方法
+图2. 调节转录的riboswitch作用机制
 </div>
 <br><br>
-目前来说，从计算上来说有三类方法来预测RNA三维结构。第一类方法叫第一性原理，RNA碱基一共四种(A,U,G,C)，根据序列上碱基的顺序进行拼接折叠即可。但是这种情况的话它自由度太大，如果我们一个原子的话有三个自由度，那么几千个原子就相当于就是几万个自由度，想要正确的结构是很困难的。所以为了解决这个问题，后面就提出了第二种方法，这种情况叫片段组装。我们就依据序列把它简化成片段的形式。举例来说，我把序列分成 10 个片段，那么每个片段的话自由度只有3，那我们只有 30 个自由度，计算数量级就急速地下降。
+研究发现，riboswitch广泛存在于细菌中，并且在过去的二十多年中已经发现了大于55种riboswitches，极大丰富了RNA调控基因表达领域的研究。科研人员发现在大多数细菌中往往存在着丰富的RNA调控介导机制，例如riboswitch，antisense RNA，RNA thermomter等方面。尤其是在厚壁菌门的细菌中，riboswitch的出现频率很高，说明在这一类细菌中riboswitch在调控基因表达方面具有重要作用。
 <br><br>
-目前来说，片段组装的话是现在最主流的预测方法，包括国外的RNAComposer，还有FARFAR都属于这方面。国内肖毅老师的3dRNA也是这方面的一个工作。当然方法也有局限性，把RNA拆成片段，如果没有生成没有结构里面需要的片段，就无法拼出正确的三维结构。
-<br><br>
-那么是不是存在一种方式是万能的，预测的各种情况都可以搞定。理论上是大家还是很期待人工智能在预测方面的表现。近期关于人工智能在预测方面也有几个工作发表，一个是ARES，是斯坦福的工作；trRosettaRNA是山东大学杨建益老师的工作，还有最近的RosettaFoldNA，以及最新的AlphaFold3。可能是因为Alphafold把大部分蛋白质结构解决得很好，好像RNA预测问题也可以借助于AI解决。实际上，现在人工智能属于数据驱动的，所以某种意义上，没有数据，人工智能什么也做不到。
-<br><br>
-所以如果现在没有一种方法能够解决RNA结构预测问题，那么用多模态策略，使用多种方法，把所有的数据都用上，一个信息不够，那么用两个、三个、四个，十个指不定就解决了。所以出现了一个概念，叫做整合策略，或者叫整合建模。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图4. 生物大分子结构建模
+图3. Riboswitch广泛分布于各类细菌中
 </div>
 <br><br>
-一种数据的话只能看到一个方面，整合多种数据就可以得到多个方面信息。第一步，整合实验信息，例如Xray，cryo-EM等；第二步分子表征这些信息，得到通过实验的到的结构方面的约束信息；第三步，采样所需要的结构信息；第四步，筛选出正确的采样策略。实际上现在的AlphaFold3的扩散模型就是这种模式，扩散模型可以挑选出很多预测结构，中间过程设置打分函数挑选出正确的预测结构。这应该也是后续结构建模的一种趋势。
+到目前为止已发现接近60种不同类型的riboswitches，它们识别amino acids，sugars，nucleobases and nucleosides，ions等多种不同类型的配体分子从而发挥广泛的作用。尚未在哺乳动物中鉴定出天然的riboswitches，但已证实有几种合成的riboswitches也能够调节哺乳动物细胞中的基因表达，并且往往都是通过介导pre-mRNA的剪接过程，但提高其在体内的性能仍是一大挑战。在已发现的机制中，riboswitch可通过结合配体后将剪接体识别位点例如3′ SS整合入适体域，使其隔离从而导致剪接体无法识别位点，进而跳过含有过早出现终止密码子的外显子，从而让后续的翻译过程能顺利进行下去，基于这一机制，治疗型的核糖开关在今后很可能成为一大发展趋势。由腺相关病毒 (AAV) 开发的载体是在人类和动物模型中体内进行基因传递的强大工具，几种利用AAV作为载体递送的基因疗法目前已被批准用于临床。riboswitch由于其尺寸较小、非免疫原性、模块化结构以及无需蛋白质开关元件即可发挥作用的特点，是控制AAV递送的治疗性基因表达的有力方法。通过AAV将riboswitch与目的基因运送入目标区域，病人服入相关配体后，riboswitch进行调控目的基因的表达，从而达到治疗目的。
 <br><br>
-我们聚焦于冷冻电镜方面也是因为我们有比较多这方面的实验信息。在做的过程中发现冷冻电镜信息有一个非常明显的特点，就是它实际上是个高质量数据和低质量数据的完美结合。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图5. 冷冻电镜帮助生物大分子结构解析
-</div>
-<br><br>
-举例来说，冷冻电镜做得好分辨率可以很高，做得不好也可能很不好；第二，它同一个结构分辨率好的地方可以达到一点几埃，不好的地方可以达到二十几埃，所以某种意义上也是我们的机会。
-<br><br>
-我们主要是集中2D图像生成3D density map。就像我们前面说的一样，这个冷冻电镜数据的话是真是高质量和低质量完美结合，它有3埃的时候，原子细节都可以看的比较清楚。比 3埃差的话，差不多5埃就基本上都看不到原子了。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图6. 整合冷冻电镜数据进行RNA三维结构建模存在的问题
-</div>
-<br><br>
-既然有很多冷冻电镜数据这么难解，我们是不是就可以来做这个事情？以上述图例来说，大家会发现里面信号信噪比很低，质量差距特别大，RNA的信号也比较弱。第一眼看不出来怎么得到右边的RNA结构。所以我们就做了一个人工智能的框架，通过人工智能，提取右边的结构信息。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图7. EMRNA基于人工智能的冷冻电镜RNA三维结构建模算法概览
-</div>
-<br><br>
-大概流程如下，流程图最左边是冷冻电镜的密度图，右边是结构，我们在中间提出了一个自动化的人工智能的算法框架(EMRNA) , 相当于你给它一个密度图的话，它就给你一个结构。模型核心划成几个模块，第一个步骤相当于RNN 主链原子信号的挖掘；第二步要把它连起来并成链，但主链是有位置没有序列，因此我们要把序列信息添加上去；就是第三步结合二级结构和序列信息，把序列装上去。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图8. EMRNA主链原子预测概览
-</div>
-<br><br>
-主链原子的挖掘或者预测，我们用简单的四个字描述就是从图到点。我们这个算法能够做到准确地从那些看起来很模糊，好像都没有信息的部分，把原子信息挖掘出来，最核心的就是这个网络。我们做的好有两个方面原因，第一个方面，网络框架很特殊，一个是Transformer，一个是CNN，一个是UNet，三个模块功能的综合应用，可以做到又快又好，在做好短程碱基间作用的同时兼顾RNA远距离相互作用的场景，同时提高算法的整体速度。第二个方面，核心损失函数的创新。我们也用了两个模块，第一个做叫 L1Loss，是负责局部学习的；第二个叫SSIMLoss，负责整体相关性比较。在保证点对点信息还原的同时，兼顾对预测结构整体性的考虑。
-<br><br>
-这从图到点的过程相当于我们获取核苷酸的位置，那么只有位置是不够的，我们要把它串起来。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图9. EMRNA主链原子的串线连接
-</div>
-<br><br>
-核苷酸串起来过程我们称之为从点到线，使用了旅行商的算法。因为其实RNA的实际信号是比较弱的，所以某种意义上说，得到多条，上万条都有可能的，我们需要依据序列信息去判断哪条是对的。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图10. EMRNA中RNA二级结构确定
+图4. Riboswitch所识别的多种配体类型
 </div>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图11. EMRNA中RNA全长主链序列的确定
+图5. Riboswitch调控mRNA剪接的机制
 </div>
 <br><br>
-增加序列部分的信息需要一个二级结构去帮它去打分。为什么用这个二级结构或加一个二级结构的预测呢？主要是二级结构的预测比较自动化且比较准确，用我们之前已知的一维的序列，还有预测的二级结构这两个信息，装在从图像中捕捉的主链。怎么把序列装对这个事情，可以参考现有的一些算法。
+Robert T. Batey教授教授指出，科研人员在过往的研究中大多专注于对riboswitch的适体域进行单独研究，不仅是因为其序列相对较短，并且在于配体形成复合物后构象一般都较为稳定，在后续的结晶及测量亲和力等方面都较为方便，故而对于全长的riboswitch研究较少。Robert T. Batey教授以lysine riboswitch为例向我们详细介绍了其适体域是如何结合lysine的。由图5不难发现，该适体域有典型的多螺旋结构，在解析出三级结构后研究者还发现结构中存在三个同轴堆叠现象，分别是P2与P2a。P2b与P3以及P4与P5螺旋，而且还存在环环相互作用。此外，lysine紧紧包裹在由五个stem连接处组成的结合口袋中。
 <br><br>
-序列比对或者结构比对的问题，就相当于怎么样把一维的序列和这二维的结构信息匹配到那个三维图像上。这实际上是个动态规划的事情，相当于这里面包含两个打分，一个序列打分，一个二级结构打分。用这两个打分作为评估，进行主链装上序列信息的训练。每一条主链装上的序列后，它的得分是不一样的，我们就挑第一名。基本上第一名如果不对，其他的对的可能性也不是太大。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图12. EMRNA中RNA全原子结构构建与优化
+图6. Lysine riboswitch适体域的二级结构与三级结构
 </div>
 <br><br>
-到这个地方为止，主链位置也好了，序列信息也好了。最后一步，已经有RNA三维结构的backbone, 主链定了，序列核苷酸信息确定以后，就可以直接构建全原子的三维结构。这一步我们没有创新的算法在里面，用已发表的算法，例如Phenix或者3dRNA都可以搭建全原子模型。
+再进一步对结合位点分析后发现，lysine riboswitch与lysine transport protein尽管在组成成分、空间结构、理化特性等方面都存在显著差异，但对lysine的识别结合位点却表现出高度的相似性。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图13. EMRNA中RNA建模结果评估
+图7. Lysine riboswitch与lysine transport protein与lysine的结合位点
 </div>
 <br><br>
-所以整个流程就是这样，最核心的就是我们前面那个网络框架，怎么从那个很模糊的粒度里面能够准确地定位主链原子位置，后面都是工程学的事情。算法表现方面，我们做的评估图例比较多，RNA结构方面，一个是用RMSD作为评估标准，相当于比较预测结构和PDB真实结构相差有多远。
+Robert T. Batey教授教授强调目前对于适体域的研究已经较为深入，我们也应该更多关注当配体结合到适体域后，表达平台是如何影响这种变化以及后续是通过怎样的机制调节下游基因表达的。他形象地将适体域比做input domain，而表达平台则是output domain。配体起到效应分子的作用，通过其与适体域的结合，进而使表达平台开始变化，从而发挥作用。作为output domain的表达平台往往包含终止子/抗终止子序列或核糖体结合位点序列信息，起到调控转录或翻译的作用。目前认为适体域结合配体后，表达平台通过三种机制进行响应，分别是direct occlusion，interdomain docking以及strand invasion。
+首先是direct occlusion，在这种机制中，Robert T. Batey教授以SAM-II riboswitch为例，适体域和表达平台往往形成一个整体不会分开成单独的两部分，当配体结合后，复合物形成的结构会对核糖体结合位点序列产生遮挡作用，使得核糖体无法与之结合，导致翻译的阻滞。
 <br><br>
-第二个标准叫做TM score，可能RNA方面做Cryo-EM，TM score 不一定适合，但TM score用来比较与真实PDB结构一致性程度，一致性越高越好。第三个是coverage，用过Phenix 都知道以案例有一千个碱基来说，软件可以构建出多少碱基；第四个是序列正确率，sequence match，装序列装得对不对？也是越高越好，除了第一个标准是越低越好之外，其他都是越高越好。最右面的图，一个蓝色的，一个绿色的，一个是解析PDB 结构，一个是预测的RNA结构，总体效果还是不错的。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图14. EMRNA中RNA二级结构预测的影响
-</div>
-<br><br>
-接下来我们看一下，二级结构的影响，因为我们用二级结构去打分，作为一个评分标准。图例上一种颜色代表一种二级结构的准确度，基本上差别不是太大。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图15. EMRNA中RNA密度图Mask截断距离的影响
-</div>
-<br><br>
-第三个是 RNA 密度图Mask截断距离的影响，为什么做这个是因为很多结构是个蛋白和RNA的复合物，所以预测要先把 RNA mask 出来。当时存在一个疑问，是mask的大小存在多大的影响，所以我们就做了一下mask在3埃、4埃、 5埃都做了一下，差异不大。每种颜色都代表一种mask的影响，但是mask还是对技术有要求，如果mask 不好，它可能不一定能做出正确的结构。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/16.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图16. EMRNA与Auto-DRRAFTER效果的比较
-</div>
-<br><br>
-首先就是与Auto-DRRAFTER的比较，这个是斯坦福那边做的，他们应该是除EMRNA之外，他们唯一一个能够做全长的。左边这个是我们的EMRNA，右边是Auto-DRRAFTER的，我们比他们好不少。同时EMRNA还有一个优势，就是比较快，因为他们估计一周做一个100个核苷酸的，EMRNA使用一个GPU 估计几分钟就好了。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/17.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图17. EMRNA与Phenix以及CryoREAD的比较
-</div>
-<br><br>
-还要与领域里面表现比较好的算法都进行比较，例如Phenix还有CryoREAD（去年12月份发在nature methods）。结果部分，中间是 Phenix ，右边是CryoREAD，EMRNA都好不少。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图18. EMRNA产生的RNA模型质量评估
-</div>
-<br><br>
-结构建模里面还有一个非常重要一个方面，就是预测结构的可靠性。所以进行了RNA 模型的质量评估，我们专门设计一个参数叫M-score，M-score和结构的 TM-score就是预测的结构，好不好的标准。两个score之间也有很好的相关性，所以M-score可以告诉实验学家这个结构到底好不好。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图19. 其他工作之EM2NA
+图8. Direct occlusion机制的原理图
 </div>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图20. 其他工作之EM2NA精度比较
+图9. SAM-II riboswitch的二级结构与三级结构
 </div>
 <br><br>
-我们想再跟大家分享两个相关的工作，一个叫做 EM2NA，相当于EMRNA的一个 2.0 版本。因为前面只能够做RNA，但是还有很多DNA的结构。所以我们把它做成一个统一框架，不管 RNA或DNA都可以做，所以叫做EM2NA。框架和EMRNA差不多，功能上既能够处理DNA，也能够处理RNA，能够自动地从那个密度图里面探测DNA来帮你建模，也可以直接直接从那个准确的模型进行建模。精度层面，EM2NA与CryoREAD, ModelAngle, 还有Phenix，比较的结果都是EM2NA还不错。
+2023年1月清华大学方显杨团队发表的论文报道了THF-II riboswitch的晶体结构，研究发现当缺乏Mg2+时，THF-II riboswitch的结合口袋未折叠或部分折叠，无法与配体结合。此时P1的核糖体结合位点序列易与核糖体结合。在存在Mg2+时，结合口袋构象发生改变。P1双螺旋稳定性增强导致核糖体的结合能力减弱。Mg2+和配体同时存在条件下，riboswitch进一步发生共轴堆积变化，最终形成棒状结构。核糖体无法结合，下游翻译被抑制。有趣的是，在本次研究中发现当结合配体后，P1右臂的核糖体结合位点序列在原有三个经典配对的基础上还与左臂的序列形成了三个非经典的碱基配对，这些较强的相互作用不仅稳定了P1的螺旋结构，还使得核糖体无法结合位点进行翻译。此外，RNase H切割实验表明配体结合后减少了核糖体结合位点序列的暴露，可及性降低，说明配体的结合也导致了遮挡作用，正是第一种机制的典型体现。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/21.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图21. 其他工作之EMReady
+图10. THF-II riboswitch调节翻译的机制
 </div>
 <br><br>
-第二个我们想分享的工作是EMReady。实际上是针对于自动优化那个冷冻电镜密度图的工作。
+其次是interdomain docking，在这种机制中，适体域和表达平台间是分隔开的。当配体结合到适体域后，表达平台与适体域可以发生相互作用，也会起到遮挡核糖体结合位点序列的作用，从而影响翻译过程。Robert T. Batey教授以cobalamin riboswitch为例向我们介绍了具体的机制，当cobalamin结合到适体域后，复合物形成的结构允许表达平台“停靠”并发生相互作用，含有核糖体结合位点序列的L14与适体域的L5间会发生环环相互作用形成碱基配对。同时研究人员还发现cobalamin也会提供一部分表面以稳定这种相互作用，在上述的机理下，核糖体结合位点序列不仅与适体域形成较强的相互作用且也因为空间结构的遮挡使得序列暴露程度降低，核糖体无法结合，导致翻译过程受阻。
 <br><br>
-这个工作比较好的地方是我们可以把这个密度图优化得挺好。左边是个蛋白和RNA的一个复合物，这个信号实际上是很模糊的，经过我们模型网络优化以后，RNA的双螺旋会变得非常清楚，如果分辨率可以更好一点，它可以把碱基配对的看得非常清楚，可以看到有原子细节在里面。
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图11. Interdomain docking机制的原理图
+</div>
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图12. Cobalamin riboswitch中表达平台和适体域间的相互作用
+</div>
 <br><br>
-如果大家不需要一步到位获得电镜解析的RNA结构，可以用这个模型优化冷冻jian j就可以了，这个网络框架实际上和我们前面基本上是一样的。我们这个工作方法能力更好，鲁棒性更好。
+第三种机制是strand invasion，也是最普遍存在的一种机制，大约有90%以上的riboswitch都采用这种方式调节基因表达。在这种机制中，配体结合到适体域时，switching sequence（红色序列）整合在抗终止子茎环中，此时转录可以正常进行，而当配体结合到适体域后，表达平台中的switching sequence会“入侵”到适体域中形成配对，从而稳定P1茎环结构，与此同时表达平台的构象也发生变化，形成终止子茎环结构，导致下游转录过程终止。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图13. Strand invasion机制的原理图
+</div>
+<br><br>
+Robert T. Batey教授强调由于转录的先后性，所以适体域比起表达平台较先形成，可以优先感知细胞内环境与代谢物浓度。若配体结合到适体域上，则switching sequence（红色序列）则会整合到适体域中，表达平台折叠成终止子构象，RNA聚合酶脱离，无法再进行转录。若不结合配体，表达平台则将switching sequence则整合到抗终止子中，下游的转录过程可以继续进行。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图14. Riboswitch调节转录的机制示意图
+</div>
+<br><br>
+随后Robert T. Batey教授简要介绍了strand invasion的原理，该过程在体内外都非常迅速高效并且不需要需要能量，在一个duplex motif中，外来的single stranded nucleic acid会识别toehold初步进行一个定位，然后通过annealing过程朝着与互补序列相反的方向进行“入侵”延伸，直到完全取代duplex motif中原有的一条链。当在riboswitch中时，需要对上述的机制做一些小修改。在配体结合后，复合物形成的三级结构会产生空间阻碍作用，阻止进一步的“入侵”作用。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图15. Strand invasion原理示意图
+</div>
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/16.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图16. Riboswitch中strand invasion的不同之处
+</div>
+<br><br>
+最后，Robert T. Batey教授对本次讲座的内容进行了简短的总结。他认为截至目前大多数研究还是将重心发在解析适体域与配体结合后的复合物结构，但要具体了解riboswitch的作用机制，研究人员也需要多关注配体结合适体域状态下发挥作用的表达平台是如何变化以调控介导下游基因的表达。
 <br><br>
 <strong> 精彩问答 </strong>
 <br><br>
-问题1：您这个主要工作是对 DNA以及RNA的结构优化，那么如果是一些蛋白质的结构，您这个模型能不能也进行优化？
+苗智超老师首先提出了一个非常有意思的问题，他好奇如何通过riboswitch来促进转录或翻译而非对二者产生抑制作用。对于该问题，Robert T. Batey教授介绍了曾经在cobalamin riboswitch中所做过的一个尝试性实验，他将一个linker放置在适体域和表达平台间，并不断加入核苷酸延长其长度，使适体域不能与表达平台发生相互作用，增加核糖体结合位点序列的暴露程度，使得适体域不能再阻止核糖体结合到对应的位点上。通过实验发现这种方法确实出现了提高翻译表达的结果，但将长度延长到30个核苷酸之后，由于距离太长，riboswitch已无法正常发挥作用了。苗老师总结了Robert的观点，即通过一些方法增加核糖体结合到对应位点序列的机会，从而促进翻译，他也提出如果能通过优化从而招募一些促进翻译的因子也许也会是一个解决方法。
 <br><br>
-答：我们这个算法实际上对DNA/RNA/蛋白都是可以做的。实际上的话，我们EMReady就是专门优化密度图的，就是刚开始说CryoEM实验很模糊或者看不到原子，我们可以优化以后蛋白和 RNA/DNA都可以同时优化得挺好。拿到这个优化好的图去解结构，就会感觉比较容易。
+不久前Daniel B. Haack等人通过scaffold与cryo-EM技术对TPP riboswitch结合配体前后的结构进行了解析，因为TPP riboswitch较小，所以本次研究中使用O.i. group IIC intron作为scaffold与TPP riboswitch连接起来，scaffold的高分辨率特点可以帮助我们更好地定位观察目标riboswitch的结构。
 <br><br>
-问题2: 如果是有一个大概 4A 的 RNA结构，您这个 EMRNA 算出来的它的准确率大概是多少。
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240710_Robert_Batey/17.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图17. O.i. group IIC intron scoffold与TPP riboswitch连接形成的复合物结构
+</div>
 <br><br>
-答：这个问题很好，这种情况的话， 4A的话，它可以从两个方面来看它的准确率多好，一是你的mask的水平，你mask不好的话它可能准确率没那么高；如果你用通用的序列准确率估计，如果你 mask 好，它序列准确率可以达100%。mask 不好的序列准确率大概只有 50%～60%左右。第二个，如果你从准确率来说，你只是说我那个主链有，不管它序列的话，不管它侧链的话，那么它的准确率是挺高的，应该百分之八九十，问题不大。所以这两个问题，第一个是你是不是把那个主链建好了？这个准确率在百分之八九十没有问题。如果你是说是不是把那序列组装对了，这个里面就因你的 mask水平，还有整个的分辨率有关。
+黄林老师在最后提出我们目前是否有必要探究riboswitch在无配体结合状态下（apo state）的结构，对于这个问题Robert T. Batey教授认为无配体结合状态下的结构可能是非常复杂多变的，他并不认为目前的方法可以让我们能完整地探究到RNA折叠的多样性，但在未来如果研究人员可以改善决定分子动力学模拟精度的中的force field，也许我们能够更好地在原子层面研究生物大分子结构与动态变化。此外，诸如Alphafold这一类软件的高速发展对于未来预测RNA结构也是可以产生极大帮助的。
 <br><br>
 <br><br>
 <strong>
-黄胜友教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1js421w7mp/?spm_id_from=333.999.0.0)
+Robert T. Batey教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1eM4m1278N/?spm_id_from=333.1387.homepage.video_card.click)
 <br><br>
 欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
 </strong>
