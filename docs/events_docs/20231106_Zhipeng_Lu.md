@@ -1,5 +1,5 @@
 ---
-title: "2023-11-06 Zhipeng Lu"
+title: "20231106 Zhipeng Lu"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

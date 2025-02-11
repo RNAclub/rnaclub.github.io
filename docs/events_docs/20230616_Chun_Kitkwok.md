@@ -1,5 +1,5 @@
 ---
-title: "2023-06-16 郭骏杰"
+title: "20230616 Chun Kit Kwok"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

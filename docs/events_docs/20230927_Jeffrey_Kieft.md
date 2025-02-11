@@ -1,5 +1,5 @@
 ---
-title: "2023-09-27 Jeffrey Kieft"
+title: "20230927 Jeffrey Kieft"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

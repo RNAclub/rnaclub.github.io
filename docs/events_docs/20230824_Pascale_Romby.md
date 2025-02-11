@@ -1,5 +1,5 @@
 ---
-title: "2023-08-24 Pascale Romby"
+title: "20230824 Pascale Romby"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

@@ -1,5 +1,5 @@
 ---
-title: "2023-01-04 Chen runsheng"
+title: "20230104 Chen runsheng"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

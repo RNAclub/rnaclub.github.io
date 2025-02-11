@@ -1,5 +1,5 @@
 ---
-title: "2022-03-16 Janusz M. Bujnicki"
+title: "20220316 Janusz M. Bujnicki"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

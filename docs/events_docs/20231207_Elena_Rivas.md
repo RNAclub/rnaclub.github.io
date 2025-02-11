@@ -1,5 +1,5 @@
 ---
-title: "2023-12-07 Elena Rivas"
+title: "20231207 Elena Rivas"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

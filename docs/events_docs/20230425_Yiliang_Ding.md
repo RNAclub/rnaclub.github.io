@@ -1,5 +1,5 @@
 ---
-title: "2023-04-25 Yiliang Ding"
+title: "20230425 Yiliang Ding"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false

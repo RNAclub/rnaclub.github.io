@@ -1,5 +1,5 @@
 ---
-title: "2022-08-19 David M.J.Lilley"
+title: "20220819 David M.J.Lilley"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false
