@@ -1,5 +1,5 @@
 ---
-title: "20240517 Shengyou Huang"
+title: "20241217 Ryan Flynn"
 layout: textlay
 excerpt: "Guangzhou RNA club salon events"
 sitemap: false
@@ -16,196 +16,197 @@ permalink:
   <section class="hoc container clear"  > 
 
   <div class="sectiontitle">
-      <h6 class="heading"> 3D structure modeling of RNA by cryo-electron microscopy based on artificial intelligence </h6>
-      <p class="nospace font-xs">Shengyou Huang 2024-05-17</p>
+      <h6 class="heading"> glycoRNA biology on the cell surface </h6>
+      <p class="nospace font-xs">Ryan A. Flynn 2024-12-17</p>
     </div>
   <div class="details">
     <div>
-<strong> 关键词 </strong>
-结构 序列 算法  分辨率 建模 人工智能 图像处理 深度学习
-<br><br>
 <strong>会议回顾 </strong>
 <br><br>
-  2024年5月17日，广州实验室苗智超研究员邀请了华中科技大学的黄胜友教授进行了线下及线上转播的学术报告“基于人工智能的冷冻电镜RNA三维结构建模”。黄胜友教授长期从事计算生物物理和生物信息学方面的研究，在Nature Protocols, Proceedings of the National Academy of Sciences，Nucleic Acids Research， Bioinformatics，Drug Discovery Today，Physical Review Letters等国际一流期刊上发表SCI论文80余篇，其中第一和通讯作者50余篇，文章累计他引2000余次。所提出的集合分子对接算法和迭代打分函数模型被国际同行广泛采用，发展的蛋白质分子对接算法和打分函数模型在称为国际蛋白质相互作用预测的“奥林匹克竞赛”CAPRI评估中多次排名第一。
+  2024年12月17日，波士顿儿童医院及哈佛大学干细胞与再生生物学系的Ryan A. Flynn 教授应邀在Guangzhou RNA club作了题为“glycoRNA biology on the cell surface”的学术报告。Ryan Flynn本科跟随诺贝尔生理医学奖得主Phillip Sharp学习，2010年毕业于麻省理工学院，于2017年在美国科学院院士Howard Chang指导下获得斯坦福大学博士及医学博士。在博士后期间，师从诺贝尔化学奖得主Carolyn Bertozzi，首次发现了细胞表面糖基化RNA分子的存在。自成立独立课题组以来，专注于RNA糖基化的研究 (https://www.rafrna.com/)，主要包括以下方向：（1）RNA糖基化机制；（2）唾液酸糖基化RNA检测方法的开发；（3）RNA 与蛋白质的相互作用研究，尤其是RNA解旋酶的功能；（4）RNA的结构研究。近年来，Ryan Flynn 课题组在国际顶尖学术期刊如Cell、Molecular Cell和Nature Biotechnology上发表了多篇高水平研究论文，深耕于RNA领域的前沿探索。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/0.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <br><br>
 <strong> 会议内容 </strong>
 <br><br>
-继中心法则发现以后，我们认为DNA是遗传物质，蛋白质是生命活动的执行者，对RNA有所理解过后，再返回看中心法则，会发现RNA才位于生命活动中承上启下的中心位置。实际上，从某种意义上来说，RNA也是最复杂的。因为蛋白质的结构是相对比较稳定的，当然这也是Alphafold可以一定程度将蛋白质结构预测的很好的重要原因。
+在本次会议中，Ryan Flynn向我们深入地分享了从糖RNA的发现到其机制研究的最新进展。他的报告解答了关于糖RNA的诸多关键科学问题，包括RNA与糖的连接机制、糖RNA 上糖链的具体结构解析以及糖RNA定位于细胞表面的潜在机制。这些前沿性的发现挑战了传统的RNA生物学认知，进一步推动了该全新领域的发展。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+糖基化（Glycosylation）是指在酶的催化下，将糖分子（单糖或寡糖）通过共价键连接到生物分子上的修饰过程。这是一种重要的翻译后修饰，广泛参与生命活动中的各种生物学过程，对蛋白质和细胞功能具有重要的调控作用。由于糖分子的组成和结构多样化，糖基化呈现出极高的异质性。这些位于细胞表面的糖基化分子（如糖蛋白和糖脂）对于细胞间通讯、信号传递和以及免疫调控等至关重要。2021年， Ryan Flynn研究团队在Cell杂志上首次报道除了蛋白质和脂类之外，RNA是第三个主要的糖基化载体。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图1. RNA处于生命体遗传信息流的中心
+图1. 细胞表面的糖基化分子
 </div>
 <br><br>
-DNA的双螺旋结构相对RNA来说也是是非常稳定的。RNA既存在transcriptomes也存在ribonucleomes，情况相对更复杂，也是我认为Alphafold在RNA结构预测上表现欠佳的可能原因。RNA的三维结构要怎么确定呢，一般来说做实验得到的三维结构更准，但往往也伴随成本高难度大的问题，相对来说，通过计算得到三维结构的成本更低，速度或周期更短。在此基础上，我们进一步对RNA三维结构预测问题进行简化，就是在给定的一段RNA序列，要怎么得到它的三维结构。
+糖RNA—第三种糖基化载体的发现
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+该研究工作采用了以下的实验策略（图2），首先，Ryan Flynn等人采用Ac4ManNAz培养细胞的方式，通过细胞自主代谢的途径，将叠氮基团表达在唾液酸上。随后，利用带有生物素的探针对可能存在的糖基化进行标记并进行检测，并发现在被标记的细胞中富集到了高纯度的RNA样品，这说明RNA上可能也存在糖基化。这一初始发现将糖基化与RNA第一次联系在一起。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图2. RNA三维结构要如何确定？
-</div>
-<br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图3. 计算预测三维结构的三类方法
+图2. 糖RNA的实验策略
 </div>
 <br><br>
-目前来说，从计算上来说有三类方法来预测RNA三维结构。第一类方法叫第一性原理，RNA碱基一共四种(A,U,G,C)，根据序列上碱基的顺序进行拼接折叠即可。但是这种情况的话它自由度太大，如果我们一个原子的话有三个自由度，那么几千个原子就相当于就是几万个自由度，想要正确的结构是很困难的。所以为了解决这个问题，后面就提出了第二种方法，这种情况叫片段组装。我们就依据序列把它简化成片段的形式。举例来说，我把序列分成 10 个片段，那么每个片段的话自由度只有3，那我们只有 30 个自由度，计算数量级就急速地下降。
+那么，细胞中哪些RNA上存在糖基化修饰？进一步的实验表明，糖RNA的主要来源是小非编码RNA（sncRNA）。Ryan Flynn等人通过蔗糖梯度离心实验发现，带有糖修饰的RNA主要分布在小RNA组分中（图3）。此外，对HeLa细胞和hES细胞的糖RNA测序结果显示snoRNA在这两种细胞中均显著富集（图4）。这些都间接证明了在细胞表面除了蛋白质和脂质，RNA也是糖的一大载体。
 <br><br>
-目前来说，片段组装的话是现在最主流的预测方法，包括国外的RNAComposer，还有FARFAR都属于这方面。国内肖毅老师的3dRNA也是这方面的一个工作。当然方法也有局限性，把RNA拆成片段，如果没有生成没有结构里面需要的片段，就无法拼出正确的三维结构。
-<br><br>
-那么是不是存在一种方式是万能的，预测的各种情况都可以搞定。理论上是大家还是很期待人工智能在预测方面的表现。近期关于人工智能在预测方面也有几个工作发表，一个是ARES，是斯坦福的工作；trRosettaRNA是山东大学杨建益老师的工作，还有最近的RosettaFoldNA，以及最新的AlphaFold3。可能是因为Alphafold把大部分蛋白质结构解决得很好，好像RNA预测问题也可以借助于AI解决。实际上，现在人工智能属于数据驱动的，所以某种意义上，没有数据，人工智能什么也做不到。
-<br><br>
-所以如果现在没有一种方法能够解决RNA结构预测问题，那么用多模态策略，使用多种方法，把所有的数据都用上，一个信息不够，那么用两个、三个、四个，十个指不定就解决了。所以出现了一个概念，叫做整合策略，或者叫整合建模。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图4. 生物大分子结构建模
-</div>
-<br><br>
-一种数据的话只能看到一个方面，整合多种数据就可以得到多个方面信息。第一步，整合实验信息，例如Xray，cryo-EM等；第二步分子表征这些信息，得到通过实验的到的结构方面的约束信息；第三步，采样所需要的结构信息；第四步，筛选出正确的采样策略。实际上现在的AlphaFold3的扩散模型就是这种模式，扩散模型可以挑选出很多预测结构，中间过程设置打分函数挑选出正确的预测结构。这应该也是后续结构建模的一种趋势。
-<br><br>
-我们聚焦于冷冻电镜方面也是因为我们有比较多这方面的实验信息。在做的过程中发现冷冻电镜信息有一个非常明显的特点，就是它实际上是个高质量数据和低质量数据的完美结合。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图5. 冷冻电镜帮助生物大分子结构解析
-</div>
-<br><br>
-举例来说，冷冻电镜做得好分辨率可以很高，做得不好也可能很不好；第二，它同一个结构分辨率好的地方可以达到一点几埃，不好的地方可以达到二十几埃，所以某种意义上也是我们的机会。
-<br><br>
-我们主要是集中2D图像生成3D density map。就像我们前面说的一样，这个冷冻电镜数据的话是真是高质量和低质量完美结合，它有3埃的时候，原子细节都可以看的比较清楚。比 3埃差的话，差不多5埃就基本上都看不到原子了。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图6. 整合冷冻电镜数据进行RNA三维结构建模存在的问题
-</div>
-<br><br>
-既然有很多冷冻电镜数据这么难解，我们是不是就可以来做这个事情？以上述图例来说，大家会发现里面信号信噪比很低，质量差距特别大，RNA的信号也比较弱。第一眼看不出来怎么得到右边的RNA结构。所以我们就做了一个人工智能的框架，通过人工智能，提取右边的结构信息。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图7. EMRNA基于人工智能的冷冻电镜RNA三维结构建模算法概览
-</div>
-<br><br>
-大概流程如下，流程图最左边是冷冻电镜的密度图，右边是结构，我们在中间提出了一个自动化的人工智能的算法框架(EMRNA) , 相当于你给它一个密度图的话，它就给你一个结构。模型核心划成几个模块，第一个步骤相当于RNN 主链原子信号的挖掘；第二步要把它连起来并成链，但主链是有位置没有序列，因此我们要把序列信息添加上去；就是第三步结合二级结构和序列信息，把序列装上去。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图8. EMRNA主链原子预测概览
-</div>
-<br><br>
-主链原子的挖掘或者预测，我们用简单的四个字描述就是从图到点。我们这个算法能够做到准确地从那些看起来很模糊，好像都没有信息的部分，把原子信息挖掘出来，最核心的就是这个网络。我们做的好有两个方面原因，第一个方面，网络框架很特殊，一个是Transformer，一个是CNN，一个是UNet，三个模块功能的综合应用，可以做到又快又好，在做好短程碱基间作用的同时兼顾RNA远距离相互作用的场景，同时提高算法的整体速度。第二个方面，核心损失函数的创新。我们也用了两个模块，第一个做叫 L1Loss，是负责局部学习的；第二个叫SSIMLoss，负责整体相关性比较。在保证点对点信息还原的同时，兼顾对预测结构整体性的考虑。
-<br><br>
-这从图到点的过程相当于我们获取核苷酸的位置，那么只有位置是不够的，我们要把它串起来。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图9. EMRNA主链原子的串线连接
-</div>
-<br><br>
-核苷酸串起来过程我们称之为从点到线，使用了旅行商的算法。因为其实RNA的实际信号是比较弱的，所以某种意义上说，得到多条，上万条都有可能的，我们需要依据序列信息去判断哪条是对的。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
-图10. EMRNA中RNA二级结构确定
+图3. 蔗糖梯度离心实验探究糖RNA的组成
 </div>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图11. EMRNA中RNA全长主链序列的确定
+图4. HeLa细胞和hES细胞中糖RNA测序结果
 </div>
 <br><br>
-增加序列部分的信息需要一个二级结构去帮它去打分。为什么用这个二级结构或加一个二级结构的预测呢？主要是二级结构的预测比较自动化且比较准确，用我们之前已知的一维的序列，还有预测的二级结构这两个信息，装在从图像中捕捉的主链。怎么把序列装对这个事情，可以参考现有的一些算法。
+这一结果开辟了一个全新的研究领域—糖RNA。然而，这一突破性发现也引发了许多疑问，其中最关键的包括：<br>
+（1）RNA如何与N-聚糖连接在一起？N-聚糖是直接连接在RNA上还是存在一个特定的连接结构？<br>
+（2）与RNA连接的糖链结构和组成都有哪些？<br>
+（3）糖RNA存在于细胞表面的具体机制是什么？<br>
+针对以上的三个问题，Ryan Flynn逐一进行了深入探讨与解析，为糖RNA的结构和功能研究奠定了坚实的基础，同时为理解其在细胞生物学中的作用提供了重要线索。
 <br><br>
-序列比对或者结构比对的问题，就相当于怎么样把一维的序列和这二维的结构信息匹配到那个三维图像上。这实际上是个动态规划的事情，相当于这里面包含两个打分，一个序列打分，一个二级结构打分。用这两个打分作为评估，进行主链装上序列信息的训练。每一条主链装上的序列后，它的得分是不一样的，我们就挑第一名。基本上第一名如果不对，其他的对的可能性也不是太大。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图12. EMRNA中RNA全原子结构构建与优化
+图5. 一些糖RNA的关键问题
 </div>
 <br><br>
-到这个地方为止，主链位置也好了，序列信息也好了。最后一步，已经有RNA三维结构的backbone, 主链定了，序列核苷酸信息确定以后，就可以直接构建全原子的三维结构。这一步我们没有创新的算法在里面，用已发表的算法，例如Phenix或者3dRNA都可以搭建全原子模型。
+一、RNA与N-聚糖之间的桥梁-acp3U
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+之前的研究对于糖RNA的标记主要依赖于代谢标记策略（图6，左），Neu5Az（N-乙酰氨基氮杂神经氨酸）是一种唾液酸的衍生物，其中N-乙酰基被叠氮基（-N₃）取代。可通过biotin-alkyne与叠氮基团发生点击化学反应，从而实现对唾液酸的富集。然而，这种标记策略具有一定的局限性：（1）由于代谢标记依赖于活细胞的代谢途径，将修饰后的糖掺入目标分子中。因此细胞必须保持活性。（2）该策略依赖于糖基转移酶的参与，而糖基转移酶的表达水平和活性可能因细胞类型或状态的不同而存在显著差异。针对这些限制，Ryan Flynn课题组开发了一个全新的化学标记工具rPAL（图6，右），该工具能够对唾液酸进行衍生化，而不依赖任何代谢标记过程。通过化学反应对糖RNA上的唾液酸进行双重氧化，连接羟基的两个碳原子之间的碳-碳键被断裂形成醛基。随后，通过带有生物素的羟胺试剂，与生成的醛基发生反应，实现糖RNA分子的特异性标记。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/6.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图13. EMRNA中RNA建模结果评估
+图6. rPAL用于高效标记糖RNA
 </div>
 <br><br>
-所以整个流程就是这样，最核心的就是我们前面那个网络框架，怎么从那个很模糊的粒度里面能够准确地定位主链原子位置，后面都是工程学的事情。算法表现方面，我们做的评估图例比较多，RNA结构方面，一个是用RMSD作为评估标准，相当于比较预测结构和PDB真实结构相差有多远。
+在体外实验中，未经酶处理时，rPAL和RNA显示出显著的信号；但当加入RNase降解RNA后，rPAL和RNA的信号均完全消失。在加入唾液酸酶时，rPAL的信号消失，但RNA信号依然存在。这一结果间接证明了糖的信号来源于RNA。在活细胞实验中，作者进一步验证了该方法的适用性。他们对活细胞中提取的RNA进行糖RNA标记，随后加入唾液酸酶。15分钟后，rPAL信号显著降低，表明糖RNA上的唾液酸被降解。综上，rPAL标记策略能够有效标记细胞表面的潜在糖RNA。
 <br><br>
-第二个标准叫做TM score，可能RNA方面做Cryo-EM，TM score 不一定适合，但TM score用来比较与真实PDB结构一致性程度，一致性越高越好。第三个是coverage，用过Phenix 都知道以案例有一千个碱基来说，软件可以构建出多少碱基；第四个是序列正确率，sequence match，装序列装得对不对？也是越高越好，除了第一个标准是越低越好之外，其他都是越高越好。最右面的图，一个蓝色的，一个绿色的，一个是解析PDB 结构，一个是预测的RNA结构，总体效果还是不错的。
-<br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/7.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图14. EMRNA中RNA二级结构预测的影响
+图7. rPAL在体外实验和活细胞实验的表现
 </div>
 <br><br>
-接下来我们看一下，二级结构的影响，因为我们用二级结构去打分，作为一个评分标准。图例上一种颜色代表一种二级结构的准确度，基本上差别不是太大。
+基于高效标记糖RNA的rPAL技术，作者进一步对small RNA进行深入研究。具体操作是将生物素化的RNA样品与NeutrAvidin磁珠孵育，利用NeutrAvidin与生物素之间的高亲和力，捕获糖RNA。随后，通过强力洗涤步骤，去除未结合的非糖基化RNA以及其他杂质。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/8.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图15. EMRNA中RNA密度图Mask截断距离的影响
+图8. SWATH-MS实验流程
 </div>
 <br><br>
-第三个是 RNA 密度图Mask截断距离的影响，为什么做这个是因为很多结构是个蛋白和RNA的复合物，所以预测要先把 RNA mask 出来。当时存在一个疑问，是mask的大小存在多大的影响，所以我们就做了一下mask在3埃、4埃、 5埃都做了一下，差异不大。每种颜色都代表一种mask的影响，但是mask还是对技术有要求，如果mask 不好，它可能不一定能做出正确的结构。
+首先，使用RNase A和PDE1降解RNA上所有非糖基化的核苷酸，仅保留连接糖链的糖核苷（粉色点）。这一步骤的目的是分析富集的糖RNA上核苷酸的修饰情况。结果显示rPAL标记捕获的核苷酸具有丰富的修饰类型，表明糖RNA上存在大量修饰的核苷酸。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/16.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/9.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图16. EMRNA与Auto-DRRAFTER效果的比较
+图9. 糖RNA上核苷酸的修饰类型
 </div>
 <br><br>
-首先就是与Auto-DRRAFTER的比较，这个是斯坦福那边做的，他们应该是除EMRNA之外，他们唯一一个能够做全长的。左边这个是我们的EMRNA，右边是Auto-DRRAFTER的，我们比他们好不少。同时EMRNA还有一个优势，就是比较快，因为他们估计一周做一个100个核苷酸的，EMRNA使用一个GPU 估计几分钟就好了。
+此外，作者借鉴了PNGase F在糖蛋白组学中的应用。PNGase F能够切割糖蛋白上N-端的糖链，同时将天冬酰胺残基转化为带有羧基的天冬氨酸。基于此机制，作者推测，当使用PNGase F切割糖RNA上的N-糖链时，核糖苷可能会携带一个羧基。对富集的糖RNA样品进行了灵敏的RNA修饰质谱分析，并在两种不同的细胞系（293细胞和K562细胞）中分别使用PNGase F处理。结果显示，带有羧基的acp3U核苷在四种不同条件下均被广泛检测到。这与假设完全一致，即PNGase F切割N-糖链后会生成acp3U。此外带有羧基的yw-86也被认为是一个潜在的链接结构，但其验证仍需要更多的合成和实验数据支持。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/17.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/10.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图17. EMRNA与Phenix以及CryoREAD的比较
+图10. 四种条件下检测到的糖苷酸上的修饰
 </div>
 <br><br>
-还要与领域里面表现比较好的算法都进行比较，例如Phenix还有CryoREAD（去年12月份发在nature methods）。结果部分，中间是 Phenix ，右边是CryoREAD，EMRNA都好不少。
+为了证明acp3U分子中的羧基是由PNGase F酶解所产生，首先加入唾液酸酶释放糖苷，随后分别在含有氧16和氧18的水中使用PNGase F释放糖链。二级质谱结果显示生成的产物中，acp3U在两种条件下分别生成了对应的氧16和氧18标记的质量峰（346.12 m/z 和 348.12 m/z），并且其液相色谱中的保留时间和二级质谱信息与acp3U标准样品完全一致。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/11.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图18. EMRNA产生的RNA模型质量评估
+图11. 质谱分析鉴定acp3U
 </div>
 <br><br>
-结构建模里面还有一个非常重要一个方面，就是预测结构的可靠性。所以进行了RNA 模型的质量评估，我们专门设计一个参数叫M-score，M-score和结构的 TM-score就是预测的结构，好不好的标准。两个score之间也有很好的相关性，所以M-score可以告诉实验学家这个结构到底好不好。
+为了能够进一步探究acp3U-GlcNAc的连接，利用核苷内切酶EndoF2和EndoF3对糖链进行切割，保留下acp3U加一个单N-乙酰葡萄糖胺（GlcNAc）残基，通过靶向质谱检测，该物质的质荷比为548.20。以合成的acp3U-GlcNAc标准品作为参考，结果显示两者在液相色谱中的保留时间非常接近，且二级质谱得到的离子峰完全一致。这一结果提供了直接证据，通过精确化学结构分析鉴定了核苷酸和GlcNAc之间通过acp3U进行连接。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/12.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图19. 其他工作之EM2NA
+图12. 靶向质谱分析鉴定acp3U-GlcNAc
+</div>
+<br><br>
+随之而来的问题是acp3U的生成是否会影响RNA糖基化反应？研究表明，DTWD家族中的DTWD1和DTWD2蛋白酶可以催化生成acp3U。鉴于DTWD2的分布广泛及其高表达特性，作者选择敲除DTWD2基因，结果显示相较于对照组，糖RNA的信号强度降低了约10%。此外，根据分子迁移距离的分析，以18sRNA条带作为参照，糖RNA条带出现了明显的向下偏移。综上，acp3U的生成会相应影响糖RNA的形成。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/13.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图13. 敲除acp3U合成酶家族DWDT2对糖RNA的影响
+</div>
+<br><br>
+基于上述研究，作者提出了一个关于唾液酸糖基化RNA的假设模型（图14）。具体而言，对于tRNA，在DTWD2的作用下核苷酸首先发生acp3U的修饰。随后，这一修饰经历酰胺化过程后被转移到内质网中，形成初始的糖基结构，经加工得到成熟的N-糖结构。最终，tRNA被运送到细胞表面。这一模型为理解糖RNA的生成提供了新的见解，揭示了其可能的生物合成路径。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/14.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图14. 唾液酸糖基化RNA的理论模型
+</div>
+<br><br>
+二、糖RNA大部分是O糖修饰
+<br><br>
+鉴于PNGase F只能作用在N糖上，那么RNA是否存在其他类型的糖修饰？在N-糖基化的合成过程中，STT3A和STT3B是寡糖转移酶复合体（OST）的关键催化亚基。然而，当分别敲除STT3A和STT3B时，对糖RNA的rPAL信号并没有显著影响。相比之下，COSMC则是O型糖链合成通路中关键的调控因子，作为核心 β1,3-半乳糖基转移酶（C1GALT1）的分子伴侣，调控核心Galβ1-3GalNAc-Ser/Thr的合成。当COSMC基因和C1GALT1分别被敲除时，糖RNA的rPAL信号显著降低了80%。这是第一个明确的证据，表明O-聚糖可能是糖RNA的主要糖修饰形式。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/15.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图15. 敲除STT3A/STT3B/COSMC基因对糖RNA的影响
 </div>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/16.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图20. 其他工作之EM2NA精度比较
+图16. 敲除C1GALT1基因对糖RNA的影响
 </div>
 <br><br>
-我们想再跟大家分享两个相关的工作，一个叫做 EM2NA，相当于EMRNA的一个 2.0 版本。因为前面只能够做RNA，但是还有很多DNA的结构。所以我们把它做成一个统一框架，不管 RNA或DNA都可以做，所以叫做EM2NA。框架和EMRNA差不多，功能上既能够处理DNA，也能够处理RNA，能够自动地从那个密度图里面探测DNA来帮你建模，也可以直接直接从那个准确的模型进行建模。精度层面，EM2NA与CryoREAD, ModelAngle, 还有Phenix，比较的结果都是EM2NA还不错。
+在K562和HEK293细胞中small RNA研究中，数据依赖性采集（DDA, Data Dependent Acquisition）和数据非依赖性采集（DIA, Data Independent Acquisition）两种质谱分析方法均检测到了大量的唾液酸O-型糖。同时，这些O-型糖修饰在不同细胞类型中表现出较高的稳定性。这一发现进一步表明除了N-型糖，唾液酸O-型糖广泛存在于small RNA中。
 <br><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20240517_Shengyou_Huang/21.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/17.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
-图21. 其他工作之EMReady
+图17. 质谱分析鉴定small RNA中的O-糖组成
 </div>
 <br><br>
-第二个我们想分享的工作是EMReady。实际上是针对于自动优化那个冷冻电镜密度图的工作。
+三、糖RNA与细胞表面RNA结合蛋白簇
 <br><br>
-这个工作比较好的地方是我们可以把这个密度图优化得挺好。左边是个蛋白和RNA的一个复合物，这个信号实际上是很模糊的，经过我们模型网络优化以后，RNA的双螺旋会变得非常清楚，如果分辨率可以更好一点，它可以把碱基配对的看得非常清楚，可以看到有原子细节在里面。
+那么这些RNA是被“困”在细胞表面还是蛋白翻译的中间产物？细胞表面存在多种重要的蛋白质，包括与细胞信号传导、细胞识别、物质运输以及细胞黏附相关的表面蛋白质。这些蛋白质的种类和功能多样，涵盖了膜受体、跨膜蛋白、糖蛋白等。此前的研究主要通过两种方法探究细胞表面的蛋白质：一种是基于糖标记的periodate-based方法，另一种是基于表面蛋白标记的NHS-based方法。此外，RNA生物研究中利用质谱技术，检测与RNA结合的 RNA结合蛋白（RBP, RNA-binding proteins）。
 <br><br>
-如果大家不需要一步到位获得电镜解析的RNA结构，可以用这个模型优化冷冻jian j就可以了，这个网络框架实际上和我们前面基本上是一样的。我们这个工作方法能力更好，鲁棒性更好。
+为了探讨哪些蛋白质可能帮助RNA固定在细胞表面，作者对上述两个数据集（糖标记和蛋白标记）进行了交集分析。理论上，RBP通常缺乏跨膜结构域或信号肽，无法被分选到细胞膜上。因此，作者最初推测，细胞表面几乎不会存在RBP。然而，研究结果却出乎意料：结合三种已发表的数据集发现了209个RBP存在于细胞表面。
 <br><br>
-<strong> 精彩问答 </strong>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/18.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图18. 细胞表面蛋白质与RNA结合蛋白的交集
+</div>
 <br><br>
-问题1：您这个主要工作是对 DNA以及RNA的结构优化，那么如果是一些蛋白质的结构，您这个模型能不能也进行优化？
+为了进一步探究这些RBP为什么能够定位于细胞表面，作者选取了一个感兴趣的RBP——DDX21，这是一种核仁解旋酶，通常在细胞核仁中发挥作用。经过固定和通透化处理的细胞，DDX21的定位主要集中在细胞核内（蓝色背景中的亮黄色信号）。而活细胞成像显示DDX21的信号不仅存在于核内，还可以在细胞表面检测到。这表明DDX21可能通过某种机制被运输或分选到了细胞表面，成为细胞表面RNA结合蛋白（csRBP）。
 <br><br>
-答：我们这个算法实际上对DNA/RNA/蛋白都是可以做的。实际上的话，我们EMReady就是专门优化密度图的，就是刚开始说CryoEM实验很模糊或者看不到原子，我们可以优化以后蛋白和 RNA/DNA都可以同时优化得挺好。拿到这个优化好的图去解结构，就会感觉比较容易。
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/19.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图19. 共焦成像实验DDX21的定位
+</div>
 <br><br>
-问题2: 如果是有一个大概 4A 的 RNA结构，您这个 EMRNA 算出来的它的准确率大概是多少。
+由于共焦显微镜的分辨率受衍射极限的限制，研究进一步采用超分辨显微成像技术对 A549 细胞表面另一个RNA结合蛋白ahnRNP-U的分布进行分析。结果显示，ahnRNP-U在细胞表面以局部高密度的簇状结构形式聚集。定量分析表明，这些csRBPs簇之间的平均距离约为300纳米，单个簇的直径约150纳米。以另一种细胞表面膜蛋白aβ2M作为对照，发现其分布较为广泛，未显示出明显的簇状结构。以上结果揭示了csRBPs在细胞表面呈现高度组织化的簇状分布模式，为探索其在细胞功能中的潜在作用提供了新的见解。
 <br><br>
-答：这个问题很好，这种情况的话， 4A的话，它可以从两个方面来看它的准确率多好，一是你的mask的水平，你mask不好的话它可能准确率没那么高；如果你用通用的序列准确率估计，如果你 mask 好，它序列准确率可以达100%。mask 不好的序列准确率大概只有 50%～60%左右。第二个，如果你从准确率来说，你只是说我那个主链有，不管它序列的话，不管它侧链的话，那么它的准确率是挺高的，应该百分之八九十，问题不大。所以这两个问题，第一个是你是不是把那个主链建好了？这个准确率在百分之八九十没有问题。如果你是说是不是把那序列组装对了，这个里面就因你的 mask水平，还有整个的分辨率有关。
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/20.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图20. 高分辨率显微成像csRBPs的聚集性分布
+</div>
+<br><br>
+为了探究糖RNA是否与csRBPs在细胞表面存在相互作用或邻近分布，作者采用了邻近标记方法。首先使用biotin-phenol标记蛋白质、biotin-aniline标记RNA，并结合HRP诱导的交联反应，共标记邻近分布的蛋白质和RNA，从而证明糖RNA与csRBPs的空间邻近性。在Western blot结果中，使用特异性识别糖RNA的抗体9D5进行检测。左侧（Sybr染色）显示样品中存在RNA；右侧（Strep染色）通过生物素标记检测到糖RNA的信号。加入唾液酸酶后，由于去除了RNA分子上的唾液酸等糖基，分子的质荷比显著降低。相较于相同长度的RNA，去唾液酸的糖RNA具有更低的负电荷密度，导致在凝胶电泳中迁移速度变慢，从而表现为分子量上移, 这进一步验证糖RNA的糖基化特性。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/21.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图21. csRBPs与糖RNA的空间邻近性实验策略
+</div>
+<br><br>
+RNA是一种带有负电荷的生物分子，而heparan sulfate是另一种带有负电荷的生物多聚体，且在细胞表面具有高活性。Heparan sulfate附着在细胞膜的锚定蛋白上，拥有带负电荷的线性链结构，可以从血清中识别和结合多种因子。文献报道显示，细胞穿膜肽（CPPs）如TAT能够与heparan sulfate结合，并高效递送货物分子（如蛋白质、药物等）进入细胞。基于此，Ryan Flynn提出了以下假设：TAT蛋白与细胞表面的相互作用不仅仅是通过heparan sulfate 的结合，更可能是因为TAT本身也是一种RNA结合蛋白，而细胞表面存在RNA分子。因此，TAT和其他CPPs可能通过双重结合模式与细胞表面分子相互作用——同时结合 heparan sulfate和细胞表面的RNA。那么，如果能够找到heparan sulfate，那么很可能也能找到与之相关联的RNA。为了验证这一假设，设计了以下实验进行证明。
+<br><br>
+仅需几个关键氨基酸即可实现TAT蛋白细胞结合和细胞渗透的活性。当这些氨基酸与eGFP 荧光蛋白整合时，以仅转入eGFP的细胞为对照，带有TAT关键氨基酸的实验结果显示了显著差异：可以观察到大量的eGFP信号分布在细胞内，既存在于细胞质中，也可见于细胞核中，这正是经典的细胞渗透现象。有趣的是，当加入RNase酶后，TAT-WT-eGFP的信号显著降低，且不再广泛分布。这表明TAT的运送功能可能受到细胞表面糖RNA和csRBPs的影响。
+<br><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/22.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图22. CPP与糖RNA相互作用的实验设计
+</div>
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/23.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
+<div style="text-align:center">
+图23. RNase酶处理后TAT的CPP活性
+</div>
+<br><br>
+最后，Ryan总结了他在糖RNA方向的研究发现， 1）糖RNA作为一种新的糖基化载体，能够通过acp3U位点与N-聚糖相连，且O-聚糖是糖RNAs的主要组成部分；2）细胞表面存在大量csRBP簇，形成精确且有序的结构；3）糖RNA与csRBP簇能够功能性地调控细胞穿膜肽（CPP）的活性。在报告结束后，Ryan Flynn与各位老师和同学进行了深入的问答交流，围绕糖RNA研究的细节、核心概念以及未来发展方向展开了更为深入的探讨。在讨论结束后，Ryan Flynn鼓励大家：在科研中保持无知、好奇和批判性思维的心态。他指出，我们对未知的认知极其有限，因此大胆地提出新的问题、假设和想法是完全被允许的。他建议，善于利用新系统进行实验，并对自己研究中的具体问题保持清晰认知，同时接受试验可能出错的事实。通过多分享和积极接收反馈，可以更快推动研究进展。此外，他强调，将想法写成论文进行汇报和分享是科研的重要环节。在这一过程中，你可能会听到建设性的批评，也可能遭遇单纯的质疑。然而，无论面对哪种声音，都应保持好奇心，并尝试去理解这些意见的合理性与意义。在这一过程中，拥有积极的思维模式至关重要。他以自身经历为例，他最初并没有刻意试图改变糖生物学领域，而是单纯被早期研究中有趣的问题所吸引。然而，他的好奇心致使在Carolyn课题组的工作最终推动了该领域的变革。
 <br><br>
 <br><br>
 <strong>
-黄胜友教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(https://www.bilibili.com/video/BV1js421w7mp/?spm_id_from=333.999.0.0)
+Ryan A. Flynn教授此次会议报告已收录于Guangzhou RNA club bilibili视频网站(【Ryan A. Flynn-细胞表面糖基化RNA生物学】 https://www.bilibili.com/video/BV1uHkHY4EQQ/?share_source=copy_web&vd_source=060c1a01e5b3d64b928bc79f98c76948)
 <br><br>
 欢迎关注Guangzhou RNA club公众号、网站（rnaclub.rnacentre.org）、twitter（@RNA_club)。
 </strong>

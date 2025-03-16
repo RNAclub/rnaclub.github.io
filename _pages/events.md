@@ -346,6 +346,21 @@ permalink: /events/
   </div>
 </div>
 
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20241217_Ryan_Flynn.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20241217_Ryan_Flynn/20241217_Ryan_Flynn.jpeg" /></a>
+      <span> 2024.12.17 </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Ryan A. Flynn - GlycoRNA Biology on the Cell Surface </h1>
+      <p id="p1"> Glycans modify lipids and proteins to mediate inter- and intramolecular interactions across all domains of life. RNA is not thought to be a major target of glycosylation. Here, we challenge this view with evidence that mammals use RNA as a third scaffold for glycosylation. Using chemical and biochemical approaches, we found that conserved small noncoding RNAs bear sialylated glycans.  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20241217_Ryan_Flynn.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
 
  <!--<div class="item">
   <div class="image">
