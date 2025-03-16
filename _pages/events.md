@@ -361,6 +361,21 @@ permalink: /events/
   </div>
 </div>
 
+<div class="item">
+  <div class="image">
+    <div>
+      <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/2025117_Yanli_Wang.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250117_Yanli_Wang/20250117_Yanli_Wang.jpeg" /></a>
+      <span> 2025.01.17 </span>
+    </div>
+  </div>
+  <div class="details">
+    <div>
+      <h1 id="time1">Yanli Wang - The RNA-guided arms race between bacteria and phage</h1>
+      <p id="p1"> CRISPR-Cas systems are adaptive immune systems found in bacteria or archaea that protect against the invading of mobile genetic elements (MGEs), such as phages and plasmids. To defend against foreign nucleic acids, CRISPR-Cas systems capture short DNA segments from invaders and insert them into the CRISPR array, thus recording a genetic snapshot of potential threats.  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/2025117_Yanli_Wang.html">(More...) </a> </p>
+    </div>
+  </div>
+</div>
+
 
  <!--<div class="item">
   <div class="image">

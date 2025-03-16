@@ -74,16 +74,16 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Mordechai (Motti) Choder</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">Professor of biology, Technion – Israel Institute of Technology, Israel</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Orna Amster-Choder</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://amsterchoder.huji.ac.il/">Full Professor, Faculty of Medicine, Department of Microbiology and Molecular Genetics – The Hebrew University, Jerusalem, Israel</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">A system view of gene expression: cross talks among all stages of the mRNA life
+            <h6 class="heading" style="padding-top:10px">Revisiting the dogma on bacterial transcriptome organization: implications on gene expression
             </h6>
-            <p style="padding-top:10px"> Gene expression is traditionally viewed as a linear process divided into distinct stages. We have shown that this view is oversimplified. First, RNA polymerase II controls mRNA translation and decay via a mediator, Rpb4/7. Second, many transcripts are "tagged" with factors co-transcriptionally, one of these tags being Rpb4/7, which later regulate mRNA localization, translatability, and decay. We term this tagging "mRNA imprinting." Recently, we discovered that ~50 proteins bind Pol II transcripts co-transcriptionally, many of which likely affect mRNA fate. Remarkably, promoters, DNA elements 
+            <p style="padding-top:10px"> Our finding that bacterial RNAs can localize to different cellular domains independently of translation (Science, 2011) challenged the dogma that transcription and translation are always coupled. Analysis of the E. coli transcriptome revealed that a significant fraction localizes asymmetrically, often correlating with proteome distribution and independent of translation (Mol. Cell, 2019). Notably, the polar transcriptome is unique, enriched in specific mRNAs and most small RNAs (sRNAs). 
             [<a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Feb</em><em>2025</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>Mar</em><em>2025</em></time>
         </article>
       </li>
       <li class="one_half">
