@@ -211,16 +211,19 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250217_Mordechai_Choder.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250327_Orna Amster-Choder.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Mordechai (Motti) Choder</strong>, Technion – Israel Institute of Technology, Israel, will give a talk on <strong>A system view of gene expression: cross talks among all stages of the mRNA life</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Orna Amster-Choder</strong>, Full Professor, Faculty of Medicine, Department of Microbiology and Molecular Genetics – The Hebrew University, Jerusalem, Israel, will give a talk on <strong>Revisiting the dogma on bacterial transcriptome organization: implications on gene expression</strong>.
             <br><br>
-            Gene expression is traditionally viewed as a linear process divided into distinct stages. We have shown that this view is oversimplified. First, RNA polymerase II controls mRNA translation and decay via a mediator, Rpb4/7. Second, many transcripts are "tagged" with factors co-transcriptionally, one of these tags being Rpb4/7, which later regulate mRNA localization, translatability, and decay. We term this tagging "mRNA imprinting." Recently, we discovered that ~50 proteins bind Pol II transcripts co-transcriptionally, many of which likely affect mRNA fate. Remarkably, promoters, DNA elements known to control transcription, also regulate "mRNA imprinting," thereby influencing mRNA fate in the cytoplasm. Third, we found that the major mRNA 'decaysome', known for degrading mRNAs in the cytoplasm, also functions as a transcription activator by physically associating with chromatin. Significantly, the decaysome's ability to function in the synthesis of a particular mRNA in the nucleus depends on its capacity to complete degrading this mRNA in the cytoplasm. The underlying mechanism will be discussed in my talk. I will propose that some mRNA synthesis and decay factors represent a novel class of factors, "mRNA coordinators," which shuttle between all complexes controlling the mRNA lifecycle, integrating them into a system. I will show that Rpb4/7 carries >100 combinations of temporal post-translational modifications, which respond to the stage of the mRNA/Rpb4/7 complex (e.g., mRNA synthesis, translation, decay) and to the environment. We propose that these modifications are components of the language by which the various stages communicate and function as a system. 
+            Our finding that bacterial RNAs can localize to different cellular domains independently of translation (Science, 2011) challenged the dogma that transcription and translation are always coupled. Analysis of the E. coli transcriptome revealed that a significant fraction localizes asymmetrically, often correlating with proteome distribution and independent of translation (Mol. Cell, 2019). Notably, the polar transcriptome is unique, enriched in specific mRNAs and most small RNAs (sRNAs).
+            sRNA: We demonstrated a polygenic plan for sRNA-mediated regulation, explaining the subtle effects of specific sRNA deletions (iScience, 2021). We also found that sRNAs are accompanied by their chaperone Hfq, which undergoes phase separation at the poles, a process essential for its activity (Cell Rep, 2022). Multiomic analyses suggest compartmentalization of certain metabolic pathways, including ATP production, in these regions.
+            mRNA: We recently showed that the pole-to-pole oscillating MinD protein and RNase E control mRNA enrichment at the poles by preventing site-specific degradation. Mislocalization of polar mRNAs may disrupt protein localization, indicating localized translation in bacteria (EMBO J, 2024).
+            Coupled transcription-translation (CTT): We developed a method to map the transcriptome-wide CTT landscape in three model organisms at near-single codon resolution. Our results indicate that significant gene expression occurs without CTT and identify factors influencing CTT dynamics. 
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf
+            <a href="https://amsterchoder.huji.ac.il/">https://amsterchoder.huji.ac.il/
             </a>
 
     <!--
@@ -230,10 +233,10 @@ permalink: /
     </li>
     <li class="one_third" style="border-left:-5px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> We are thrilled to present the <strong> 2024 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
+            <p style="padding-top:10px"> We are thrilled to present the <strong> 2025 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China): 2025-2-17 16:00 <br>
+            Time (China): 2025-3-27 16:00 <br>
             Zoom meeting: 893 0005 4861 <br>
             Passcode: 123456<br> 
             Zoom meeting link: 
@@ -250,7 +253,7 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Feb. 17th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Mar. 27th 2025!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
