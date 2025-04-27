@@ -215,15 +215,13 @@ permalink: /
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Orna Amster-Choder</strong>, Full Professor, Faculty of Medicine, Department of Microbiology and Molecular Genetics – The Hebrew University, Jerusalem, Israel, will give a talk on <strong>Revisiting the dogma on bacterial transcriptome organization: implications on gene expression</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Chengqi Yi</strong>, Full Professor, School of Life Sciences, Peking University
+            , will give a talk on <strong>Precise RNA targeting and manipulation</strong>.
             <br><br>
-            Our finding that bacterial RNAs can localize to different cellular domains independently of translation (Science, 2011) challenged the dogma that transcription and translation are always coupled. Analysis of the E. coli transcriptome revealed that a significant fraction localizes asymmetrically, often correlating with proteome distribution and independent of translation (Mol. Cell, 2019). Notably, the polar transcriptome is unique, enriched in specific mRNAs and most small RNAs (sRNAs).
-            sRNA: We demonstrated a polygenic plan for sRNA-mediated regulation, explaining the subtle effects of specific sRNA deletions (iScience, 2021). We also found that sRNAs are accompanied by their chaperone Hfq, which undergoes phase separation at the poles, a process essential for its activity (Cell Rep, 2022). Multiomic analyses suggest compartmentalization of certain metabolic pathways, including ATP production, in these regions.
-            mRNA: We recently showed that the pole-to-pole oscillating MinD protein and RNase E control mRNA enrichment at the poles by preventing site-specific degradation. Mislocalization of polar mRNAs may disrupt protein localization, indicating localized translation in bacteria (EMBO J, 2024).
-            Coupled transcription-translation (CTT): We developed a method to map the transcriptome-wide CTT landscape in three model organisms at near-single codon resolution. Our results indicate that significant gene expression occurs without CTT and identify factors influencing CTT dynamics. 
+            As a central molecule in the flow of genetic information, RNA plays essential roles in cellular processes including protein synthesis, gene regulation, and signalling. The presenter has long been dedicated to research in RNA chemical biology, focusing on the development of RNA modification detection technologies, the functional investigation of RNA modifications, and the application of RNA modification-based interventions in physiological and pathological conditions, achieving a series of significant findings. Regarding the development of RNA modification detection technologies, various methods have been developed for the quantitative and unbiased detection of multiple RNA modifications, such as m6A, m6Am, and Ψ, based on specific enzymatic reactions and chemical small-molecule catalytic systems. In terms of the functional study of RNA modifications, the roles and mechanisms of pseudouridine and m1A modifications have been elucidated in various physiological and pathological processes, including cancer, aging, and immune responses. Furthermore, in the context of RNA modification-based interventions, an efficient base editor has been developed for effective RNA editing, and preliminary explorations into therapeutic strategies for genetic diseases have been conducted. 
             <br><br>
             For more information about her outstanding work, please visit her profile at
-            <a href="https://amsterchoder.huji.ac.il/">https://amsterchoder.huji.ac.il/
+            <a href="https://www.chem.pku.edu.cn/sfbc/zxcy/pi/894370.htm">https://www.chem.pku.edu.cn/sfbc/zxcy/pi/894370.htm
             </a>
 
     <!--
@@ -236,11 +234,11 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2025 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China): 2025-3-27 16:00 <br>
-            Zoom meeting: 893 0005 4861 <br>
-            Passcode: 123456<br> 
-            Zoom meeting link: 
-            <a href="https://us06web.zoom.us/j/89300054861?pwd=TZbjJuSwrz4lTdg8yKCwDKKDDzqwNe.1 ">https://us06web.zoom.us/j/89300054861?pwd=TZbjJuSwrz4lTdg8yKCwDKKDDzqwNe.1 </a> <br>
+            Time (China): 2025-5-7 10:00 <br>
+            Tencent ID: 618-605-909 <br>
+            <!-- Passcode: 123456<br>  -->
+            Tencent meeting link: 
+            <a href="https://meeting.tencent.com/dm/Bw9Wv6V8ISfl">https://meeting.tencent.com/dm/Bw9Wv6V8ISfl</a> <br>
         
             <!--
             Time (ET): 2024-12-17  8:30 AM <br>
