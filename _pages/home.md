@@ -211,14 +211,16 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250507_伊成器教授.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250530_杨建益.jpg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Chengqi Yi</strong>, Full Professor, School of Life Sciences, Peking University
-            , will give a talk on <strong>Precise RNA targeting and manipulation</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Jianyi Yang</strong>, Recipient of the National Natural Science Foundation of China's Distinguished Young Scientist Fund
+            Research Center for Mathematics and Interdisciplinary Sciences, Shandong University.  <strong>Dr. Wenkai Wang</strong>, Outstanding Postdoctoral Fellow at Shandong University
+            Research Center for Mathematics and Interdisciplinary Sciences, Shandong University  
+            , will give a talk on <strong>AI empowers RNA structure prediction</strong>.
             <br><br>
-            As a central molecule in the flow of genetic information, RNA plays essential roles in cellular processes including protein synthesis, gene regulation, and signalling. The presenter has long been dedicated to research in RNA chemical biology, focusing on the development of RNA modification detection technologies, the functional investigation of RNA modifications, and the application of RNA modification-based interventions in physiological and pathological conditions, achieving a series of significant findings. Regarding the development of RNA modification detection technologies, various methods have been developed for the quantitative and unbiased detection of multiple RNA modifications, such as m6A, m6Am, and Ψ, based on specific enzymatic reactions and chemical small-molecule catalytic systems. In terms of the functional study of RNA modifications, the roles and mechanisms of pseudouridine and m1A modifications have been elucidated in various physiological and pathological processes, including cancer, aging, and immune responses. Furthermore, in the context of RNA modification-based interventions, an efficient base editor has been developed for effective RNA editing, and preliminary explorations into therapeutic strategies for genetic diseases have been conducted. 
+            Compared to protein structures, RNA structures exhibit greater complexity and flexibility, making their experimental determination and theoretical prediction significantly more challenging than those of proteins. Inspired by advances in protein structure prediction, our research group has developed AI-based methods for RNA structure prediction, namely trRosettaRNA and its improved version trRosettaRNA2. In this report, we will present the recent progress in this area. 
             <br><br>
             For more information about her outstanding work, please visit her profile at
             <a href="https://www.chem.pku.edu.cn/sfbc/zxcy/pi/894370.htm">https://www.chem.pku.edu.cn/sfbc/zxcy/pi/894370.htm
@@ -234,11 +236,11 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2025 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China): 2025-5-7 10:00 <br>
-            Tencent ID: 618-605-909 <br>
+            Time (China): 2025-5-30 19:30 <br>
+            Tencent ID: 870-187-080 <br>
             <!-- Passcode: 123456<br>  -->
             Tencent meeting link: 
-            <a href="https://meeting.tencent.com/dm/Bw9Wv6V8ISfl">https://meeting.tencent.com/dm/Bw9Wv6V8ISfl</a> <br>
+            <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>
         
             <!--
             Time (ET): 2024-12-17  8:30 AM <br>
@@ -251,7 +253,7 @@ permalink: /
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May. 7th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May. 30th 2025!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
