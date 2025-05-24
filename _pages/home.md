@@ -222,7 +222,7 @@ permalink: /
             <br><br>
             Compared to protein structures, RNA structures exhibit greater complexity and flexibility, making their experimental determination and theoretical prediction significantly more challenging than those of proteins. Inspired by advances in protein structure prediction, our research group has developed AI-based methods for RNA structure prediction, namely trRosettaRNA and its improved version trRosettaRNA2. In this report, we will present the recent progress in this area. 
             <br><br>
-            For more information about her outstanding work, please visit his profile at
+            For more information about his outstanding work, please visit his profile at
             <a href="http://yanglab.qd.sdu.edu.cn/">http://yanglab.qd.sdu.edu.cn/
             </a>
 
