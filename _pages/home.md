@@ -229,7 +229,7 @@ permalink: /
             <br><br>
             The bacterial pathogen Listeria monocytogenes is well known for its amazing capacity to infect cells and tissues. Listeria is also a paradigm in RNA-mediated regulation. First, it coordinates expression of its major virulence factors by a thermosensor.  In addition,  it is a champion in ribo-regulation. Some  riboswitches regulate the synthesis of non-coding RNAs in an original way to control metabolite utilization in the gut. Other riboregutors provide antibiotic resistance in presence of antibiotics. We also discovered a novel type of regulation by excludons. The talk will illustrate  some of these fascinating RNA-mediated regulations.
             <br><br>
-            For more information about his outstanding work, please visit his profile at
+            For more information about her outstanding work, please visit her profile at
             <a href="https://research.pasteur.fr/en/member/pascale-cossart/">https://research.pasteur.fr/en/member/pascale-cossart/
             </a>
 
