@@ -246,8 +246,8 @@ permalink: /
             <!-- Time (China): 2025-6-13 16:00 <br>
             Tencent ID: 870-187-080 <br>
             <!-- Passcode: 123456<br>  -->
-            Tencent meeting link: 
-            <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br> -->
+            <!-- Tencent meeting link: 
+            <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
         
             
             Time (ET): 2025-06-13  10:00 AM <br>
