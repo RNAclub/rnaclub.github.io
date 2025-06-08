@@ -211,19 +211,26 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250530_杨建益.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250613_Pascale Cossart.jpg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Jianyi Yang</strong>, Recipient of the National Natural Science Foundation of China's Distinguished Young Scientist Fund
-            Research Center for Mathematics and Interdisciplinary Sciences, Shandong University.  <strong>Dr. Wenkai Wang</strong>, Outstanding Postdoctoral Fellow at Shandong University
-            Research Center for Mathematics and Interdisciplinary Sciences, Shandong University  
-            , will give a talk on <strong>AI empowers RNA structure prediction</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Pascale Cossart</strong>, Emeritus Professor at the renowned Pasteur Institute in Paris, 
+            Corresponding member, French Academy of Sciences
+            Member, German Academy of Sciences Leopoldina
+            Foreign member, Royal Society of London
+            Member of the European Academy of Microbiology
+            Foreign Member of the National Academy of Medicine (NAM), USA
+            Member, American Academy of Microbiology
+            Associated member of the Académie Nationale de Pharmacie, Paris
+            Commandeur of the Ordre national du Mérite  
+            , will give a talk on <strong>RNA-mediated regulation in Listeria monocytogenes：from virulence regulation to antibiotic resistance
+            </strong>.
             <br><br>
-            Compared to protein structures, RNA structures exhibit greater complexity and flexibility, making their experimental determination and theoretical prediction significantly more challenging than those of proteins. Inspired by advances in protein structure prediction, our research group has developed AI-based methods for RNA structure prediction, namely trRosettaRNA and its improved version trRosettaRNA2. In this report, we will present the recent progress in this area. 
+            The bacterial pathogen Listeria monocytogenes is well known for its amazing capacity to infect cells and tissues. Listeria is also a paradigm in RNA-mediated regulation. First, it coordinates expression of its major virulence factors by a thermosensor.  In addition,  it is a champion in ribo-regulation. Some  riboswitches regulate the synthesis of non-coding RNAs in an original way to control metabolite utilization in the gut. Other riboregutors provide antibiotic resistance in presence of antibiotics. We also discovered a novel type of regulation by excludons. The talk will illustrate  some of these fascinating RNA-mediated regulations.
             <br><br>
             For more information about his outstanding work, please visit his profile at
-            <a href="http://yanglab.qd.sdu.edu.cn/">http://yanglab.qd.sdu.edu.cn/
+            <a href="https://research.pasteur.fr/en/member/pascale-cossart/">https://research.pasteur.fr/en/member/pascale-cossart/
             </a>
 
     <!--
@@ -236,24 +243,25 @@ permalink: /
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2025 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
             <br><br>
     -->
-            Time (China): 2025-5-30 19:30 <br>
+            <!-- Time (China): 2025-6-13 16:00 <br>
             Tencent ID: 870-187-080 <br>
             <!-- Passcode: 123456<br>  -->
             Tencent meeting link: 
-            <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>
+            <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br> -->
         
-            <!--
-            Time (ET): 2024-12-17  8:30 AM <br>
-            Zoom Meeting link:<a href="https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1">https://us06web.zoom.us/j/82220005195?pwd=Av3ogDbYghN2AqprdUPzdEhQaOXH.1</a> <br>
+            
+            Time (ET): 2025-06-13  10:00 AM <br>
+            Zoom Meeting link:<a href="https://us06web.zoom.us/j/83538073738?pwd=wDyK70IkEvRvVbSSC0eHPEgb3RjZBV.1">https://us06web.zoom.us/j/83538073738?pwd=wDyK70IkEvRvVbSSC0eHPEgb3RjZBV.1
+            </a> <br>
             Passcode: 123456<br> 
-            Tencent Meeting：https://meeting.tencent.com/dm/81A1lV82EKcJ<br>
-            -->
-            <!--Meeting Password: 123456<br> -->
+            Tencent Meeting：431-343-612<br>
+           
+            Meeting Password: 123456<br>
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May. 30th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Jun. 13th 2025!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
