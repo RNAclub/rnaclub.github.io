@@ -249,7 +249,7 @@ permalink: /
             <!-- Tencent meeting link: 
             <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
         
-            
+            <br>
             Time (ET): 2025-06-13  10:00 AM <br>
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/83538073738?pwd=wDyK70IkEvRvVbSSC0eHPEgb3RjZBV.1">https://us06web.zoom.us/j/83538073738?pwd=wDyK70IkEvRvVbSSC0eHPEgb3RjZBV.1
             </a> <br>
