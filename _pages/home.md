@@ -211,26 +211,20 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250613_Pascale Cossart.jpg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250801_张世华.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Pascale Cossart</strong>, Emeritus Professor at the renowned Pasteur Institute in Paris, 
-            Corresponding member, French Academy of Sciences
-            Member, German Academy of Sciences Leopoldina
-            Foreign member, Royal Society of London
-            Member of the European Academy of Microbiology
-            Foreign Member of the National Academy of Medicine (NAM), USA
-            Member, American Academy of Microbiology
-            Associated member of the Académie Nationale de Pharmacie, Paris
-            Commandeur of the Ordre national du Mérite  
-            , will give a talk on <strong>RNA-mediated regulation in Listeria monocytogenes：from virulence regulation to antibiotic resistance
-            </strong>.
+            <p style="padding-top:10px"> <strong>Prof. Shihua Zhang</strong>, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+            Section Editor of PLOS Computational Biology
+            Editorial Board Member of Genomics, Proteomics & Bioinformatics  
+            , will give a talk on <strong>Intelligent decoding of spatial biology
+            </strong>
             <br><br>
-            The bacterial pathogen Listeria monocytogenes is well known for its amazing capacity to infect cells and tissues. Listeria is also a paradigm in RNA-mediated regulation. First, it coordinates expression of its major virulence factors by a thermosensor.  In addition,  it is a champion in ribo-regulation. Some  riboswitches regulate the synthesis of non-coding RNAs in an original way to control metabolite utilization in the gut. Other riboregutors provide antibiotic resistance in presence of antibiotics. We also discovered a novel type of regulation by excludons. The talk will illustrate  some of these fascinating RNA-mediated regulations.
+            Technological advances in spatial transcriptomics are critical for better understanding the structures and functions of tissues in biological research. The combination of intelligent or statistical algorithms and spatial transcriptomics has emerged to pave the way for deciphering tissue architecture. We have made great efforts to advance intelligent spatial transcriptomics and developed a group of STA-tools such as STAGATE, STAligner, STAMarker, STAGE, STASCAN, STALocaor, and STAMapper. In this talk, I will take these tools as examples to introduce how to utilize deep learning to model spatial transcriptomics data effectively. Moreover, I will shed light on some recent progress in spatial multi-omics integration with STAMO, directionally or temporally variable gene detection with STAVAG, and high-fidelity simulation and full-view 3D modeling of spatial transcriptomics with STADiffuser.
             <br><br>
-            For more information about her outstanding work, please visit her profile at
-            <a href="https://research.pasteur.fr/en/member/pascale-cossart/">https://research.pasteur.fr/en/member/pascale-cossart/
+            For more information about his outstanding work, please visit his profile at
+            <a href="https://www.zhanglab-amss.org/homepage/index.html">https://www.zhanglab-amss.org/homepage/index.html
             </a>
 
     <!--
@@ -250,13 +244,13 @@ permalink: /
             <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
         
             <br>
-            Time (ET): 2025-06-13  10:00 AM <br>
-            Zoom Meeting link:<a href="https://us06web.zoom.us/j/83538073738?pwd=wDyK70IkEvRvVbSSC0eHPEgb3RjZBV.1">https://us06web.zoom.us/j/83538073738?pwd=wDyK70IkEvRvVbSSC0eHPEgb3RjZBV.1
+            Time (ET): 2025-08-01  15:00 PM <br>
+            Tencent Meeting link:<a href="https://meeting.tencent.com/dm/tNuxLGkp8EAO">https://meeting.tencent.com/dm/tNuxLGkp8EAO
             </a> <br>
             Passcode: 123456<br> 
-            Tencent Meeting：431-343-612<br>
+            Tencent Meeting：638-172-19<br>
            
-            Meeting Password: 123456<br>
+            <!-- Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
