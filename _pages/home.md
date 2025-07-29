@@ -219,7 +219,7 @@ permalink: /
             Section Editor of PLOS Computational Biology
             Editorial Board Member of Genomics, Proteomics & Bioinformatics  
             , will give a talk on <strong>Intelligent decoding of spatial biology
-            </strong>
+            </strong>.
             <br><br>
             Technological advances in spatial transcriptomics are critical for better understanding the structures and functions of tissues in biological research. The combination of intelligent or statistical algorithms and spatial transcriptomics has emerged to pave the way for deciphering tissue architecture. We have made great efforts to advance intelligent spatial transcriptomics and developed a group of STA-tools such as STAGATE, STAligner, STAMarker, STAGE, STASCAN, STALocaor, and STAMapper. In this talk, I will take these tools as examples to introduce how to utilize deep learning to model spatial transcriptomics data effectively. Moreover, I will shed light on some recent progress in spatial multi-omics integration with STAMO, directionally or temporally variable gene detection with STAVAG, and high-fidelity simulation and full-view 3D modeling of spatial transcriptomics with STADiffuser.
             <br><br>
