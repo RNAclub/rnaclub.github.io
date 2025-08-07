@@ -47,7 +47,6 @@ RNA 定位模式：RNA 分子可在大肠杆菌细胞中定位于特定区域，
 <br><br>
 <br><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250327_Orna_Amster_Choder/2_1.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
-<div style="text-align:center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250327_Orna_Amster_Choder/2_2.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图2 对传统观点的重新审视
@@ -57,19 +56,18 @@ RNA 定位模式：RNA 分子可在大肠杆菌细胞中定位于特定区域，
 分级分离与测序：Rloc-Seq将细胞分离为膜、细胞质和极区组分，随后进行 RNA 测序。结果显示，大部分转录组呈现不对称分布，许多 mRNA 在各组分中显著富集。
 基因本体分析：分析表明各组分中富集不同功能的基因群。细胞膜组分中富集转运活性、外膜和脂多糖生物合成相关基因；细胞质组分中则存在 DNA 复制和糖酵解相关基因。
 翻译独立性：多数 mRNA 的定位不受翻译抑制的影响。例如，用抗生素（如卡斯托霉素）处理或进行移码突变，均未阻止 mRNA 定位于相应区域。
-
 <br><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250327_Orna_Amster_Choder/3.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图3 用于 Rloc-Seq 的细胞分离
 </div>
-<br><br>
+
 <br><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250327_Orna_Amster_Choder/4.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
 图4 大量 mRNA 在每个级分中显著过度表达
 </div>
-<br><br>
+
 <br><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250327_Orna_Amster_Choder/5.png" alt="drawing" style="weight:450px; height:450px;display:block;margin:0 auto;" />
 <div style="text-align:center">
@@ -111,7 +109,6 @@ sRNAs 被认为与抗生素耐药性有关。
 图9 sRNAs被认为对细菌的生理、致病和抗生素耐药性非常重要
 </div>
 
-<br><br>
 <br><br>
 三、非编码调控小RNA的组装在所有细胞类型中是一种普遍现象
 <br><br>
@@ -184,7 +181,7 @@ LLPS 是指分子溶液自发分离为两种不同密度的液相，形成无膜
 <br><br>
 总结
 <br><br>
-这场报告重新审视细菌转录组织传统理论。内容围绕细菌 RNA 定位、转录与翻译关系、极性相关 RNA 定位机制、sRNA 定位及作用、RNA 伴侣蛋白研究展开，指出细菌 mRNA 存在细胞质、膜、极区三种定位模式，且定位独立于翻译，转录与翻译机器空间分离。还探讨了 sRNA 功能、Hfq 蛋白应激响应及相分离现象，  为未来的相关研究提供新视角。
+这场报告重新审视细菌转录组织传统理论。内容围绕细菌 RNA 定位、转录与翻译关系、极性相关 RNA 定位机制、sRNA 定位及作用、RNA 伴侣蛋白研究展开，指出细菌mRNA存在细胞质、膜、极区三种定位模式，且定位独立于翻译，转录与翻译机器空间分离。还探讨了 sRNA 功能、Hfq 蛋白应激响应及相分离现象，  为未来的相关研究提供新视角。
 <br><br>
 <br><br>
 <br><br>
