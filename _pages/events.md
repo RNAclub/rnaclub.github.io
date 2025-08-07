@@ -379,13 +379,13 @@ permalink: /events/
   <div class="image">
     <div>
       <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20250327_Orna_Amster_Choder.html"><img src="{{ site.url }}{{ site.baseurl }}/images/events_pic/20250327_Orna_Amster_Choder/20250327_Orna_Amster_Choder.jpeg" /></a>
-      <span> 2025.01.17 </span>
+      <span> 2025.03.27 </span>
     </div>
   </div>
   <div class="details">
     <div>
-      <h1 id="time1">Yanli Wang - The RNA-guided arms race between bacteria and phage</h1>
-      <p id="p1"> CRISPR-Cas systems are adaptive immune systems found in bacteria or archaea that protect against the invading of mobile genetic elements (MGEs), such as phages and plasmids. To defend against foreign nucleic acids, CRISPR-Cas systems capture short DNA segments from invaders and insert them into the CRISPR array, thus recording a genetic snapshot of potential threats.  <a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20250327_Orna_Amster_Choder.html">(More...) </a> </p>
+      <h1 id="time1">Orna Amster-Choder - Revisiting the dogma on bacterial transcriptome organization: implications on gene expression</h1>
+      <p id="p1"> Our finding that bacterial RNAs can localize to different cellular domains independently of translation (Science, 2011) challenged the dogma that transcription and translation are always coupled. Analysis of the E. coli transcriptome revealed that a significant fraction localizes asymmetrically, often correlating with proteome distribution and independent of translation (Mol. Cell, 2019). Notably, the polar transcriptome is unique, enriched in specific mRNAs and most small RNAs (sRNAs).<a href="{{ site.url }}{{ site.baseurl }}/docs/events_docs/20250327_Orna_Amster_Choder.html">(More...) </a> </p>
     </div>
   </div>
 </div>
