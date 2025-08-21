@@ -211,20 +211,17 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250801_张世华.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250827_shi-jie chen.jpg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Shihua Zhang</strong>, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-            Section Editor of PLOS Computational Biology
-            Editorial Board Member of Genomics, Proteomics & Bioinformatics  
-            , will give a talk on <strong>Intelligent decoding of spatial biology
-            </strong>.
+            <p style="padding-top:10px"> <strong>Prof. Shi-Jie Chen</strong>, University of Missour  
+            , will give a talk on <strong>Advancing RNA Structure Prediction with Data-Driven Molecular Dynamics Simulations</strong>.
             <br><br>
-            Technological advances in spatial transcriptomics are critical for better understanding the structures and functions of tissues in biological research. The combination of intelligent or statistical algorithms and spatial transcriptomics has emerged to pave the way for deciphering tissue architecture. We have made great efforts to advance intelligent spatial transcriptomics and developed a group of STA-tools such as STAGATE, STAligner, STAMarker, STAGE, STASCAN, STALocaor, and STAMapper. In this talk, I will take these tools as examples to introduce how to utilize deep learning to model spatial transcriptomics data effectively. Moreover, I will shed light on some recent progress in spatial multi-omics integration with STAMO, directionally or temporally variable gene detection with STAVAG, and high-fidelity simulation and full-view 3D modeling of spatial transcriptomics with STADiffuser.
+            Emerging biomedical advances in precision medicine and synthetic biology highlight RNA’s central role as both a regulator and an information carrier.  Because an RNA’s function is dictated by its 3D structure and the structural changes it undergoes, research in this area focuses on predicting the structure along with stability, kinetics, and interactions with metal ions and other molecules from the nucleotide sequence. Key questions include: How can the native fold be built from the sequence? For a given RNA target, how can RNA–small molecule interactions be predicted and potential drug candidates identified?  Developing computational tools to address these questions remains challenging due to the limited RNA structural and binding data. To predict 3D structure from sequence, the Vfold pipeline was developed by integrating RNA structural data with statistical analysis and molecular dynamics simulations.  This approach led to Vfold being ranked #1 in the RNA category at the international CASP16 (Critical Assessment of Structure Prediction) competition for biomolecular structure predictions. The model offers a useful resource for gaining structure-based insights into RNA function and for accelerating RNA-targeted therapeutic discovery.
             <br><br>
             For more information about his outstanding work, please visit his profile at
-            <a href="https://www.zhanglab-amss.org/homepage/index.html">https://www.zhanglab-amss.org/homepage/index.html
+            <a href="https://physics.missouri.edu/people/chen">https://physics.missouri.edu/people/chen
             </a>
 
     <!--
@@ -244,18 +241,18 @@ permalink: /
             <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
         
             <br>
-            Time (ET): 2025-08-01  15:00 PM <br>
-            Tencent Meeting link:<a href="https://meeting.tencent.com/dm/tNuxLGkp8EAO">https://meeting.tencent.com/dm/tNuxLGkp8EAO
+            Time (ET): 2025-08-27  09:00 AM <br>
+            Zoom Meeting link:<a href="https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1">https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1
             </a> <br>
             Passcode: 123456<br> 
-            Tencent Meeting：638-172-19<br>
+            Tencent Meeting: 839 5628 3221<br>
            
             <!-- Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Jun. 13th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Aug. 27th 2025!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
