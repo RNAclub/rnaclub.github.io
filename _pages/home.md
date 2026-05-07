@@ -215,13 +215,12 @@ permalink: /
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Shi-Jie Chen</strong>, University of Missour  
-            , will give a talk on <strong>Advancing RNA Structure Prediction with Data-Driven Molecular Dynamics Simulations</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Huating Wang</strong>, The Chinese University of Hong Kong, will give a talk on <strong>Functional elucidation of G-quadruplexes in skeletal muscle stem cells</strong>.
             <br><br>
-            Emerging biomedical advances in precision medicine and synthetic biology highlight RNA’s central role as both a regulator and an information carrier.  Because an RNA’s function is dictated by its 3D structure and the structural changes it undergoes, research in this area focuses on predicting the structure along with stability, kinetics, and interactions with metal ions and other molecules from the nucleotide sequence. Key questions include: How can the native fold be built from the sequence? For a given RNA target, how can RNA–small molecule interactions be predicted and potential drug candidates identified?  Developing computational tools to address these questions remains challenging due to the limited RNA structural and binding data. To predict 3D structure from sequence, the Vfold pipeline was developed by integrating RNA structural data with statistical analysis and molecular dynamics simulations.  This approach led to Vfold being ranked #1 in the RNA category at the international CASP16 (Critical Assessment of Structure Prediction) competition for biomolecular structure predictions. The model offers a useful resource for gaining structure-based insights into RNA function and for accelerating RNA-targeted therapeutic discovery.
+            G-quadruplexes (G4s) are non-canonical secondary structures formed in guanine-rich DNA or RNA, stabilized by Hoogsteen hydrogen bonding. Our group studies how both RNA G4s (rG4s) and DNA G4s (dG4s) intrinsically regulate adult muscle stem cells (MuSCs, satellite cells). MuSCs are essential for muscle homeostasis and regeneration: they normally remain quiescent, but upon injury activate, proliferate as myoblasts, and either differentiate to repair muscle or self-renew to maintain the stem cell pool. This process is tightly controlled, and its dysregulation contributes to muscle diseases and age-related muscle decline. I will discuss our recent work on the roles of rG4s and dG4s in modulating MuSC activity during regeneration and aging.
             <br><br>
             For more information about his outstanding work, please visit his profile at
-            <a href="https://physics.missouri.edu/people/chen">https://physics.missouri.edu/people/chen
+            <a href="https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html">https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html
             </a>
     <!--<li class="_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
@@ -237,19 +236,20 @@ permalink: /
             <!-- Tencent meeting link: 
             <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
             <br>
-            Time (ET): 2025-08-27  09:00 AM <br>
-            Zoom Meeting link:<a href="https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1">https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1
+            Time (China): 2026-05-15  15:00 <br>
+            <!-- Zoom Meeting link:<a href="https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1">https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1
             </a> <br>
-            Passcode: 123456<br> 
-            Tencent Meeting: 839 5628 3221<br>
+            Passcode: 123456<br> -->
+            Tencent Meeting: 806-215-157<br>
+            Tencent meeting link: https://meeting.tencent.com/dm/OwFnL4g17hPB
             <!-- Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on Aug. 27th 2025!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 15th 2026!
             <br><br>
-            Thanks to the International RNA Society, 表观生物, 博奥龙, 新使生物 and LEXOGEN for their sponsorship support!
+            Thanks to the International RNA Society, 表观生物, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
             </p>
         </article>
