@@ -74,6 +74,22 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Huating Wang</font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html">The Chinese University of Hong Kong, China</a></li>
+            </ul>
+            <h6 class="heading" style="padding-top:10px">Functional elucidation of G-quadruplexes in skeletal muscle stem cells
+            </h6>
+            <p style="padding-top:10px"> G-quadruplexes (G4s) are non-canonical secondary structures formed in guanine-rich DNA or RNA, stabilized by Hoogsteen hydrogen bonding. Our group studies how both RNA G4s (rG4s) and DNA G4s (dG4s) intrinsically regulate adult muscle stem cells (MuSCs, satellite cells). MuSCs are essential for muscle homeostasis and regeneration: they normally remain quiescent, but upon injury activate, proliferate as myoblasts, and either differentiate to repair muscle or self-renew to maintain the stem cell pool.
+            [<a href="https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html">&hellip;</a>]</p>
+            <footer ><a href="#">Read More..</a></footer><br>
+          </div>
+          <time datetime="2023-11-24T13:30+14:30"><strong>15</strong> <em>MAY</em><em>2026</em></time>
+        </article>
+    </li>
+    <li class="one_half">
+        <article>
+          <div class="excerpt">
+            <ul class="nospace meta">
               <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Orna Amster-Choder</font></a></li>
               <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://amsterchoder.huji.ac.il/">Full Professor, Faculty of Medicine, Department of Microbiology and Molecular Genetics – The Hebrew University, Jerusalem, Israel</a></li>
             </ul>
@@ -85,23 +101,7 @@ permalink: /
           </div>
           <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>Mar</em><em>2025</em></time>
         </article>
-      </li>
-      <li class="one_half">
-        <article>
-          <div class="excerpt">
-            <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Yanli Wang</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">Key Laboratory of RNA Science and Engineering, Institute of Biophysics in CAS, China</a></li>
-            </ul>
-            <h6 class="heading" style="padding-top:10px">The RNA-guided arms race between bacteria and phage
-            </h6>
-            <p style="padding-top:10px"> CRISPR-Cas systems are adaptive immune systems found in bacteria or archaea that protect against the invading of mobile genetic elements (MGEs), such as phages and plasmids. To defend against foreign nucleic acids, CRISPR-Cas systems capture short DNA segments from invaders and insert them into the CRISPR array, thus recording a genetic snapshot of potential threats. The CRISPR locus is then transcribed and processed to generate CRISPR RNA (crRNA) that binds and guides the Cas protein effector complex to cleave the genome of the invader when it returns. To counteract CRISPR-Cas systems,
-            [<a href="https://ibp.cas.cn/kydw_157813/cxyjqtxmhdz/201912/t20191202_5447244.html">&hellip;</a>]</p>
-            <footer ><a href="#">Read More..</a></footer><br>
-          </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>17</strong> <em>Jan</em><em>2025</em></time>
-        </article>
-      </li>
+    </li>
       
    <!--<li class="one_half">
         <article>
@@ -211,7 +211,7 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/20250827_shi-jie chen.jpg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2026/20260515_Huating_Wang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
@@ -223,30 +223,25 @@ permalink: /
             For more information about his outstanding work, please visit his profile at
             <a href="https://physics.missouri.edu/people/chen">https://physics.missouri.edu/people/chen
             </a>
-
-    <!--
-    <li class="_third first" >
+    <!--<li class="_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-2.png" style="max-width: 48%;padding-left:0px;padding-right:5px;">
     </li>
     <li class="one_third" style="border-left:-5px solid #f0f0f0">
         <article>   
             <p style="padding-top:10px"> We are thrilled to present the <strong> 2025 online symposium </strong> organized by Guangzhou RNAclub! This event promises to be an enlightening and engaging experience for all attendees, providing a platform for knowledge sharing, networking, and fostering meaningful discussions within our community. Esteemed renowned experts will deliver captivating keynote speeches, sharing their insights and perspectives on the latest trends and advancements in RNA. 
-            <br><br>
-    -->
+            <br><br> -->
             <!-- Time (China): 2025-6-13 16:00 <br>
             Tencent ID: 870-187-080 <br>
-            <!-- Passcode: 123456<br>  -->
+            Passcode: 123456<br>  -->
             <!-- Tencent meeting link: 
             <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
-        
             <br>
             Time (ET): 2025-08-27  09:00 AM <br>
             Zoom Meeting link:<a href="https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1">https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1
             </a> <br>
             Passcode: 123456<br> 
             Tencent Meeting: 839 5628 3221<br>
-           
             <!-- Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
