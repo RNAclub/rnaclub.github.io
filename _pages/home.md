@@ -74,32 +74,32 @@ permalink: /
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Huating Wang</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html">The Chinese University of Hong Kong, China</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Yangming Wang </font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://www.ai.pku.edu.cn/info/1436/2891.htm">Peking University, China</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Functional elucidation of G-quadruplexes in skeletal muscle stem cells
+            <h6 class="heading" style="padding-top:10px">Decoding, Harnessing, and Manipulating RNA Pathways
             </h6>
-            <p style="padding-top:10px"> G-quadruplexes (G4s) are non-canonical secondary structures formed in guanine-rich DNA or RNA, stabilized by Hoogsteen hydrogen bonding. Our group studies how both RNA G4s (rG4s) and DNA G4s (dG4s) intrinsically regulate adult muscle stem cells (MuSCs, satellite cells). MuSCs are essential for muscle homeostasis and regeneration: they normally remain quiescent, but upon injury activate, proliferate as myoblasts, and either differentiate to repair muscle or self-renew to maintain the stem cell pool.
-            [<a href="https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html">&hellip;</a>]</p>
+            <p style="padding-top:10px"> RNA is not only a carrier of genetic information but also a core regulator of cellular function and fate. As our understanding of RNA structure, modifications, interactions, and dynamics deepens, RNA biology is shifting from discovery to precise manipulation. This talk covers our recent work on decoding, utilizing, and intervening in RNA pathways, including: new principles of cross-species functional conservation of long noncoding RNAs; an in situ dual-omics technique for simultaneous profiling of RNA-binding protein targets and single-cell transcriptomes; 
+            [<a href="https://www.ai.pku.edu.cn/info/1436/2891.htm">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>15</strong> <em>MAY</em><em>2026</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>June</em><em>2026</em></time>
         </article>
     </li>
     <li class="one_half">
         <article>
           <div class="excerpt">
             <ul class="nospace meta">
-              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Orna Amster-Choder</font></a></li>
-              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://amsterchoder.huji.ac.il/">Full Professor, Faculty of Medicine, Department of Microbiology and Molecular Genetics – The Hebrew University, Jerusalem, Israel</a></li>
+              <li><iconify-icon icon="mdi:user-box" style="color: #719B67;"></iconify-icon> <a href="#"><font size="3">Prof. Kun Qu </font></a></li>
+              <li><iconify-icon icon="mdi:tags" style="color: #719B67;"></iconify-icon> <a href="https://faculty.ustc.edu.cn/jukun/zh_CN/index.htm">University of Science and Technology of China (USTC), China</a></li>
             </ul>
-            <h6 class="heading" style="padding-top:10px">Revisiting the dogma on bacterial transcriptome organization: implications on gene expression
+            <h6 class="heading" style="padding-top:10px">Spatial omics imaging and intelligent analysis
             </h6>
-            <p style="padding-top:10px"> Our finding that bacterial RNAs can localize to different cellular domains independently of translation (Science, 2011) challenged the dogma that transcription and translation are always coupled. Analysis of the E. coli transcriptome revealed that a significant fraction localizes asymmetrically, often correlating with proteome distribution and independent of translation (Mol. Cell, 2019). Notably, the polar transcriptome is unique, enriched in specific mRNAs and most small RNAs (sRNAs). 
-            [<a href="https://graduate.technion.ac.il/wp-content/uploads/Moti-Choder.pdf">&hellip;</a>]</p>
+            <p style="padding-top:10px"> Spatial transcriptomics simultaneously captures gene expression and spatial location, aiding the study of tissue development and disease progression. We first developed BASSFISH, an imaging-based single-cell spatial omics method for high-throughput, large-scale, high-resolution transcript mapping. We then designed standardized analysis pipelines and benchmarked 16 integration algorithms for spatial and single-cell transcriptomics data (assessing accuracy, robustness, and computational efficiency), along with 14 modality prediction
+            [<a href="https://faculty.ustc.edu.cn/jukun/zh_CN/index.htm">&hellip;</a>]</p>
             <footer ><a href="#">Read More..</a></footer><br>
           </div>
-          <time datetime="2023-11-24T13:30+14:30"><strong>27</strong> <em>Mar</em><em>2025</em></time>
+          <time datetime="2023-11-24T13:30+14:30"><strong>22</strong> <em>MAY</em><em>2026</em></time>
         </article>
     </li>
       
@@ -211,16 +211,16 @@ permalink: /
     </div>
     <ul class="nospace group latest" style="padding-right:0px;">
     <li class="one_half first" >
-        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2026/20260515_Huating_Wang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2026/20260627_yangming_wang.jpeg" style="max-width: 80%;padding-left:0px;padding-right:0px;">
     </li>
     <li class="one_half" style="border-left:1px solid #f0f0f0">
         <article>   
-            <p style="padding-top:10px"> <strong>Prof. Huating Wang</strong>, The Chinese University of Hong Kong, will give a talk on <strong>Functional elucidation of G-quadruplexes in skeletal muscle stem cells</strong>.
+            <p style="padding-top:10px"> <strong>Prof. Yangming Wang</strong>, Peking University, will give a talk on <strong>Decoding, Harnessing, and Manipulating RNA Pathways</strong>.
             <br><br>
-            G-quadruplexes (G4s) are non-canonical secondary structures formed in guanine-rich DNA or RNA, stabilized by Hoogsteen hydrogen bonding. Our group studies how both RNA G4s (rG4s) and DNA G4s (dG4s) intrinsically regulate adult muscle stem cells (MuSCs, satellite cells). MuSCs are essential for muscle homeostasis and regeneration: they normally remain quiescent, but upon injury activate, proliferate as myoblasts, and either differentiate to repair muscle or self-renew to maintain the stem cell pool. This process is tightly controlled, and its dysregulation contributes to muscle diseases and age-related muscle decline. I will discuss our recent work on the roles of rG4s and dG4s in modulating MuSC activity during regeneration and aging.
+            RNA is not only a carrier of genetic information but also a core regulator of cellular function and fate. As our understanding of RNA structure, modifications, interactions, and dynamics deepens, RNA biology is shifting from discovery to precise manipulation. This talk covers our recent work on decoding, utilizing, and intervening in RNA pathways, including: new principles of cross-species functional conservation of long noncoding RNAs; an in situ dual-omics technique for simultaneous profiling of RNA-binding protein targets and single-cell transcriptomes; a low-perturbation platform for monitoring noncoding RNA transcription; and precision intervention strategies integrating AI, gene editing, and small molecules. Our findings have been published in Nature Methods, Nature Structural & Molecular Biology, Nature Biotechnology, and Nature Genetics. Using case studies, I will discuss key scientific questions, technological innovation, and future applications in biomedicine.
             <br><br>
             For more information about his outstanding work, please visit his profile at
-            <a href="https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html">https://www.ort.cuhk.edu.hk/staff-wanghuating_sc.html
+            <a href="https://www.ai.pku.edu.cn/info/1436/2891.htm">https://www.ai.pku.edu.cn/info/1436/2891.htm
             </a>
     <!--<li class="_third first" >
         <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/20240710_RNAclub_2024-1.png" style="max-width: 48%;padding-left:0px;padding-right:0px;">
@@ -236,18 +236,18 @@ permalink: /
             <!-- Tencent meeting link: 
             <a href="https://meeting.tencent.com/dm/cyzDbKXpOwJs">https://meeting.tencent.com/dm/cyzDbKXpOwJs</a> <br>  -->
             <br>
-            Time (China): 2026-05-15  15:00 <br>
+            Time (China): 2026-06-27  10:00 <br>
             <!-- Zoom Meeting link:<a href="https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1">https://us06web.zoom.us/j/83956283221?pwd=jkdf7vkwlivpb5vS2yhx0i8uTsInwC.1
             </a> <br>
             Passcode: 123456<br> -->
-            Tencent Meeting: 806-215-157<br>
-            Tencent meeting link: https://meeting.tencent.com/dm/OwFnL4g17hPB<br>
+            Tencent Meeting: 359-851-451<br>
+            Tencent meeting link: https://meeting.tencent.com/dm/ICdQl6vgl0dN<br>
             <!-- Meeting Password: 123456<br> -->
             <!--Address: Building B2, 201 room, Guangzhou Laboratory<br>-->
             <!--Address: Room 102, Lecture Hall, Building 2, School of Life Sciences, Sun Yat-sen University<br>-->
             bilibili live link:
             <a href="https://live.bilibili.com/26427894">https://live.bilibili.com/26427894</a> <br>
-            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on May 15th 2026!
+            Welcome to follow the Guangzhou RNA club official account GzRNA, we will see you on June 26th 2026!
             <br><br>
             Thanks to the International RNA Society, 表观生物, 新使生物 and LEXOGEN for their sponsorship support!
             <br><br>
